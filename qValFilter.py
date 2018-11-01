@@ -11,7 +11,7 @@ print(path)
 print(os.listdir())
 
 
-fn = 'seq_sample_copy.fastq'
+fn = 'seq_sample.fastq'
 with open(fn) as f:
     content = f.readlines()
     # remove trailing whitespace characters
@@ -35,12 +35,12 @@ def qValues(read_1, read_2):
 
 
 def writeToPasses(passes):
-    with open('passes6.txt', 'w') as f_pass:
+    with open('passes_1.txt', 'w') as f_pass:
         f_pass.write(passes)
 
 
 def writeToFails(fails):
-    with open('fails6.txt', 'w') as f_fail:
+    with open('fails_1.txt', 'w') as f_fail:
         f_fail.write(fails)
 
 
