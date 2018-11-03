@@ -35,12 +35,12 @@ def qValues(read_1, read_2):
 
 
 def writeToPasses(passes):
-    with open('passes_1.txt', 'w') as f_pass:
+    with open('passes_2.txt', 'w') as f_pass:
         f_pass.write(passes)
 
 
 def writeToFails(fails):
-    with open('fails_1.txt', 'w') as f_fail:
+    with open('fails_2.txt', 'w') as f_fail:
         f_fail.write(fails)
 
 
