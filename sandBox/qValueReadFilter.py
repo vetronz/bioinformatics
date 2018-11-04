@@ -1,62 +1,84 @@
 
-fn = 'seq_sample.fastq'
-with open(fn) as f:
-    content = f.readlines()
-    # remove trailing whitespace characters
-    content = [x.strip() for x in content]
+# open the seq_sample.fastq file and reads into data variable line by line
+file_name = 'seq_sample.fastq'
+with open(file_name) as f:
+    data = f.readlines()
+    # remove trailing whitespace characters line by line
+    data = [x.strip() for x in data]
 
-# takes in both paired reads and outputs the average Q score for each read
+
+# qValues function takes as input both paired reads and returns Q value of each read respectively.
+
+
 def qValues(read_1, read_2):
     total_1 = 0
     total_2 = 0
-
+    # interates over each nucleotide in read, calculating its Illumina quality score.
+    # The total is recorded in total variables
     for i in read_1:
         total_1 += ord(i)-64
-    read_1_avg = total_1/len(read_1)
 
     for i in read_2:
         total_2 += ord(i)-64
+    # average is found by dividing by total
+    read_1_avg = total_1/len(read_1)
     read_2_avg = total_2/len(read_2)
 
     return read_1_avg, read_2_avg
 
+
+# processRead converts data back into fastq consistent format
+
+
 def processRead(read_list):
+    # unpacks the list of reads for each line in read back into a single list
     flat_list = [line for read in read_list for line in read]
+    # re-adds new line character to end of each line
     newLine_list = [line+'\n' for line in flat_list]
+    # removes commas separating each line
     processed_list = ''.join(newLine_list)
     return processed_list
 
 
+# Writes the passed reads to .txt file "passes.txt"
+
+
 def writeToFile(passes, fails):
-    with open('passes.txt', 'w') as f_pass:
+    with open('passes_1.txt', 'w') as f_pass:
         f_pass.write(passes)
 
-    with open('fails.txt', 'w') as f_fail:
+# Writes the failed reads to .txt file "fails.txt"
+    with open('fails_1.txt', 'w') as f_fail:
         f_fail.write(fails)
 
 
+# creates list of 94 paired reads each containing 8 lines
 paired_reads = []
 x, y = 0, 8
 while y <= 752:
-    paired_reads.append(content[x:y:])
+    paired_reads.append(data[x:y:])
     x += 8
     y += 8
 
-
+# creates empty lists that we will append to after passing reads to qValues function
 passed_reads = []
 failed_reads = []
 
+# iterates over each paired read and pulls out the quality scores which are fed to qValues function
 for read in paired_reads:
     read_1 = read[3]
     read_2 = read[7]
     read_1_avg, read_2_avg = qValues(read_1, read_2)
 
+    # if average quality of both reads exceeds or equals our threshold we add to passed reads else we add to failed reads.
     if read_1_avg >= 30 and read_2_avg >= 30:
         passed_reads.append(read)
     else:
         failed_reads.append(read)
 
+# we process each list to re instate fastq format
 passed_fastq = processRead(passed_reads)
 failed_fastq = processRead(failed_reads)
 
+# each list is written to a separate file.
 writeToFile(passed_fastq, failed_fastq)

@@ -1,3 +1,12 @@
-'body':
-  'ctrl-tab': 'pane:show-next-item'
-  'ctrl-shift-tab': 'pane:show-previous-item'
+
+
+git config --global user.name "vetronz"
+git config --global user.email "patrickhedleymiller@gmail.com"
+
+git status
+git add "fileName.txt"
+git commit -m "first commit" fileName.txt
+git push -u origin master
+
+git reset - removes any added files
+
