@@ -7,8 +7,6 @@ with open(file_name) as f:
     data = [x.strip() for x in data]
 
 # qValues function takes as input the Q values of each of the paired reads and returns the average Q value of the read
-
-
 def qValues(read_1, read_2):
     total_1 = 0
     total_2 = 0
