@@ -1,0 +1,17 @@
+
+source /project/soft/setup
+
+
+
+less /project/soft/linux64/RepeatMasker/repeatmasker.help
+
+
+module load repeatmasker
+module load blast
+
+
+
+RepeatMasker -X -lib /project/data/blastdb/MScRepeats.lib  fungal_18.fa 
+
+
+
