@@ -1,0 +1,5 @@
+rep
+
+ena_est
+
+ref_seq hits are similar with both normal and masked ? related to masking of transcriptome does not return many hits as transcribed genes are not affected.

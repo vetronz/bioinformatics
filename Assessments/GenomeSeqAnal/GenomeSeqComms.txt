@@ -13,5 +13,20 @@ module load blast
 
 RepeatMasker -X -lib /project/data/blastdb/MScRepeats.lib  fungal_18.fa 
 
+RepeatMasker -lib /project/data/blastdb/MScRepeats.lib  fungal_18.fa
 
 
+
+# blast search databases
+ls -l /project/data/blastdb/*.nal
+
+
+# run blast with unmasked fungal against each blast DB
+blastn -query fungal_18.fa -db ena_std_fun -out fungal.fa.blastn.ena_std_fun
+blastn -query fungal_18.fa -db ena_est_fun -out fungal.fa.blastn.ena_est_fun
+blastn -query fungal_18.fa -db refseq_rna_fungi -out fungal.fa.blastn.refseq_rna_fungi
+
+
+blastn -query fungal_18.fa.masked -db ena_std_fun -out fungal.fa.masked.blastn.ena_std_fun
+blastn -query fungal_18.fa.masked -db ena_est_fun -out fungal.fa.masked.blastn.ena_est_fun
+blastn -query fungal_18.fa.masked -db refseq_rna_fungi -out fungal.fa.masked.blastn.refseq_rna_fungi
