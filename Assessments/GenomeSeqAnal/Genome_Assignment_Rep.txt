@@ -3,3 +3,43 @@ rep
 ena_est
 
 ref_seq hits are similar with both normal and masked ? related to masking of transcriptome does not return many hits as transcribed genes are not affected.
+
+
+
+
+
+
+Annotation by homology 
+
+ENA EST
+hits presetn both unmasked and masked
+AF175521 AF175521.1 Emericella nidulans UBI1 (ubi1) mRNA, compl...  307     1e-79
+CP023326 CP023326.1 Cordyceps militaris strain ATCC 34164 chrom...  265     6e-67
+AB035543 AB035543.1 Arthroderma otae mRNA for ubiquitin, comple...  220     1e-53
+HQ232400 HQ232400.1 Beauveria bassiana clone BbUbi ubiquitin mR...  148     7e-32
+BN001303 BN001303.1 TPA: Aspergillus nidulans FGSC A4 chromosom...  124     1e-24
+
+
+ENA STD
+hits present on both unmasked and masked seq
+
+GT062079 GT062079.1 AGENCOURT_103777444 DH14 Conidia Blumeria g...  924     0.0		# 7303 - 7810 
+
+FK939828 FK939828.1 DG_9503 Blumeria graminis cDNA from mixed b...  712     0.0		# 12693 - 13080
+
+AW789136 AW789136.1 C00943-F Lambda Zap, Stratagene Blumeria gr...  710     0.0		# 12790 - 13180
+
+GT063807 GT063807.1 AGENCOURT_103645546 DH14 3dpi Blumeria gram...  708     0.0 	# 370 - 752
+
+AW788325 AW788325.1 C00358-R Lambda Zap, Stratagene Blumeria gr...  588     2e-164	# 12693 - 13027
+
+FK939826 FK939826.1 DG_860 Blumeria graminis cDNA from mixed ba...  525     2e-145	# 12355 - 12646
+
+FE534935 FE534935.1 MF56-11_M13F-H01 FL, mycelia grown in Flies...  322     2e-84	# 378 - 727
+
+
+
+
+
+Ref Seq
+
