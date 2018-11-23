@@ -1,3 +1,6 @@
+source /bioinformatics/setup linux
+
+source  /bioinformatics/setup  python3
 
 source /project/soft/setup
 

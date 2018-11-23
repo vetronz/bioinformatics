@@ -1,0 +1,29 @@
+##gff-version 2
+##date 2018-11-23
+##sequence-region fungal_18.fa
+fungal_18	RepeatMasker	similarity	1073	1139	25.4	+	.	Target "Motif:blumeria_Grouper_23559_3" 1520 1586
+fungal_18	RepeatMasker	similarity	1224	1317	27.5	+	.	Target "Motif:blumeria_Grouper_21070_3" 511 593
+fungal_18	RepeatMasker	similarity	1321	1696	22.0	-	.	Target "Motif:blumeria_Piler_266.31_4" 1 386
+fungal_18	RepeatMasker	similarity	1704	2297	19.8	+	.	Target "Motif:blumeria_Grouper_24008_6" 95 668
+fungal_18	RepeatMasker	similarity	2111	2319	22.3	-	.	Target "Motif:blumeria_Grouper_21889_3" 1271 1479
+fungal_18	RepeatMasker	similarity	2635	2662	31.1	-	.	Target "Motif:blumeria_Grouper_28830_3" 140 225
+fungal_18	RepeatMasker	similarity	2663	2723	23.7	+	.	Target "Motif:blumeria_Grouper_15628_3" 27 85
+fungal_18	RepeatMasker	similarity	2751	2840	 4.4	-	.	Target "Motif:blumeria_Grouper_27110_3" 6 95
+fungal_18	RepeatMasker	similarity	2850	2959	24.1	-	.	Target "Motif:blumeria_Grouper_28830_3" 5519 5629
+fungal_18	RepeatMasker	similarity	3033	3387	27.4	+	.	Target "Motif:blumeria_Grouper_1016_3" 49 390
+fungal_18	RepeatMasker	similarity	3411	4140	24.1	-	.	Target "Motif:blumeria_Recon_735_17" 1544 2299
+fungal_18	RepeatMasker	similarity	4133	4228	15.0	+	.	Target "Motif:blumeria_Recon_1691_5" 208 283
+fungal_18	RepeatMasker	similarity	4524	4614	 6.6	-	.	Target "Motif:blumeria_Piler_294.4_3" 428 518
+fungal_18	RepeatMasker	similarity	4620	4688	13.2	+	.	Target "Motif:blumeria_Recon_2904_15" 5370 5437
+fungal_18	RepeatMasker	similarity	4632	4973	13.2	-	.	Target "Motif:blumeria_Recon_2382_3" 171 367
+fungal_18	RepeatMasker	similarity	4684	5707	 7.2	+	.	Target "Motif:blumeria_Grouper_16796_6" 1 1038
+fungal_18	RepeatMasker	similarity	5464	5752	20.6	-	.	Target "Motif:blumeria_Recon_253_7" 2716 3014
+fungal_18	RepeatMasker	similarity	5713	5775	 1.6	+	.	Target "Motif:blumeria_Piler_242.51_4" 184 246
+fungal_18	RepeatMasker	similarity	5762	5843	12.2	+	.	Target "Motif:blumeria_Recon_2952_4" 878 964
+fungal_18	RepeatMasker	similarity	5773	6872	 2.2	-	.	Target "Motif:blumeria_Piler_0.82_20" 140 1258
+fungal_18	RepeatMasker	similarity	6867	7007	14.9	+	.	Target "Motif:blumeria_Piler_242.51_4" 233 374
+fungal_18	RepeatMasker	similarity	7213	7287	17.6	-	.	Target "Motif:blumeria_Recon_2611_7" 5104 5179
+fungal_18	RepeatMasker	similarity	9846	9990	 0.7	-	.	Target "Motif:blumeria_Grouper_15244_13" 1 145
+fungal_18	RepeatMasker	similarity	9848	10027	21.6	-	.	Target "Motif:blumeria_Grouper_14563_4" 5 195
+fungal_18	RepeatMasker	similarity	13225	13460	21.3	-	.	Target "Motif:blumeria_Recon_1213_6" 656 903
+fungal_18	RepeatMasker	similarity	13283	13836	14.1	+	.	Target "Motif:blumeria_Piler_48.63_8" 38 623
