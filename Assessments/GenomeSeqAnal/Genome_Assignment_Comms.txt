@@ -1,13 +1,14 @@
 
 source /project/soft/setup
 
+module load repeatmasker
+module load blast
 
 
 less /project/soft/linux64/RepeatMasker/repeatmasker.help
 
 
-module load repeatmasker
-module load blast
+
 
 
 
@@ -36,12 +37,19 @@ blastn -query fungal_18.fa.masked -db refseq_rna_fungi -out fungal.fa.masked.bla
 
 
 
-# run blast with unmasked fungal against protein DB
-
-blastx -query fungal_18.fa -db refseq_protein_fungi -out fungal.fa.refseq_protein_fungi
+# run blast with UNmasked fungal against protein DB
 
 blastx -query fungal_18.fa -db uniprot_sprot -out  fungal.fa.uniprot_sprot
 
 blastx -query fungal_18.fa -db uniprot_trembl_fungi -out fungal.fa.uniprot_trembl
 
+blastx -query fungal_18.fa -db refseq_protein_fungi -out fungal.fa.refseq_protein_fungi
 
+
+# run blast with Masked fungal against protein DB
+
+blastx -query fungal_18.fa.masked -db uniprot_sprot -out  fungal.fa.masked.uniprot_sprot
+
+blastx -query fungal_18.fa.masked -db uniprot_trembl_fungi -out fungal.fa.masked.uniprot_trembl
+
+blastx -query fungal_18.fa.masked -db refseq_protein_fungi -out fungal.fa.masked.refseq_protein_fungi

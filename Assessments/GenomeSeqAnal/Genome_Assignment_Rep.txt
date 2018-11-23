@@ -9,10 +9,12 @@ ref_seq hits are similar with both normal and masked ? related to masking of tra
 
 
 
-Annotation by homology 
+ANNOTATION BY HOMOLOGY
 
+NUCLEOTIDE BLAST
 ENA EST
 hits presetn both unmasked and masked
+
 AF175521 AF175521.1 Emericella nidulans UBI1 (ubi1) mRNA, compl...  307     1e-79
 CP023326 CP023326.1 Cordyceps militaris strain ATCC 34164 chrom...  265     6e-67
 AB035543 AB035543.1 Arthroderma otae mRNA for ubiquitin, comple...  220     1e-53
@@ -42,4 +44,29 @@ FE534935 FE534935.1 MF56-11_M13F-H01 FL, mycelia grown in Flies...  322     2e-8
 
 
 Ref Seq
+same hits for masked and unmasked 
 
+XM_018205144.1 Phialocephala scopiformis putative ubiquitin-40S...  363     3e-96	# 370 - 586
+
+XM_024878959.1 Meliniomyces bicolor E putative ubiquitin-40S ri...  348     8e-92	# 375 - 736
+
+XM_009160807.1 Exophiala dermatitidis NIH/UT8656 ubiquitin-40S ...  333     2e-87	# 377 727
+
+XM_657384.1 Aspergillus nidulans FGSC A4 hypothetical protein (...  303     2e-78	# 378 739
+
+highest consensus is protein starting at 378
+
+
+
+
+PROTEIN BLAST
+hits present in masked and unmaksed Sprot
+
+sp|O74225|HSP88_NEUCR Heat shock protein hsp88 OS=Neurospora cr...  835   	0 		# 10753 - 12528
+
+sp|E9FCP7|DTXS4_METRA L-aspartate decarboxylase dtxS4 OS=Metarh...  498     6e-156	# 7335 - 8909
+(unconfirmed seq)
+
+sp|Q9Y600|CSAD_HUMAN Cysteine sulfinic acid decarboxylase OS=Ho...  278     8e-80	# 7431 - 8828
+
+sp|Q9XCB1|DNAK_RHOMR Chaperone protein DnaK OS=Rhodothermus mar...  226     8e-61	# 10786 - 11907
