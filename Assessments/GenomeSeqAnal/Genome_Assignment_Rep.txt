@@ -5,16 +5,11 @@ ena_est
 ref_seq hits are similar with both normal and masked ? related to masking of transcriptome does not return many hits as transcribed genes are not affected.
 
 
-
-
-
-
 ANNOTATION BY HOMOLOGY
 
 NUCLEOTIDE BLAST
 ENA EST
 hits presetn both unmasked and masked
-
 AF175521 AF175521.1 Emericella nidulans UBI1 (ubi1) mRNA, compl...  307     1e-79
 CP023326 CP023326.1 Cordyceps militaris strain ATCC 34164 chrom...  265     6e-67
 AB035543 AB035543.1 Arthroderma otae mRNA for ubiquitin, comple...  220     1e-53
@@ -24,49 +19,42 @@ BN001303 BN001303.1 TPA: Aspergillus nidulans FGSC A4 chromosom...  124     1e-2
 
 ENA STD
 hits present on both unmasked and masked seq
-
-GT062079 GT062079.1 AGENCOURT_103777444 DH14 Conidia Blumeria g...  924     0.0		# 7303 - 7810 
-
+GT062079 GT062079.1 AGENCOURT_103777444 DH14 Conidia Blumeria g...  924     0.0		# 7303 - 7810
 FK939828 FK939828.1 DG_9503 Blumeria graminis cDNA from mixed b...  712     0.0		# 12693 - 13080
-
 AW789136 AW789136.1 C00943-F Lambda Zap, Stratagene Blumeria gr...  710     0.0		# 12790 - 13180
-
 GT063807 GT063807.1 AGENCOURT_103645546 DH14 3dpi Blumeria gram...  708     0.0 	# 370 - 752
-
 AW788325 AW788325.1 C00358-R Lambda Zap, Stratagene Blumeria gr...  588     2e-164	# 12693 - 13027
-
 FK939826 FK939826.1 DG_860 Blumeria graminis cDNA from mixed ba...  525     2e-145	# 12355 - 12646
-
 FE534935 FE534935.1 MF56-11_M13F-H01 FL, mycelia grown in Flies...  322     2e-84	# 378 - 727
 
 
-
-
-
 Ref Seq
-same hits for masked and unmasked 
-
+same hits for masked and unmasked
 XM_018205144.1 Phialocephala scopiformis putative ubiquitin-40S...  363     3e-96	# 370 - 586
-
 XM_024878959.1 Meliniomyces bicolor E putative ubiquitin-40S ri...  348     8e-92	# 375 - 736
-
 XM_009160807.1 Exophiala dermatitidis NIH/UT8656 ubiquitin-40S ...  333     2e-87	# 377 727
-
 XM_657384.1 Aspergillus nidulans FGSC A4 hypothetical protein (...  303     2e-78	# 378 739
 
 highest consensus is protein starting at 378
 
 
-
-
 PROTEIN BLAST
-hits present in masked and unmaksed Sprot
-
+hits present in masked and unmaksed SPROT
 sp|O74225|HSP88_NEUCR Heat shock protein hsp88 OS=Neurospora cr...  835   	0 		# 10753 - 12528
-
 sp|E9FCP7|DTXS4_METRA L-aspartate decarboxylase dtxS4 OS=Metarh...  498     6e-156	# 7335 - 8909
 (unconfirmed seq)
-
 sp|Q9Y600|CSAD_HUMAN Cysteine sulfinic acid decarboxylase OS=Ho...  278     8e-80	# 7431 - 8828
-
 sp|Q9XCB1|DNAK_RHOMR Chaperone protein DnaK OS=Rhodothermus mar...  226     8e-61	# 10786 - 11907
+
+
+hits present in masked and unmaksed TREMBL
+gnl|uniprot|N1J4Q2_BLUG1 (N1J4Q2) (Heat shock protein Hsp88 {EC...  1114    0.0 # 10759 - 12663
+
+
+hits present in masked and unmaksed ref_seq
+UnMasked
+XP_018064617.1 putative heat shock protein Hsp88 [Phialocephala...  1018    0.0 # 10753 - 12666
+Masked
+XM_018205144.1 Phialocephala scopiformis putative ubiquitin-40S...  363     2e-96 # 370 - 586
+XM_024878959.1 Meliniomyces bicolor E putative ubiquitin-40S ri...  348     4e-92 # 378 - 736
+XM_002480319.1 Talaromyces stipitatus ATCC 10500 ubiquitin-40S ...  339     3e-89 # 378 - 421
