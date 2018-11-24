@@ -58,3 +58,62 @@ Masked
 XM_018205144.1 Phialocephala scopiformis putative ubiquitin-40S...  363     2e-96 # 370 - 586
 XM_024878959.1 Meliniomyces bicolor E putative ubiquitin-40S ri...  348     4e-92 # 378 - 736
 XM_002480319.1 Talaromyces stipitatus ATCC 10500 ubiquitin-40S ...  339     3e-89 # 378 - 421
+
+
+
+
+
+
+
+
+
+Human Genscan
+
+
+
+Fungal FgeneFH
+Protein 1 between 378  -    860
+https://www.ebi.ac.uk/interpro/sequencesearch/iprscan5-S20181124-100843-0701-71064438-p2m
+
+Ubiquitin domain between residues 1 and 76 followed by ribosomal protein S27a.
+it has been  proposed that the ubiquitin moiety which is expressed in tandem wiht the S27a subunit acts as a molecular Chaperone, facilitating
+its incorporation into the ribosome by providing sheltering of the N-terminus of its ligand which provides metabolic stablizaiton = proteciton from protein degredaiton.
+
+
+Protein 2
+reverse Strand
+polyA tail at 2099
+last coding region between 2223 - 2298
+first coding region between 2429 - 2454
+
+
+
+Protein 3
+forward strand
+tata initiaiton at 5421
+first coding sequence 5605 - 5621
+last coding sequence 5746 - 5995
+polyA tail 6838
+
+
+Protein 4
+reverse strand
+tata initiaiton 6848
+first coding sequence
+last coding sequence
+polyA tail
+
+
+Protein
+forward strand
+tata initiaiton
+first coding sequence
+last coding sequence
+polyA tail
+
+Protein
+forward strand
+tata initiaiton
+first coding sequence
+last coding sequence
+polyA tail
