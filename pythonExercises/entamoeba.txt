@@ -1,0 +1,2917 @@
+LOCUS       DS550570                1024 bp    DNA     linear   CON 08-DEC-2008
+DEFINITION  Entamoeba dispar SAW760 scf_1105229463241 genomic scaffold, whole
+            genome shotgun sequence.
+ACCESSION   DS550570 AANV02000000
+VERSION     DS550570.1  GI:165894842
+DBLINK      Project: 12914
+KEYWORDS    WGS.
+SOURCE      Entamoeba dispar SAW760
+  ORGANISM  Entamoeba dispar SAW760
+            Eukaryota; Amoebozoa; Archamoebae; Entamoebidae; Entamoeba.
+REFERENCE   1  (bases 1 to 1024)
+  AUTHORS   Lorenzi,H., Inman,J., Schobel,S., Amedeo,P. and Caler,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-DEC-2007) J. Craig Ventor Institute, 9704 Medical
+            Center Drive, Rockville, MD 20850, USA
+FEATURES             Location/Qualifiers
+     source          1..1024
+                     /organism="Entamoeba dispar SAW760"
+                     /mol_type="genomic DNA"
+                     /strain="SAW760"
+                     /db_xref="taxon:370354"
+     misc_feature    complement(4..244)
+                     /note="AT_rich"
+     gene            complement(<313..>936)
+                     /locus_tag="EDI_268730"
+                     /db_xref="Pathema:EDI_268730"
+     mRNA            complement(<313..>936)
+                     /locus_tag="EDI_268730"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_268730A"
+                     /db_xref="Pathema:EDI_268730"
+     CDS             complement(313..936)
+                     /locus_tag="EDI_268730"
+                     /note="encoded by transcript EDI_268730A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22696.1"
+                     /db_xref="GI:165894843"
+                     /db_xref="Pathema:EDI_268730"
+                     /translation="MVPKVVELNSEYATNCKNCNKTCHYPCHVPFFISALTMRGCSCI
+                     VNGRCTVCGCSCSEHVNSTYRHDFITETKEQTVEEIFERYNEGKKGIASAENVLKRLE
+                     DEYYEIQMDCYEKQEKIKECVNILSSITLNGNSLNDKVNSSNEYLDLLIKKEIEEKKH
+                     GYTKRIKGYEKLKQANEIIDYIIKKSPSKKSKEEIKAEFERRMKELE"
+ORIGIN      
+        1 aagataaata aattatttaa aaattgaaat taacattaat attgatatta aaatattata
+       61 tctaacaata tgataattca tttgattcat ttattgtatt atattcaaat atacatagag
+      121 aatttaatta ataataaaaa tgaacaaatt tcagattgga aaataaagaa cattatatat
+      181 catttttatt atttaattaa atattaattt ttaaaccaat taattaaaac tttcatttaa
+      241 ttatctgttt ttatcagatc aaaacatact tctcattttt tgaatgaatt tacctaatgt
+      301 tgatttttct ctttattcta attctttcat tcttctttca aactctgctt ttatctcttc
+      361 cttactcttt tttgaaggtg atttttttat aatatagtct attatttcat ttgcttgttt
+      421 taatttttca tatcctttta ttcgttttgt atatccatgt ttcttttctt ctatttcttt
+      481 tttaattaat aagtctaaat attcattaga actattaact ttatcgttta atgaattacc
+      541 atttaatgta attgatgaca atatattaac acactcttta attttttctt gtttctcata
+      601 acaatccatt tggatttcat aatattcatc ttctaacctt tttaacacat tttctgcact
+      661 agctatacct tttttacctt cattatatct ttcaaatatt tcttctactg tttgttcttt
+      721 tgtttctgtt ataaaatcat gtctatatgt tgaatttaca tgttctgaac aactacaccc
+      781 acatacggta caacgcccat taacaatgca agaacatcct ctcattgtaa gtgctgaaat
+      841 aaaaaatgga acatgacatg gataatgaca tgttttatta cagttcttac aattagttgc
+      901 atattcacta tttaattcaa ctactttcgg taccatcaca tcaatagtaa ttttataatt
+      961 tttgttatcg ttaattttat cacgattcaa acgaatctgt tcacctgttt cttctatttc
+     1021 attt
+//
+LOCUS       DS572169                1672 bp    DNA     linear   CON 17-APR-2008
+DEFINITION  Entamoeba histolytica HM-1:IMSS scf_1104750516951 genomic scaffold,
+            whole genome shotgun sequence.
+ACCESSION   DS572169 AAFB02000000
+VERSION     DS572169.1  GI:169799468
+DBLINK      Project: 142
+KEYWORDS    WGS.
+SOURCE      Entamoeba histolytica HM-1:IMSS
+  ORGANISM  Entamoeba histolytica HM-1:IMSS
+            Eukaryota; Amoebozoa; Archamoebae; Entamoebidae; Entamoeba.
+REFERENCE   1  (bases 1 to 1672)
+  AUTHORS   Loftus,B., Anderson,I., Davies,R., Alsmark,U.C., Samuelson,J.,
+            Amedeo,P., Roncaglia,P., Berriman,M., Hirt,R.P., Mann,B.J.,
+            Nozaki,T., Suh,B., Pop,M., Duchene,M., Ackers,J., Tannich,E.,
+            Leippe,M., Hofer,M., Bruchhaus,I., Willhoeft,U., Bhattacharya,A.,
+            Chillingworth,T., Churcher,C., Hance,Z., Harris,B., Harris,D.,
+            Jagels,K., Moule,S., Mungall,K., Ormond,D., Squares,R.,
+            Whitehead,S., Quail,M.A., Rabbinowitsch,E., Norbertczak,H.,
+            Price,C., Wang,Z., Guillen,N., Gilchrist,C., Stroup,S.E.,
+            Bhattacharya,S., Lohia,A., Foster,P.G., Sicheritz-Ponten,T.,
+            Weber,C., Singh,U., Mukherjee,C., El-Sayed,N.M., Petri,W.A. Jr.,
+            Clark,C.G., Embley,T.M., Barrell,B., Fraser,C.M. and Hall,N.
+  TITLE     The genome of the protist parasite Entamoeba histolytica
+  JOURNAL   Nature 433 (7028), 865-868 (2005)
+   PUBMED   15729342
+REFERENCE   2  (bases 1 to 1672)
+  AUTHORS   Lorenzi,H., Amedeo,P., Inman,J., Schobel,S. and Caler,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAR-2007) The Institute for Genomic Research, 9712
+            Medical Center Drive, Rockville, MD 20850, USA
+COMMENT     This version of the project, JCVI-ESG2-1.0, represents 8x coverage
+            of the genome.
+FEATURES             Location/Qualifiers
+     source          1..1672
+                     /organism="Entamoeba histolytica HM-1:IMSS"
+                     /mol_type="genomic DNA"
+                     /strain="HM-1:IMSS"
+                     /db_xref="taxon:294381"
+     repeat_region   1..296
+                     /rpt_family="LINE1"
+     gene            complement(<779..>1105)
+                     /locus_tag="EHI_043340"
+                     /db_xref="Pathema:EHI_043340"
+     mRNA            complement(<779..>1105)
+                     /locus_tag="EHI_043340"
+                     /product="hypothetical protein"
+                     /note="transcript EHI_043340A"
+                     /db_xref="Pathema:EHI_043340"
+     CDS             complement(779..1105)
+                     /locus_tag="EHI_043340"
+                     /note="encoded by transcript EHI_043340A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDS88668.1"
+                     /db_xref="GI:169799469"
+                     /db_xref="Pathema:EHI_043340"
+                     /translation="MVLVLFFIVTCFGIECPNNTFFDNGNCVVCSPYCVEGKCDIEKG
+                     CVECINHFQESNKLCESSCEENKYYDGDNCVDCSQHCINGYCDKLDGCTLCQRGYLAF
+                     NKVVVI"
+ORIGIN      
+        1 aactagtcta atatttgata tgactattgt ggctgatcac aatattaatg gagcctattg
+       61 gaagaaaaga aataagtata aggaaataaa gaatattcta atgaaaatag aaaaactaaa
+      121 agatgacaaa ataaatcgag tagtaatttc aataaatgga ttaataaata aagaaagtaa
+      181 taaattagtt aaagaattaa aaattgagat tgacatcgag aaagaaacta aaaaccttgt
+      241 aattaaaaac atgatgggtg tcattgaaca ttgtttatat aataataaaa catacttatt
+      301 tgtattaaca atggtaagca ttaacaactc attctaataa aaagaatgaa taataaaaaa
+      361 aaaacaacta tattaacact taaccgatta atttatgagt atttttatta ttcatttgat
+      421 attataataa ggcaatactt aaacattcca cttgaactat aacattttat ttaaatatta
+      481 attgcttttg ttttgacaat aaacaaacaa gtttgattag aaatgaaaga ttaaaaatta
+      541 taatgataat aattaataat agttattatt aatacaggtt attagttcat tggaattgat
+      601 aataaatgat gacaaatgca atagtattgg ttatgttttt taaataaatt tcatgatttg
+      661 ttatattgcc aaaaagactg taactatttt gttttcaaga cagtctaaaa tcatcaataa
+      721 atggcagtta taccttgaag tagagtgact attgagttta agtcttaaaa atctattttt
+      781 aaattacaac aaccttattg aaagccaaat accctcgttg acataatgta caaccatcta
+      841 acttatcaca atatccatta atacaatgtt gagaacaatc aacacaatta tctccatcat
+      901 aatatttatt ttcttcacaa ctactttcac ataatttatt tgattcttga aaatgattga
+      961 tacattcaac acatcctttt tctatatcac acttaccttc aacacaatat ggtgaacaga
+     1021 caacgcagtt tccgttgtcg aagaatgtgt tgttagggca ttcaatacca aaacaagtta
+     1081 ctatgaagaa taacactaac accatctcaa aatgaaatgt cattttcttt tataagattt
+     1141 gtgttttgaa taacacaaaa tatctttctc ttcttgggaa aagaaaaatt gaaaaatatt
+     1201 atctggaaaa cgtcaaaacg cttaaactaa ttctttctag ttagagactg aaatttatat
+     1261 agaatctaaa ttaagggttg agaacttaaa aatagggtat tccctataaa aagggaagtg
+     1321 agtcatttta cagaatcaag aagagaacac cacagagtca tgtctgagag ttttggagat
+     1381 gtagatcaaa atgagttaaa aataagagaa gacaaagact ctattgaatg ggaagatgac
+     1441 gatgatgaag tttgtttgaa gcgaatgaaa gtgagtgaag aaaagccaat aaaaaaaaga
+     1501 ttagaattaa aattatggta tgttatgtgt ttggacatgt attaataata tagaaaatct
+     1561 gttgcaacgt ctactactaa caacacaagt actaatggag ttactagtga tggaacacac
+     1621 aatttgtcta tgagaattcc aatagaaaag gcagtaacag caataaatga tg
+//
+LOCUS       DS572233                1506 bp    DNA     linear   CON 17-APR-2008
+DEFINITION  Entamoeba histolytica HM-1:IMSS scf_1104750517649 genomic scaffold,
+            whole genome shotgun sequence.
+ACCESSION   DS572233 AAFB02000000
+VERSION     DS572233.1  GI:169799387
+DBLINK      Project: 142
+KEYWORDS    WGS.
+SOURCE      Entamoeba histolytica HM-1:IMSS
+  ORGANISM  Entamoeba histolytica HM-1:IMSS
+            Eukaryota; Amoebozoa; Archamoebae; Entamoebidae; Entamoeba.
+REFERENCE   1  (bases 1 to 1506)
+  AUTHORS   Loftus,B., Anderson,I., Davies,R., Alsmark,U.C., Samuelson,J.,
+            Amedeo,P., Roncaglia,P., Berriman,M., Hirt,R.P., Mann,B.J.,
+            Nozaki,T., Suh,B., Pop,M., Duchene,M., Ackers,J., Tannich,E.,
+            Leippe,M., Hofer,M., Bruchhaus,I., Willhoeft,U., Bhattacharya,A.,
+            Chillingworth,T., Churcher,C., Hance,Z., Harris,B., Harris,D.,
+            Jagels,K., Moule,S., Mungall,K., Ormond,D., Squares,R.,
+            Whitehead,S., Quail,M.A., Rabbinowitsch,E., Norbertczak,H.,
+            Price,C., Wang,Z., Guillen,N., Gilchrist,C., Stroup,S.E.,
+            Bhattacharya,S., Lohia,A., Foster,P.G., Sicheritz-Ponten,T.,
+            Weber,C., Singh,U., Mukherjee,C., El-Sayed,N.M., Petri,W.A. Jr.,
+            Clark,C.G., Embley,T.M., Barrell,B., Fraser,C.M. and Hall,N.
+  TITLE     The genome of the protist parasite Entamoeba histolytica
+  JOURNAL   Nature 433 (7028), 865-868 (2005)
+   PUBMED   15729342
+REFERENCE   2  (bases 1 to 1506)
+  AUTHORS   Lorenzi,H., Amedeo,P., Inman,J., Schobel,S. and Caler,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAR-2007) The Institute for Genomic Research, 9712
+            Medical Center Drive, Rockville, MD 20850, USA
+COMMENT     This version of the project, JCVI-ESG2-1.0, represents 8x coverage
+            of the genome.
+FEATURES             Location/Qualifiers
+     source          1..1506
+                     /organism="Entamoeba histolytica HM-1:IMSS"
+                     /mol_type="genomic DNA"
+                     /strain="HM-1:IMSS"
+                     /db_xref="taxon:294381"
+     gene            <339..>524
+                     /locus_tag="EHI_088600"
+                     /db_xref="Pathema:EHI_088600"
+     mRNA            <339..>524
+                     /locus_tag="EHI_088600"
+                     /product="Ribosomal protein S30, putative"
+                     /note="transcript EHI_088600A"
+                     /db_xref="Pathema:EHI_088600"
+     CDS             339..524
+                     /locus_tag="EHI_088600"
+                     /note="encoded by transcript EHI_088600A;
+                     GO_component: GO:0005622 - intracellular;
+                     GO_component: GO:0005840 - ribosome;
+                     GO_function: GO:0003735 - structural constituent of
+                     ribosome;
+                     GO_process: GO:0006412 - translation"
+                     /codon_start=1
+                     /product="Ribosomal protein S30, putative"
+                     /protein_id="EDS88654.1"
+                     /db_xref="GI:169799388"
+                     /db_xref="Pathema:EHI_088600"
+                     /translation="MGKTHGGLTRAGKVRNQTKKVEQIDTGVKKRPSGRARIREAFNN
+                     RQELLSGERRFKFNPQN"
+     repeat_region   576..1187
+                     /rpt_family="LINE1"
+     repeat_region   729..1506
+                     /rpt_family="LINE1"
+ORIGIN      
+        1 ttactctatt tatttttgag catcatgatt tttgttctaa atatttatca catttgtttt
+       61 atcatcagct tgatttatat tatctttttt tcacttactt atttctctta tttctaatta
+      121 tattctgtac tgtgcttggt aatgactgac tcaaatcaat gaaatagaat ttacttgaac
+      181 aaatcagaaa agaaaagaaa agaataaaat tgaattaata caaaaagatt gaagtatgag
+      241 ttattattat gattttattt acgaaataaa agaagagtta tgcttcaatc tactatttaa
+      301 aaagaagttc agaagaaaga aaaatattca aagataacat gggaaaaaca catggaggat
+      361 taactcgtgc tggaaaagta agaaaccaaa ccaagaaggt tgagcagatt gacactggtg
+      421 tcaagaaaag accaagtgga agagcacgta taagagaggc atttaacaac agacaagagt
+      481 tactctctgg agaaagaaga ttcaaattta atcctcagaa ttaattgaga aatctttctt
+      541 taatttgtat tatgtttatt ttgttttata tttatatcct ttttcaaatc aggaaataca
+      601 ataaatttta atgccatgga taatgtgtaa aacctttgtg tattttaaag aaaaacaaac
+      661 atgtcataga aattcaatgt catacaataa aagaatgaat gccaatagca ataaatggca
+      721 taacaataag aataataatg ataagcgaaa taccaaggaa aaaggattag aagatgaaag
+      781 atacaaataa aaacaaataa gaaataaggt aaatgcaata ataataaaga ttatacaaat
+      841 aacaaatata aatgactaac aataaattga gatacaagaa agaataaaaa gaataagaaa
+      901 tgaatggaaa aaggagaata tgaagaaata ctcaaaaagt aagaaggtaa gagaaaaata
+      961 tggtatgata atcaacaaga aatatactca atcaacaaga aaagataatt gaaaaaatta
+     1021 aagaagaaat taaaaaaaaa acaaaagaat ttgaagaaaa agacattaaa ataattgaag
+     1081 aataaattaa aaacaaaacc caattaaaga aatgaatgat aaatgtaaaa ttgcaagaat
+     1141 aataaataac aaacaaaata caagaagaaa tacaacaaaa taaagaaata gaattttaat
+     1201 tgaagtgttg tattgttttg caattaattg gttaaataag aaattatata ataaattaag
+     1261 aaaagaagca attgaaaata taataaaagt aataaatatc aatgtcaata atgaaaagga
+     1321 atatattaaa tatattaaaa tgtcacataa aataaaagaa aatactaaac aatacattaa
+     1381 agtgaaagta aatgatataa tagaatgaag agtagagtgt aattcaataa taaaaacaac
+     1441 atattaaaga ataactctat tgaaattgat gaagaatatc ttaacactct catcaataaa
+     1501 gttaaa
+//
+LOCUS       DS550573               27950 bp    DNA     linear   CON 08-DEC-2008
+DEFINITION  Entamoeba dispar SAW760 scf_1105229463247 genomic scaffold, whole
+            genome shotgun sequence.
+ACCESSION   DS550573 AANV02000000
+VERSION     DS550573.1  GI:165894825
+DBLINK      Project: 12914
+KEYWORDS    WGS.
+SOURCE      Entamoeba dispar SAW760
+  ORGANISM  Entamoeba dispar SAW760
+            Eukaryota; Amoebozoa; Archamoebae; Entamoebidae; Entamoeba.
+REFERENCE   1  (bases 1 to 27950)
+  AUTHORS   Lorenzi,H., Inman,J., Schobel,S., Amedeo,P. and Caler,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-DEC-2007) J. Craig Ventor Institute, 9704 Medical
+            Center Drive, Rockville, MD 20850, USA
+FEATURES             Location/Qualifiers
+     source          1..27950
+                     /organism="Entamoeba dispar SAW760"
+                     /mol_type="genomic DNA"
+                     /strain="SAW760"
+                     /db_xref="taxon:370354"
+     repeat_region   6..187
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaaaa"
+                     /satellite="microsatellite"
+     repeat_region   162..321
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaa"
+                     /satellite="microsatellite"
+     repeat_region   complement(322..693)
+                     /rpt_family="EdLINE2"
+     repeat_region   703..877
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaaa"
+                     /satellite="microsatellite"
+     misc_feature    complement(958..1003)
+                     /note="AT_rich"
+     repeat_region   1025..1207
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaaa"
+                     /satellite="microsatellite"
+     repeat_region   1085..1259
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaaaa"
+                     /satellite="microsatellite"
+     gene            complement(<1911..>3523)
+                     /locus_tag="EDI_052750"
+                     /db_xref="Pathema:EDI_052750"
+     mRNA            complement(join(<1911..2801,2861..3204,3250..>3523))
+                     /locus_tag="EDI_052750"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_052750A"
+                     /db_xref="Pathema:EDI_052750"
+     CDS             complement(join(1911..2801,2861..3204,3250..3523))
+                     /locus_tag="EDI_052750"
+                     /note="encoded by transcript EDI_052750A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22682.1"
+                     /db_xref="GI:165894826"
+                     /db_xref="Pathema:EDI_052750"
+                     /translation="MKTFIIWISFIVLSCQCQETQMYVNEIKEKIIDEMKQGMDGIHK
+                     LKEDLVFAYNHPHRKNKDYFKAISEKEKESITTPDSGMNERTVNIDHNCGSGEKEYYN
+                     LNISVCDGNYKIRINEYFIGQEYFNASEIVAINSPCETIECTVNEFFIDENLFKIDQF
+                     KFNKCVIFKFNNNENHYMSEIDISLICDNTTLIDSTHYAYNCSTMNLVCDDKVISNHF
+                     YYTTNYSQFKNCFTVPVLCNDKSQCNQITVDCPEEYHCDITFNNTQPCNINCNESRLV
+                     SHCLCPPDKKGKWCEEQTDVECNLIRLQSNVQSFSQSKYLDQEDPNEEYAIQIYPFDG
+                     VNDIEISVYINCTNQVKYDNQYQYWINTSSLIFSSDPERQLQVSVINFYHFYDRSEYF
+                     ASNITKEQYLAQQPIKFIINSTFLTTTRSWNGDLLYAEIVINPHLSSTSFALTKFYIQ
+                     RKYTEKKYNKHNWIKQNWLVLILITGVLLLTVLAVFWYYWKNKQEFVHVKEV"
+     misc_feature    complement(2812..2855)
+                     /locus_tag="EDI_052750"
+                     /note="AT_rich"
+     misc_feature    complement(3163..3183)
+                     /locus_tag="EDI_052750"
+                     /note="AT_rich"
+     gene            <3617..>6055
+                     /locus_tag="EDI_052760"
+                     /db_xref="Pathema:EDI_052760"
+     mRNA            <3617..>6055
+                     /locus_tag="EDI_052760"
+                     /product="ATP-dependent RNA helicase, putative"
+                     /note="transcript EDI_052760A"
+                     /db_xref="Pathema:EDI_052760"
+     CDS             3617..6055
+                     /locus_tag="EDI_052760"
+                     /EC_number="3.4.22.44"
+                     /note="encoded by transcript EDI_052760A"
+                     /codon_start=1
+                     /product="ATP-dependent RNA helicase, putative"
+                     /protein_id="EDR22683.1"
+                     /db_xref="GI:165894827"
+                     /db_xref="Pathema:EDI_052760"
+                     /translation="MSKNSPSEPNQWDEKRIESRQQYLPKREFQKLREIRDEIEDEKE
+                     MFNENELTESEKKELQRKIDIYNLAKQRIALEQINEPQYSIPKTGSVIEEKPIYDNYK
+                     DEDNEQWMNTQKKAIFIGKSIDERSKIDDGSFEKMILQEDEDSLEREILELRTKELEE
+                     IPSKRTKQDEMNEIRKSLPVYQKREEFLKLVRNNQIVIIAGETGSGKTTQLPQYLYED
+                     GYCKKGKIGVTQPRRVACMSIARRVSEEIGTRLGGMVGYTVRFEDVTSDRTLIQYMTD
+                     GMLLRGFLNQPDLSEYSCIMIDEAHERTISTDLLFGLLKDIIRFRSDLKLIIASATLE
+                     TQKFSEYFDNAPVFIIPGRRFPVTIEYLTEPEPDPLIAAVNRTIQIHTTMPKGDILIF
+                     LTGQEEVDECAEAIKERTRGYGTKMDELIITRIYAALPSDIQAQIFIPTPPNARKVVV
+                     ATNIAETSLTVDGIVYVIDSGYCKINEYNSRTGMESLKIVPISKASADQRAGRAGRVS
+                     PGKCYRLYTKDAFTKELPESTPPEIIRSNLSSVILLLKTLGIDDILHFDFMDSPSPES
+                     LMRALEELYALGAFNQKGELTQRGQKMAEFPIAPTLARVLIGSEQYQCSEEIATICAM
+                     LQISGELFYRPKEKAQIADTIKKGFVRSEGDHLTLLGVYNSWVDAGKSDGWCRDNFLQ
+                     ARALNKANDIRDQLVNIMERVDIQMLKSKDNISILKALLSGYFLNTAQLTKEGIYRQT
+                     KQNRTIEIHPSSSMFNKNPRWILFYELVLTTKEYVRQVSEIDPSWLIEVAPHVFKEED
+                     MKDAIRKYRSKKNK"
+     gene            complement(<6133..>7233)
+                     /locus_tag="EDI_052770"
+                     /db_xref="Pathema:EDI_052770"
+     mRNA            complement(join(<6133..6777,6865..>7233))
+                     /locus_tag="EDI_052770"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_052770A"
+                     /db_xref="Pathema:EDI_052770"
+     CDS             complement(join(6133..6777,6865..7233))
+                     /locus_tag="EDI_052770"
+                     /note="encoded by transcript EDI_052770A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22684.1"
+                     /db_xref="GI:165894828"
+                     /db_xref="Pathema:EDI_052770"
+                     /translation="MNNKGNETKINYFYKLFKIIREYIIQQLNDLLRWLFGEMIQSEC
+                     IENNIEIFDDEDILDLDCIPRGSEKFLNQYDQDELADKMLRYKVKHGPNSGSSIKEVL
+                     ERKGIDNLKVEFDTSDYYVHKAQLFNEKKDSNHLIGQLFLRVNSKFNVVNCKRVVMPN
+                     FFENLFXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXGLGIGHEIEEMLMDFISQ
+                     KGRDGPLNTPEHWYNAYLYYMRSHFHFLNPAFEGLFRSINASIKKDIEVHRLTGVAWA
+                     IAQGKLYHRPTKEQIIWVALEQVYPLSHRMKNYFGQEYTEIVMRNYHPKDYFIDWDDT
+                     MTK"
+     gap             6549..6648
+                     /estimated_length=100
+     misc_feature    complement(6779..6833)
+                     /locus_tag="EDI_052770"
+                     /note="AT_rich"
+     misc_feature    complement(7184..7209)
+                     /locus_tag="EDI_052770"
+                     /note="AT_rich"
+     misc_feature    complement(7262..7364)
+                     /note="AT_rich"
+     gene            <7382..>10902
+                     /locus_tag="EDI_052880"
+                     /db_xref="Pathema:EDI_052880"
+     mRNA            join(<7382..7540,7606..>10902)
+                     /locus_tag="EDI_052880"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_052880A"
+                     /db_xref="Pathema:EDI_052880"
+     CDS             join(7382..7540,7606..10902)
+                     /locus_tag="EDI_052880"
+                     /note="encoded by transcript EDI_052880A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22685.1"
+                     /db_xref="GI:165894829"
+                     /db_xref="Pathema:EDI_052880"
+                     /translation="MEEITKESIIQKLLEEKSLLVDQLKQTHQELNQSQTQHFMDREK
+                     FNVLYNSQQSVIQQLKQNEINNLQKIETLSQEIAKLQIQNAIKETEPPKQMHLQSSVA
+                     VDGILKLVPENKRMEASILLDEFNKFNENEHILFVQYLKQELEEEGINVFSKEEKNTQ
+                     LKEGFKKIQEEAINELKRCEEVITKKNETIELLKRENEELENALVKQKGSDNDNFKIN
+                     LPFKQEIIRENEELTERLTNIQIEFDNFKKKKDEELKKSTESLDWDEMKKKVEKMYEL
+                     QQENSQLKLKLNNDTLFNNSRTEIKLSEMKRQLNVSEELNEKRKEEITRLQKENEDLE
+                     NKQQQLIKDSNFYQSVVVSAKQETEHWKSMWQELQGEFKISTIAKIDLENQIESLKST
+                     NNVLEQKIKAFEGKFDPISTNQDLIKEKEDTIEMLTIEKQCLQKRVECLEKEQTENIA
+                     KQNQLVQTIWKNKEKVDRVDETTSSLQKKIGELLFDLKREEEQRKILEENEKECKTEI
+                     EELKKENTTKQIELQEIIHSKEQEVQSIKNEYESIKLEKEKKEIQIQEIQKNVEELTE
+                     VKKEKEENDILLKSIQNKLKELKIEINSNEEINIGLQALIEVQKGFEEKQNDLKQKET
+                     LFKQQIEEQNMNLTKLEGIIGTVIHQQGIDETSKNIILYLQQENNRLHQLISLNDSQN
+                     KFIKSNEQEDKLKIEIEYLKEKVQIEQTEKDEWKKRMQELYNKKDVVPKSQLEIKEKE
+                     LEKQNQVIEEMEMANKENKQKITNLKTDINNQLKKYQSEIQEQQQKQKQMEEEFNNKT
+                     QKWKIEKEKLQEELNEIRSQLQKRKDPFKENPDSIDAFKNRLTNRNPQNPIERIVQEQ
+                     KQPVISTTQFNNIFNETIQKKEETISTTDNLSKVELLTNLKPKINEQQTQKVDESKSI
+                     NDEIVNTSDENENENSMEQIDSNESGSEEQSQMENDDTKPTTQLNLNIFDIPKQEDKD
+                     NPFLKLQQISNSQPTKETKSSTTFTSLFNTPKTDFSAFLSSDTKSQDNNIFSNFVLNN
+                     PPQIQTNNTQEPSIVKDSIVSNAQQKIDQIGLKSDEFFPFGDTALIKNNLKPSPSPQI
+                     DFQVGSCLRVKQFSLPSPVLNKEMAQQIQTQNKEQEQQKRLETLKANSASNKRNGLNL
+                     PSSFH"
+     repeat_region   9787..9866
+                     /rpt_type=tandem
+                     /rpt_unit_seq="caaaaa"
+                     /satellite="microsatellite"
+     misc_feature    complement(11024..11046)
+                     /note="AT_rich"
+     repeat_region   11047..11079
+                     /rpt_type=tandem
+                     /rpt_unit_seq="a"
+                     /satellite="microsatellite"
+     gene            <11114..>12605
+                     /locus_tag="EDI_052890"
+                     /db_xref="Pathema:EDI_052890"
+     mRNA            join(<11114..11392,11445..>12605)
+                     /locus_tag="EDI_052890"
+                     /product="serine/threonine protein kinase 3/4, putative"
+                     /note="transcript EDI_052890A"
+                     /db_xref="Pathema:EDI_052890"
+     CDS             join(11114..11392,11445..12605)
+                     /locus_tag="EDI_052890"
+                     /EC_number="2.7.12.2"
+                     /EC_number="2.4.1.173"
+                     /note="encoded by transcript EDI_052890A"
+                     /codon_start=1
+                     /product="serine/threonine protein kinase 3/4, putative"
+                     /protein_id="EDR22686.1"
+                     /db_xref="GI:165894830"
+                     /db_xref="Pathema:EDI_052890"
+                     /translation="MSIDLASFFYVSIPTNKIIKEGFMVKRGHIVRNWLQRWFVLTND
+                     ILYYFDEQKLHLKGYIPLAFGTITRSPEMKKQPCFQLVSPLQNKTYFIQCGTEDECGL
+                     WMAAISIVLNKYIGEPETMDHVTHVTYNEGGFCGIPPEWENMFIALGITKEEIKSNEK
+                     EAMQVIQFTKKLEDQPLGPPPMPENEITITLKDIVQPGNPTELFDNWQQIGEGVSGVV
+                     FQCVDKKTKEERAVKKIKIEDDSINLQEIKIMQTLKHPNIVGFFGCFELDNYLYISME
+                     FMDRNNLTAILEFFPSIAMNEPQIAYVARETNEALRYVHSFHRIHRDIKSDNILINHN
+                     GEVKLADFGVSVQLTKNKSKRNTIVGTPYWMAPEVIKGKDYDCLIDVWSLGIMCREMM
+                     EGYPPYMDDPPLRALFQISTKGVPPITTGSWSKELLDYVNGCLSVNPDQRPSTESSIK
+                     NPFFQKACTKIEFADFVSRVEQIALEQQN"
+     misc_feature    complement(12643..12672)
+                     /note="AT_rich"
+     gene            complement(<12694..>13134)
+                     /locus_tag="EDI_052900"
+                     /db_xref="Pathema:EDI_052900"
+     mRNA            complement(<12694..>13134)
+                     /locus_tag="EDI_052900"
+                     /product="myosin regulatory light chain, putative"
+                     /note="transcript EDI_052900A"
+                     /db_xref="Pathema:EDI_052900"
+     CDS             complement(12694..13134)
+                     /locus_tag="EDI_052900"
+                     /EC_number="1.3.1.74"
+                     /note="encoded by transcript EDI_052900A"
+                     /codon_start=1
+                     /product="myosin regulatory light chain, putative"
+                     /protein_id="EDR22687.1"
+                     /db_xref="GI:165894831"
+                     /db_xref="Pathema:EDI_052900"
+                     /translation="MTTSELIDDYFAILDIDHDKKISRDQVIELLRALGKAPTQQQEE
+                     AIMREVKEDLVGVEKIRQLYKKCEMKLPKDLYDDMFGVFTALDKEENGQIHEAELRQI
+                     LSVLGRPLSNSEVEAIMRSATVSREGYVDYKEFADMLVKEYPPE"
+     misc_feature    complement(13460..13485)
+                     /note="AT_rich"
+     gene            <13626..>15701
+                     /locus_tag="EDI_052910"
+                     /db_xref="Pathema:EDI_052910"
+     mRNA            <13626..>15701
+                     /locus_tag="EDI_052910"
+                     /product="sodium/sulfate transporter, putative"
+                     /note="transcript EDI_052910A"
+                     /db_xref="Pathema:EDI_052910"
+     CDS             13626..15701
+                     /locus_tag="EDI_052910"
+                     /note="encoded by transcript EDI_052910A"
+                     /codon_start=1
+                     /product="sodium/sulfate transporter, putative"
+                     /protein_id="EDR22688.1"
+                     /db_xref="GI:165894832"
+                     /db_xref="Pathema:EDI_052910"
+                     /translation="MDEPLLNEEEKLTRDDNEIEVSESIDHFISDNDIEIFRKEEAER
+                     KVTLLKLFKFVGWVLLEKWYCILFVLCFIAFSLVVYFTDWKMAEIGDVTYKTIICLIL
+                     IGIMITLILSNLYHPGVIMMAVVGLLIACRVITSAQGFQGFSNQSVITIIVSYILSTA
+                     IIKNRSLEFLTRNIFPETYEKHVWPSLLFMVLITFLLSVVIDNIPVVLLSMSIVHTWT
+                     KTSGIPPSKVLLPISFAAILGGMNSILGNSSFHRARTLLITKVLELNKKGIHLNITMP
+                     YFEIAIISSIISIPALIYIILANGILSRHKEESFHKTNKSYIFTFRIEEKSRFIGLQL
+                     GETVLNKPPNGKLCYIKRGENYIDIKDDTIIKKNDILCYIAPSSILKDVLTYNGVVPS
+                     DPTIHELVGATVYEIALNPQDTLIGQDIKLINERGVGLLGVSIDENKWKEQLNQINIL
+                     SSERTYIVISPQNQELKGNDFHLVTQIDVDLPQPTNIIKTIIPIFCLLIPCILESTKV
+                     CSLFVSGFASVLVLIITQCMTVSEIYQSINVQVVCVIAASYGITSAIQTTHIGTLLTL
+                     SCSQWFISLGKYGILMGIFLPTILLAQPFANTVIVDIMFPMVWHLYYGDSDSAEHGSL
+                     IGIKSAMYTMMIASSSSFLLTIGYPTHMIINQKAHYTLKEVFLFGLPIFLWVFICGAL
+                     LPYLFFEVL"
+     gene            complement(<15752..>19138)
+                     /locus_tag="EDI_052920"
+                     /db_xref="Pathema:EDI_052920"
+     mRNA            complement(<15752..>19138)
+                     /locus_tag="EDI_052920"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_052920A"
+                     /db_xref="Pathema:EDI_052920"
+     CDS             complement(15752..19138)
+                     /locus_tag="EDI_052920"
+                     /note="encoded by transcript EDI_052920A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22689.1"
+                     /db_xref="GI:165894833"
+                     /db_xref="Pathema:EDI_052920"
+                     /translation="MSEVNLNVRFINKGYAIGERLQGFLLINVKKRVIVNQLHFNLIG
+                     ETILSRNASDKKAIKLVNKFFISRDYPPLAEQSNFSCEPFYHEYFPGTHAVPFSIIIP
+                     IVPHPSLHLKGGVGVRYRLQAKLQIIPLKRKEGSEKAIALSTFTSSNEVPILYCVKDV
+                     FDIKKPEEVCSRDQVLVRMRCTPGIKPNESIKVYVTISNNTGKPLNPIMLWYSEHRYR
+                     ETYITSNGGIQELDKIPKLLQKEFILESTNLLPTIKEDDFIVESYVEIRIKLEKKPTI
+                     IVKFPVTVGWGKGTFEDNCARAALHGIDFSKDKITFYGIHMRPTPSCESVIQKVEVDG
+                     VPVYINHLWRKCYGDESCKNYLNIRYPLPECKMLPKGWGIGMDRGEMYFINWNKKYTT
+                     WMDPRSFEERKIKVQNIQITLIKGINFPTLKGKQTKFRCVVTDKDNNQIESGISTKSI
+                     DPIWDGDKSTFIVQLEEMRENVVIGFFSSKKFVGAVDLPLWRVVENGIEEWFQLKNFG
+                     DFNIPQTGEVLLRIQWEGDVLPVQPERVLMRFDPYYCNTEATKEQEKYINKIKVKEHM
+                     TNVTFKTSGEFITGKKDIYLESGISENNITMGIAPNYDVDLVGSKREEEVFDIPEDEE
+                     MMVEELTKEVDTKKLEDIKKGEISSSSVIECETEECKNELTSNTNPKSLSEKLVEVVG
+                     EELKKSIDEANNKDFQNTEAKQNEKEETITTYQEDIKIHNTQEAVNGEPKNEHEESLV
+                     KGQKEEPIDKKLLGTNNEVERQTQEKVLDNKKESTLPNTDDTKEVFNQVNQQELNNKE
+                     VLELKEESVKDSQEKEELVQPSNKENGLQDTTPLSKSAIKTKDETETNQRQEDKIAQE
+                     EEDEELLELKKIAQKAKEYEQKRKEEKEKKKQQQKPQQLQKEKSIKDIIQLNEMITQR
+                     EKEEDDKKEMIRKQEEERIKQAQQEQEEKEHQIIEEEKKRQEEKRTQQMKEEEECKKK
+                     LEVEIEKQRKQDEEKKRKEGEKKEELKIIQKEKDEEEYNKRIKQEAEENEKKQATEEE
+                     KSQKKKEEEEEEKQKQKQKQLLNEEREKKALERQQKKEERRKRKEEEREQAQKIKEEE
+                     EKRLEEERKKKQEMESKAASFGVVDQMNFTNSEKELLGLI"
+     repeat_region   complement(15836..15945)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="gaa"
+                     /satellite="microsatellite"
+     repeat_region   complement(15989..16012)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="caaaaa"
+                     /satellite="microsatellite"
+     repeat_region   complement(16014..16134)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="gaa"
+                     /satellite="microsatellite"
+     repeat_region   complement(16154..16288)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="gaaaa"
+                     /satellite="microsatellite"
+     repeat_region   complement(16307..16396)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="gaa"
+                     /satellite="microsatellite"
+     repeat_region   complement(16442..16521)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="caaaaa"
+                     /satellite="microsatellite"
+     misc_feature    complement(17456..17476)
+                     /locus_tag="EDI_052920"
+                     /note="AT_rich"
+     gene            complement(<19346..>20278)
+                     /locus_tag="EDI_052930"
+                     /db_xref="Pathema:EDI_052930"
+     mRNA            complement(<19346..>20278)
+                     /locus_tag="EDI_052930"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_052930A"
+                     /db_xref="Pathema:EDI_052930"
+     CDS             complement(19346..20278)
+                     /locus_tag="EDI_052930"
+                     /note="encoded by transcript EDI_052930A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22690.1"
+                     /db_xref="GI:165894834"
+                     /db_xref="Pathema:EDI_052930"
+                     /translation="MEQLGNPIGLNISLSIFKDTYLCDKELISLKKTAIFNGLSGLYL
+                     RTIAWRVWLGVLPTPISVSWIEVIKQNREKYSLXXXXXXXXXXXXXXXXXXXXXXXXX
+                     XXXXXXXXXYYSSVFGIRWIKMLFACEFHIEDVVEIWDAIFAYGENLKLVDGVFLSMM
+                     LYVRNDIVERDDPTYTLRRLMKFPPVFALRPLIDMAVSICDRTSKISSIQQQNLVSFN
+                     PVKAKREKRKAAKFSTEKQDLTASKKEDVICSNQQSFFSIIGHKKIDKDMSRNKQRLI
+                     EIYNNLIDLAGTTNNDHTRLKEIEKIVTDVMNDL"
+     gap             19948..20047
+                     /estimated_length=100
+     misc_feature    complement(20286..20341)
+                     /note="AT_rich"
+     gene            complement(<20402..>21352)
+                     /locus_tag="EDI_053040"
+                     /db_xref="Pathema:EDI_053040"
+     mRNA            complement(<20402..>21352)
+                     /locus_tag="EDI_053040"
+                     /product="60S acidic ribosomal protein P0, putative"
+                     /note="transcript EDI_053040A"
+                     /db_xref="Pathema:EDI_053040"
+     CDS             complement(20402..21352)
+                     /locus_tag="EDI_053040"
+                     /EC_number="4.2.99.18"
+                     /note="encoded by transcript EDI_053040A"
+                     /codon_start=1
+                     /product="60S acidic ribosomal protein P0, putative"
+                     /protein_id="EDR22691.1"
+                     /db_xref="GI:165894835"
+                     /db_xref="Pathema:EDI_053040"
+                     /translation="MALHKAGLSKEQKKAKKEAYLAKMKKLLEEYKQVVVVKCDNVGS
+                     SQFQTIRKELRGTCEFVMGKNTLIRKAIKNQAETQPELEELLPHIKGNVGFIFTKGDL
+                     YQLKAKLTELKAPSPAKAGVIAPNDVIVPAGDTGLDPTQTNFVQALNIASKITKGQIE
+                     ITSETLLIKEGEKVGVSQAVLLQKLKINPFKYGAVIDVVYDNGIVYDAKALDLTESDI
+                     VKKFQEGVQAATAISLAANLPTEAACPHIMLNAFQALLGFSKESGVVFPLAEKIFNNM
+                     TAVAATAVATETKTEEKKEEAPAAKEEEEEEDFGGFGDLF"
+     repeat_region   complement(20430..20482)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="gaa"
+                     /satellite="microsatellite"
+     misc_feature    complement(21402..21450)
+                     /note="AT_rich"
+     gap             21456..21555
+                     /estimated_length=100
+     misc_feature    complement(21648..21713)
+                     /note="AT_rich"
+     gene            <21729..>23045
+                     /locus_tag="EDI_053150"
+                     /db_xref="Pathema:EDI_053150"
+     mRNA            <21729..>23045
+                     /locus_tag="EDI_053150"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_053150A"
+                     /db_xref="Pathema:EDI_053150"
+     CDS             21729..23045
+                     /locus_tag="EDI_053150"
+                     /note="encoded by transcript EDI_053150A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22692.1"
+                     /db_xref="GI:165894836"
+                     /db_xref="Pathema:EDI_053150"
+                     /translation="MKGLSTNEIQNYLEDTTFLSDCMKSLHQYTNTIFTLFQQLHTEM
+                     ASFSSKLQEMGNMRGIMSTNRLKTRMLEPLLTFAQTQQQLSEIFYDIQSATQVINQSI
+                     ADTQQIYITPLLNSLQTHNSQNKWNIWSWWSQPNQEFTDATKIQLTLTLGSWEFKLKL
+                     GGIMEAIYRAFQDGSICASGDENFSKTMTKARIEKTKYFMKYKRCQGGYQGKTLDQIL
+                     TMEEREGSIPSGIENIIENIKANGYTTEGIFRLSPSEKDIKDVYDRLGVMDFEGLDYI
+                     LMAAVLKRFFRSLPEKVFDRTNTNKALSINKIKAYNIGTLKSFIKGLPKNNVMIIKQL
+                     FGLLYKINTYSDTNKMNAQNLATIWIPCLFEIPQENPVVFSCRLNELKTFFVALIDNY
+                     YELFPDFSDRKSLRLSSCRKSYHQRTLTRSQSEWAASAESVDKNIK"
+     misc_feature    complement(23029..23100)
+                     /note="AT_rich"
+     gene            <23152..>23754
+                     /locus_tag="EDI_053160"
+                     /db_xref="Pathema:EDI_053160"
+     mRNA            <23152..>23754
+                     /locus_tag="EDI_053160"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_053160A"
+                     /db_xref="Pathema:EDI_053160"
+     CDS             23152..23754
+                     /locus_tag="EDI_053160"
+                     /note="encoded by transcript EDI_053160A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22693.1"
+                     /db_xref="GI:165894837"
+                     /db_xref="Pathema:EDI_053160"
+                     /translation="MYRRGTKQNKKKSCCKGKSKPTTPEKQSYPPAEPFDDEHHSVRT
+                     ITFQNGEVVGDSYEQETPEDNDLFLARQVLKNITHNTVNTIQEMIDDITVQERKLINS
+                     VIRNYESLIRELKFSFDCDSVTLELPYVRRIYGVDDLIEIKRKQEEEMTQIVKDINSL
+                     FGDCVKRSIHINEMRTEIIKSLGNYNKTTKIILNKLEPKK"
+     repeat_region   23734..23777
+                     /rpt_type=tandem
+                     /rpt_unit_seq="caaaaa"
+                     /satellite="microsatellite"
+     repeat_region   23812..23942
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaaaa"
+                     /satellite="microsatellite"
+     repeat_region   23827..23916
+                     /rpt_type=tandem
+                     /rpt_unit_seq="a"
+                     /satellite="microsatellite"
+     gene            <23954..>24376
+                     /locus_tag="EDI_053170"
+                     /db_xref="Pathema:EDI_053170"
+     mRNA            <23954..>24376
+                     /locus_tag="EDI_053170"
+                     /product="40S ribosomal protein S24-1, putative"
+                     /note="transcript EDI_053170A"
+                     /db_xref="Pathema:EDI_053170"
+     CDS             23954..24376
+                     /locus_tag="EDI_053170"
+                     /note="encoded by transcript EDI_053170A"
+                     /codon_start=1
+                     /product="40S ribosomal protein S24-1, putative"
+                     /protein_id="EDR22694.1"
+                     /db_xref="GI:165894838"
+                     /db_xref="Pathema:EDI_053170"
+                     /translation="MATQKSEVTIRTRNLIVNPLLCRKQVVVDIYHPGIVQPKFTEIK
+                     EKLAKMYKVKDVQTIVLNGFVTKYGGGKTSGFALIYDTLSALKKFVPKHQLIRAGLDK
+                     KTKAPRKARKEHKKKWRMCHSFKDYKKKEMKKASRKKK"
+     misc_feature    complement(24457..24479)
+                     /note="AT_rich"
+     gene            <24589..>25512
+                     /locus_tag="EDI_053180"
+                     /db_xref="Pathema:EDI_053180"
+     mRNA            <24589..>25512
+                     /locus_tag="EDI_053180"
+                     /product="hypothetical protein, conserved"
+                     /note="transcript EDI_053180A"
+                     /db_xref="Pathema:EDI_053180"
+     CDS             24589..25512
+                     /locus_tag="EDI_053180"
+                     /note="encoded by transcript EDI_053180A"
+                     /codon_start=1
+                     /product="hypothetical protein, conserved"
+                     /protein_id="EDR22695.1"
+                     /db_xref="GI:165894839"
+                     /db_xref="Pathema:EDI_053180"
+                     /translation="MCEFAAHFVHGFCDKDKDKLVRKEDLFPLLIQFLQSEDPQYKIG
+                     FENYLFDLCDVDENKALDITEFLHLMNCLEIFESQKGQSKNLTTMMALFRAIDSDGNA
+                     SLSAEEITKALDKLPNDSSVNDEIKAAVKKIKEYCGLLGGREINEMEFLGIVIPPSDF
+                     QQYNQQVFSSLFEKGDTDHSGMISVKELKMLFKQMYPDGVDERKAPEIIIKLLDETGK
+                     GEIDKNQFATFACAVAGNDVTIRCLTKTRFYEAIFKILDSDKSGLLERDETTKLLKSM
+                     GFNEKKIAKWFEKIGEEPLTLNKFLEIYLKK"
+     misc_feature    complement(25544..25564)
+                     /note="AT_rich"
+     misc_feature    complement(25831..25926)
+                     /note="AT_rich"
+     misc_feature    complement(26055..26099)
+                     /note="AT_rich"
+     repeat_region   complement(26485..26570)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaaaa"
+                     /satellite="microsatellite"
+     repeat_region   complement(26640..26686)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="a"
+                     /satellite="microsatellite"
+     repeat_region   complement(26690..26782)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaaa"
+                     /satellite="microsatellite"
+     misc_feature    complement(26976..27011)
+                     /note="AT_rich"
+     misc_feature    complement(27242..27315)
+                     /note="AT_rich"
+     misc_feature    complement(27655..27762)
+                     /note="AT_rich"
+     misc_feature    complement(27826..27871)
+                     /note="AT_rich"
+ORIGIN      
+        1 tatttaaaat agaaaaataa taaaataaga atataaaaat gatgataaaa tgataaataa
+       61 taaagaaaaa gaaaagaaaa tatatgaata tacaaaagaa aataaatatt ctaaacacaa
+      121 agatgaaatg aaaaatatga taaaaataat aaaaatctat aaaattaata aaaaaatgat
+      181 gaaataatta caagaattag ctgtaaataa tataaataaa gaaaatatat attagaaaat
+      241 atataagatt ataaatgaat aaagataaaa taaaaatcaa agaagaagaa gttaaagaaa
+      301 taattaagaa aataataaaa taaaaagcaa ttaattaagt attaataaaa cttgtgacta
+      361 ttattcctga attatgtgag actaatcctg tcaatgaatc ttcatcatgt aattctacaa
+      421 aatatatttg gttgttgtag aaatattgtt ccatgacatc aatcttgttt ttaattacaa
+      481 tgtttttaac ttcttttata ttatcaattt cattttttat ttctttaatt aatttaataa
+      541 tttcaaaatt tactaattaa tttattgaaa ttactactgc aattatttta atatctttta
+      601 tttttttcta ttttcattat catattcttc atttctttat atcatttctt ttattcaaat
+      661 atactcaatt aatattatga tatacaacaa tagaaaggat cttgaagtat aagaaaataa
+      721 taaatgaaat agagaaatta taataaagaa ataaataaaa agaagaaatg atagaaaaca
+      781 caatatcaga aaataaagaa gaataaaaat cacttacaaa aattacaata aatttgtaga
+      841 aagtgaaaaa aaaataaaag aaaatacatt gaaagaaggt ctagataata aaatatatga
+      901 tatcatacaa tgatacaaga aaatctattt atcacaaatt ataaactttc aactgtgtat
+      961 aaaaatataa taaaatgaaa tgtatattat aatcaattta taacaagaat gtatttactt
+     1021 agtgaatatg ataaatttag aaaaaaatta aaagaagtaa ataacataaa tctaagagca
+     1081 atatataaaa atatcataga aactaaaata gataataaat aagaatgtaa taataaatag
+     1141 aatattagaa agaattaaat aaatcaataa aaatataaga aaacaacaat gaaaataata
+     1201 taaaacatat aagtgaattg ttaaaataaa gaaataatat taataacata aatataaatt
+     1261 tatcttgaaa gtcttgtaga aatgagaata agaaaaaagg aaaagatata caaaggggta
+     1321 tttatagaaa tgaataaaat aaacaaacca catatatcaa gatattctgt cgtagttatt
+     1381 atctccatta gtacccattc aaagagaaca agtaggattg agttaaaaaa aaataaacat
+     1441 tggaatagaa gaaataaact tatgaaataa ataatagaaa aagaatcaga tatttaatga
+     1501 agaaaaataa caatataaac tcctcttatt gatatttaat tcaaattctg ataaattgat
+     1561 tatatgtata agttaaacta attgacaata gtttatttat ttaaaaaaat cgtctgttat
+     1621 aaaaatttga tattctatta aacttatttt agagaaagaa tttacgatag aagttaaatt
+     1681 tattaaataa aacagaacag ttaatttcca agtcttataa catctaaatc tatggaccta
+     1741 attattaact ctttttataa aattttttgg ggttattaga tactattttt gcagataaga
+     1801 gttctatttt tgattctaga ataacacttt taagttatca ttagttgtca ttgttttttt
+     1861 ttctgtttat ctttatataa ccaacaaaga ataaagttaa aataagtaag ttaaacttct
+     1921 ttcacatgaa caaactcttg cttatttttc cagtaatacc agaatactgc aaggacagtg
+     1981 agaagaagaa caccagtgat taggattaga accaaccaat tttgttttat ccaattatgt
+     2041 ttattgtact ttttttcagt gtattttctt tggatataga actttgttaa agcaaatgaa
+     2101 gtagaagata aatgaggatt aatgacaatt tcagcatata ataaatcacc attccatgat
+     2161 cttgttgttg ttaagaaagt agaattaatt ataaatttaa ttggttgttg tgctaggtat
+     2221 tgttcttttg taatatttga agcaaagtat tcagaccgat cataaaaatg ataaaaattt
+     2281 ataacgctta cttgtaactg acgttcagga tcagatgaaa aaataagaga agatgtgtta
+     2341 atccaatatt ggtattgatt atcatacttt acttgattag tacagttaat ataaacagaa
+     2401 atttctatat cattaacacc gtcaaaagga tatatttgaa tagcatattc ttcgttagga
+     2461 tcttcttggt caaggtattt actttgtgaa aatgattgga cgtttgactg tagtctaatc
+     2521 aaattacatt ctacatcagt ttgttcttca caccattttc cttttttatc tggtggacat
+     2581 aagcaatgtg atactaatct tgattcatta caatttatat tacaaggttg tgtattattg
+     2641 aatgtgatat cacaatgata ttcttcagga cagtcaacag taatttgatt gcattgactt
+     2701 ttatcattac aaagaacagg tacagtaaaa caatttttaa attgtgaata attagtagta
+     2761 taataaaaat gattagaaat aactttatca tcacaaacaa gctatgcaaa gattaatttt
+     2821 tttatttaag tttataaaat aactttaatt ataaacaaac attcattgtt gaacaattgt
+     2881 atgcataatg agttgaatcg ataagtgttg tattatcaca aattaaagaa atatcaattt
+     2941 ctgacatata atgattttca ttattattaa atttaaagat aacacattta ttaaatttga
+     3001 attgatcaat tttaaaaaga ttttcatcaa taaagaattc attgacagta cattctattg
+     3061 tttcacatgg agaatttata gcaacaattt ctgatgcatt gaaatattct tgaccgataa
+     3121 aatattcatt aattctaatt ttataatttc catcacaaac actaatattt aaattataat
+     3181 attccttttc accacttcca caatctataa aatgattatt tattaattat gttagtttgg
+     3241 ttaacaaact atgatcaata tttactgttc tttcattcat tcctgaatct ggtgttgtaa
+     3301 tactttcttt ttctttttca gagattgctt taaaataatc tttatttttt ctgtgtggat
+     3361 ggttgtaagc aaagactaag tcttctttga gtttatgaat tccatccatt ccttgtttca
+     3421 tttcatcaat aattttttct ttaatttcat taacatacat ttgagtctct tggcattgac
+     3481 aagacaaaac aatgaaactt atccaaatga taaaagtctt cataacaaac aaaacaattg
+     3541 atttattggt ttctcagatg agaattttga aaatttgaaa acattaaata gaaaaaaagg
+     3601 aatttaatag attcatatgt caaaaaactc tccatctgaa ccaaatcaat gggatgaaaa
+     3661 acgtattgaa tcaagacaac aatatcttcc taaaagagaa ttccaaaaat taagagaaat
+     3721 aagggatgaa attgaagatg aaaaagaaat gtttaatgaa aacgaattaa cagaatcaga
+     3781 aaagaaagaa ttacaacgaa aaatagatat ttataattta gctaaacaac gtattgcctt
+     3841 agaacaaatt aatgaacctc aatatagtat tcctaaaaca ggtagtgtta tagaagagaa
+     3901 accaatttat gataattaca aagacgaaga taatgaacaa tggatgaata cccaaaaaaa
+     3961 ggctattttt attggtaaaa gtatagatga acgaagtaaa atagatgatg gttcttttga
+     4021 aaaaatgata cttcaagaag atgaagactc tcttgaaaga gaaatattgg aattaagaac
+     4081 aaaagaatta gaagaaatcc cttcaaaaag aacaaaacaa gatgaaatga atgaaattag
+     4141 aaaatcttta cctgtatatc aaaaacgtga agaattttta aaattagtta gaaacaatca
+     4201 aattgttatt attgcgggag aaacaggtag tggtaaaaca acacaactac ctcagtattt
+     4261 atatgaagat ggatattgta aaaaaggaaa aataggagtt acacaaccaa gaagagttgc
+     4321 ttgtatgagc attgcaagaa gagtttcaga agagattgga actcggttag gaggaatggt
+     4381 tgggtatact gttagatttg aagatgttac atctgataga acattaattc agtatatgac
+     4441 agatggaatg ttattaagag ggtttttaaa tcaaccagat ttatctgaat atagttgtat
+     4501 aatgatagat gaagcacatg aaagaacaat atcaacagat ttattatttg gactactaaa
+     4561 agatataatc cgatttaggt cagatttaaa attaattatt gcgtcagcta ctttagaaac
+     4621 tcaaaaattt tctgagtatt ttgataatgc accagtattc attattccag gaagaagatt
+     4681 tcctgtcaca attgaatatt tgacagaacc tgaacctgat ccattaattg ctgcagtaaa
+     4741 tagaactatt caaattcata caacaatgcc aaaaggtgat attttaatat ttcttacagg
+     4801 acaagaagaa gtagatgaat gtgctgaagc aattaaagaa agaacaagag gatatggtac
+     4861 aaaaatggat gaattgatca tcacaagaat ttatgctgca ttaccaagtg atattcaagc
+     4921 ccaaatattt attccaacac ctccaaatgc aaggaaagtt gttgttgcaa caaatattgc
+     4981 agaaacatca cttacagttg atggaattgt ttatgttatt gattcggggt attgtaaaat
+     5041 taatgaatat aattctagaa ctggaatgga aagtttaaaa attgtcccaa tcagtaaagc
+     5101 atcagcagac caaagagctg gaagagctgg tcgtgtgtcc cctgggaagt gttatagact
+     5161 ttatactaaa gatgccttta ctaaagagtt acccgaatct actccaccag aaattattag
+     5221 gtctaatctt tcatcggtaa ttttattatt aaaaacactt ggaattgatg atattcttca
+     5281 ctttgatttt atggactctc caagtcctga atcgttaatg agagctctgg aagagttgta
+     5341 tgcactagga gctttcaatc aaaaaggaga attaactcaa aggggacaaa aaatggcaga
+     5401 atttcctata gcaccaacat tagcaagagt acttattggg tctgaacaat atcaatgttc
+     5461 tgaagaaatt gcaacaattt gtgcaatgtt acaaatatca ggagaattat tttatagacc
+     5521 aaaagaaaaa gctcaaatag cagatacaat taaaaaaggt tttgttagat ctgaaggaga
+     5581 tcatcttact cttttaggtg tttataattc atgggttgat gctggtaaat cagatggatg
+     5641 gtgtagagat aattttcttc aagcacgtgc attaaataaa gcaaacgata ttagagacca
+     5701 attagttaat ataatggaac gggttgatat tcaaatgtta aaatcaaaag ataatatatc
+     5761 aatacttaaa gcattattaa gtgggtattt ccttaataca gctcaattaa ctaaagaagg
+     5821 aatttatcgt caaacaaaac aaaataggac aatagaaatt cacccaagtt caagtatgtt
+     5881 taataaaaat cctcgttgga ttttatttta tgaattagtt ttaacaacaa aagaatacgt
+     5941 tcgtcaagtt tctgaaattg atccatcatg gctcatagaa gttgctcctc atgtatttaa
+     6001 agaagaagat atgaaagatg caattcgtaa atatcgtagt aaaaagaata aataataatt
+     6061 cctttacttt ttttaacaat taaaattaat aaaccagaaa accttatgac ttaacaaata
+     6121 catgaattga tattacttag tcattgtgtc atcccaatca ataaaataat cttttgggtg
+     6181 ataatttctc attactattt ctgtatattc ttgaccaaaa taatttttca ttcgatgaga
+     6241 taatggataa acttgttcta aagctaccca aataatttgt tccttagttg gtctgtgata
+     6301 gagctttccc tgtgcaatag cccatgctac tcctgttagt ctatgtactt caatgtcttt
+     6361 ttttatactt gcattgattg aacgaaaaag cccttcaaat gctggattca aaaagtgaaa
+     6421 atgagatcgc atataataaa gatatgcatt gtaccaatgt tcaggtgtat ttagtggtcc
+     6481 atctcttcct ttctgagaaa taaaatccat taacatctct tcaatttcat gaccaatacc
+     6541 taaaccagnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     6601 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnaa ataaattttc
+     6661 aaaaaaatta ggcattacaa ctcgtttgca attaacaaca ttaaacttac tattaactcg
+     6721 aagaaataat tgtccaatta agtgatttga atcttttttt tcattaaata actgtgccta
+     6781 taaattttat taatatacaa atattttttt tcattagatt taaagaaata ttagtaattc
+     6841 tttattctac taaaagaaac aaactttgtg aacataataa tcagaggtgt caaactcaac
+     6901 tttgagatta tcaatacctt ttctttctaa aacttcttta atagaactcc ctgaatttgg
+     6961 accatgttta actttgtatc ttagcatttt atctgctagt tcatcttggt cgtactgatt
+     7021 taaaaatttt tctgacccac gaggtataca atcaaggtct agtatatctt catcatcaaa
+     7081 tatttcaata ttattttcaa tgcactcact ttgaatcatt tctccaaata accatctcaa
+     7141 taaatcattt agttgttgaa taatgtattc acgtattatc ttgaataatt tataaaaata
+     7201 atttattttc gtttcatttc ccttattgtt cattagaatt aaagtgtcaa aatgtcttat
+     7261 cttttttttt taagtttttt catttttctt ttataaatct atttatagaa ttatattaat
+     7321 aagttatata taacaaataa aatttaaaaa aacaaaaaat tattgaactc agaaaaacct
+     7381 aatggaggaa atcactaaag aaagtattat tcaaaaatta cttgaagaaa aatctttact
+     7441 agttgaccaa ctaaaacaaa cccaccaaga gttaaaccaa tcacaaacac aacattttat
+     7501 ggaccgtgaa aaatttaatg tattatataa ttctcaacaa gtttgtttta taaaaaagaa
+     7561 gttatttaat cttcaaacaa accacattta aaattaactt catagtcagt tattcaacag
+     7621 ttaaaacaaa acgaaataaa taatctccaa aaaattgaga ctttatcaca agaaatagca
+     7681 aaacttcaaa tccaaaatgc aattaaagag actgagcctc ctaaacaaat gcaccttcaa
+     7741 agtagtgttg ctgttgatgg aattttgaag ttagttccag aaaataaaag aatggaagca
+     7801 tcaattttgc tagatgaatt caataaattc aatgaaaacg aacatattct ctttgttcag
+     7861 tacttaaaac aagaattaga agaagaagga attaatgtat tctctaaaga agagaaaaat
+     7921 actcaactga aagaaggttt taagaaaata caagaagaag ctatcaatga actaaaaaga
+     7981 tgtgaagaag taattactaa aaaaaatgaa accatcgaac tattgaaaag agaaaatgaa
+     8041 gaacttgaaa atgcacttgt gaaacaaaaa ggtagtgata atgataattt taaaatcaat
+     8101 ttaccattta aacaagaaat aatacgagaa aatgaagagt tgacagaaag gttgacaaat
+     8161 atccaaattg aatttgataa ttttaaaaag aaaaaggatg aagaacttaa aaaatcaaca
+     8221 gagtcattag attgggatga aatgaaaaag aaagttgaaa agatgtatga acttcaacaa
+     8281 gaaaatagtc aactcaaatt aaaactcaac aacgatactc ttttcaataa tagtagaact
+     8341 gaaatcaaat tgtctgaaat gaaaagacaa cttaatgtaa gtgaagaatt aaatgaaaaa
+     8401 agaaaagaag aaattactag gcttcaaaaa gaaaatgaag acttggaaaa taaacaacaa
+     8461 caacttatta aagattcaaa tttttatcag tctgttgttg tctctgctaa acaagaaact
+     8521 gaacattgga aatctatgtg gcaagaactt caaggagaat ttaaaatatc aacaattgcg
+     8581 aaaatagact tggaaaatca aatagaatca ttaaaaagta caaataatgt attagaacaa
+     8641 aagattaaag cttttgaagg aaaatttgat ccaatctcta caaatcaaga tcttataaaa
+     8701 gaaaaagaag acactattga aatgttaaca attgaaaaac aatgtcttca aaagagagtt
+     8761 gagtgcttag aaaaggaaca aactgaaaat attgcaaaac aaaaccaact tgttcagact
+     8821 atttggaaaa ataaagaaaa agttgatcgt gtagacgaaa caacttctag tttacaaaaa
+     8881 aaaattggag aattattatt tgatttgaaa agagaagaag aacaacgaaa aatattagaa
+     8941 gaaaatgaaa aagagtgtaa aactgaaatt gaagaattaa aaaaagaaaa tacaacaaaa
+     9001 caaattgaat tacaagaaat aatccattca aaagaacaag aagtacaatc aattaaaaat
+     9061 gaatatgaaa gtattaaact agaaaaagaa aagaaagaaa ttcaaattca agagatccaa
+     9121 aaaaatgttg aagaattaac agaagtaaag aaagaaaaag aagagaatga tattttattg
+     9181 aagagtattc aaaataaact caaagaatta aaaatagaaa ttaatagtaa tgaagaaata
+     9241 aatattggtc ttcaagcatt aattgaagta caaaaaggat ttgaagaaaa acaaaatgat
+     9301 cttaaacaaa aagaaacact ctttaaacaa caaatagaag aacaaaatat gaatttaaca
+     9361 aaacttgaag gaattattgg aactgttatt catcaacaag gaattgatga aacaagtaaa
+     9421 aacattatat tatatttaca acaagaaaat aatagattgc accaacttat ttcactaaac
+     9481 gattctcaaa ataaattcat taaatcaaat gaacaagaag ataaattaaa gattgaaatt
+     9541 gaatatctta aggaaaaggt tcaaattgaa caaacagaaa aagatgaatg gaagaaaaga
+     9601 atgcaagaat tatataataa aaaagatgtc gttccaaaaa gtcaattaga aataaaagaa
+     9661 aaagaacttg aaaaacaaaa ccaggttatt gaagaaatgg aaatggcaaa taaagaaaat
+     9721 aaacaaaaaa tcactaatct taagacagac attaataatc aactcaaaaa gtatcagtct
+     9781 gaaatccaag aacaacaaca gaaacaaaaa caaatggaag aagaatttaa taataaaaca
+     9841 caaaaatgga aaatcgaaaa agaaaagtta caagaagaat taaatgaaat tcgatcacaa
+     9901 cttcaaaaaa gaaaagatcc tttcaaagaa aatccagact caattgatgc attcaaaaat
+     9961 agactcacaa atagaaatcc tcaaaatcca attgaacgaa tagttcaaga acaaaaacaa
+    10021 cctgtgattt ctactaccca attcaataat attttcaatg aaacaattca aaagaaagaa
+    10081 gaaacaatat ctactactga taacttgtct aaagttgaac ttctaacaaa tcttaaacca
+    10141 aaaataaatg aacaacaaac tcaaaaagtt gatgaaagta agagtattaa tgatgaaata
+    10201 gttaatacaa gtgatgaaaa tgaaaacgaa aatagtatgg aacaaattga tagtaatgaa
+    10261 agtggtagtg aagaacaaag ccaaatggaa aatgatgata caaaacctac aactcaatta
+    10321 aatttaaata tatttgatat acctaaacaa gaagataaag acaatccttt cctcaaactc
+    10381 caacaaattt ctaattctca accaacaaaa gaaacaaaat caagcacaac ttttacgtcc
+    10441 ttgtttaata ctccaaaaac tgatttcagt gcatttttat cttctgatac aaaatctcaa
+    10501 gataataata ttttttcaaa ctttgtactt aataaccctc ctcaaatcca aacaaataat
+    10561 acacaagaac cttctattgt taaagactcc attgtttcta atgctcaaca aaaaatagac
+    10621 caaattggtt taaagagtga tgagtttttc ccatttgggg atactgcact gataaaaaat
+    10681 aatttaaaac catcaccttc tccacaaatt gatttccaag ttggttcttg tttacgtgtg
+    10741 aaacaattct cactcccaag tcctgtatta aataaagaaa tggctcaaca aatacaaact
+    10801 caaaacaaag aacaagaaca acaaaaacgg ttagaaactc tcaaggctaa ctcagccagt
+    10861 aataaaagaa atggtctcaa cttaccatca tcgtttcact aatgaatgat ttatttaaat
+    10921 gatacaaaat atcttattgt tgtatttttt ttggatagaa atatattatg tatagaaaca
+    10981 ttcaaaataa tagtttatga taacgatatg aattaaaaat ctcaaaaaat aaaaaataat
+    11041 atttttaaaa aaaaaagaaa gaaaaagaag aaaaaaaaag taataagaac tttaaattaa
+    11101 taagtaaatt gatatgtcta ttgatttagc ttcatttttt tatgtctcta tcccaactaa
+    11161 taaaattatt aaagaagggt ttatggtaaa aagggggcat atagtccgaa attggcttca
+    11221 aagatggttt gtgttaacaa atgatatatt atactatttt gatgaacaaa aacttcattt
+    11281 aaagggatat attcctttgg catttgggac aattacacga agtcctgaaa tgaagaaaca
+    11341 accatgtttt caattagtat cacccttaca aaataaaacg tatttcattc aagtttgttg
+    11401 tctatcgaat aaagtaaaaa aagataaaaa gtaattacaa atagtgtggg actgaggatg
+    11461 agtgtgggtt atggatggca gctatttcta ttgtattaaa caaatatatt ggagagccag
+    11521 aaacaatgga ccatgttaca catgttactt ataatgaagg aggattttgt ggaataccac
+    11581 cagaatggga aaatatgttt attgcattag gaattacaaa agaagaaatt aagtcaaatg
+    11641 aaaaagaagc aatgcaagtc attcagttta ctaaaaagct tgaagatcaa cctcttggac
+    11701 caccaccaat gccagaaaat gaaataacaa ttactttaaa agatattgta caaccaggaa
+    11761 atccaacaga attatttgat aattggcaac aaataggaga aggagttagt ggagtagtat
+    11821 ttcagtgtgt agataaaaag accaaagaag aacgtgcagt gaagaaaatt aaaatagaag
+    11881 atgattcaat taatctacaa gaaataaaaa taatgcaaac actaaaacat ccaaatattg
+    11941 ttggattttt tggatgtttt gaattagata attatttata tatttctatg gaatttatgg
+    12001 atcgtaataa tttaactgca atattagaat tctttccatc tattgctatg aatgaaccac
+    12061 aaattgctta tgttgcacga gaaacaaatg aagcattaag atatgttcat agttttcata
+    12121 gaattcatcg tgatataaaa tcagataata ttctaattaa tcataatgga gaagttaaat
+    12181 tagcagattt tggtgtttca gttcaattaa ctaaaaataa atcaaaaaga aatactattg
+    12241 ttggaactcc ttattggatg gctcctgaag ttattaaagg aaaagactat gattgtttga
+    12301 ttgatgtttg gtctttagga attatgtgta gagaaatgat ggaagggtat cctccttata
+    12361 tggatgatcc tcctttaaga gctttatttc aaattagtac taaaggtgtt cctcctatta
+    12421 caactggtag ttggtcaaaa gagttattag actatgtcaa tggatgttta tcagttaatc
+    12481 ctgaccaacg cccttcaaca gaatcatcaa ttaaaaatcc attcttccaa aaagcatgca
+    12541 caaaaataga atttgcagat tttgtctcac gagttgaaca aattgctctt gaacaacaaa
+    12601 actaattaat gaatttttca ttttcataat ttaaatttgg tcaattttat ttaaaattta
+    12661 actaaaataa aacgatgaaa ttaaaaaggt tatttattct ggtgggtatt ctttaacaag
+    12721 catatcagca aattccttat aatcaacata accttctcta cttactgtag cagatctcat
+    12781 aattgcttca acttctgaat ttgaaagtgg tcttcctaaa actgaaagaa tttgtcttaa
+    12841 ttcagcttca tgaatttgac cattttcttc tttatctaaa gcagtgaata caccaaacat
+    12901 atcgtcatac aaatctttag gtaatttcat ttcacatttc ttatataatt gtctaatttt
+    12961 ttcaactcca acaaggtctt cttttacttc tctcataata gcttcttctt gttgttgagt
+    13021 tggtgctttt ccaagggctc tcaataattc gatgacttgg tctcgagaaa tcttcttatc
+    13081 atgatcaata tccaagattg cgaaataatc atcaattaat tcacttgttg tcatttgttt
+    13141 ttaactttct tttcaagttc acctttttaa gatgaatttg tgtctgtttt tagccttttt
+    13201 taaatctttc ttcgaacaaa ctattctttt gttttggtat tggttattgt tatattatta
+    13261 atgaacttgg ttataataaa tcaattctgc ctaactaatc ttaaaatgac agtttctttt
+    13321 ttagattacg ttttttcact taaaacaata aaataagagt tgttgaattt attgttattt
+    13381 aatgcataaa aaagaagagc ctgttgctgc attactttga gggcaatggt ttactaaaaa
+    13441 tcttgtttaa tctgacagga tttttaaaaa tataaaaaaa aataagtaca atgaataaat
+    13501 aactaatcca aaaggaaaaa aaccctgaaa atagaattat gttgaaataa tacattaaaa
+    13561 gaaaaaatct aaaaaatgaa gaaaggaaac tgtaaaagaa gattacataa gaaaagtaaa
+    13621 acaaaatgga tgaaccatta ctaaatgaag aagaaaaact aacacgagac gataatgaga
+    13681 ttgaagtaag tgagtcgatt gatcatttta tttcagataa tgatattgaa atttttcgaa
+    13741 aagaagaagc agaaagaaaa gttactcttt taaagctctt taaatttgtt ggatgggttt
+    13801 tattagaaaa atggtattgt atattatttg ttttatgctt tattgcattt tcattagttg
+    13861 tttattttac tgattggaaa atggctgaaa ttggagatgt tacttataaa acaattattt
+    13921 gtttgatact tattggaata atgattacgt taattctatc taatttatat catccaggag
+    13981 ttattatgat ggcagtagtt ggtcttttaa ttgcttgtag agtgataact tctgcacaag
+    14041 gttttcaagg atttagtaat cagtcagtaa taacaattat tgtttcatat attctttcaa
+    14101 cagcaataat taaaaataga agtttagaat ttttaactag aaatatattt ccagaaacat
+    14161 atgaaaaaca tgtttggcca tcattattat ttatggttct cattactttt ttgttatctg
+    14221 ttgtaataga taatatacca gtcgttttat tatcaatgtc tatagttcat acttggacaa
+    14281 aaacatctgg aattcctcct agtaaagttt tgttaccaat ttcttttgct gctattcttg
+    14341 gtggaatgaa ttcaatactt ggaaattcat catttcatcg agcaagaacg ttattaatta
+    14401 cgaaagtatt agaacttaac aaaaaaggta ttcatttaaa tattacaatg ccatattttg
+    14461 aaatcgctat tatttcatca atcatttcta ttccagcact tatttacatt attttagcta
+    14521 atgggattct tagtcgtcat aaagaagaat cgtttcataa aacaaacaaa tcatatatat
+    14581 tcactttccg tatagaagaa aagtctcgat ttattggact tcaattggga gaaactgtat
+    14641 taaataaacc tcctaatggt aaattgtgtt atattaaacg tggagaaaat tatattgata
+    14701 ttaaagatga cacaattata aaaaagaatg atatactctg ttatattgct ccgtcatcaa
+    14761 tattaaaaga tgtgttaaca tataacggag ttgtcccttc tgatccaact attcatgaat
+    14821 tagttggagc tactgtttat gaaattgcct taaatcctca agacacatta attggacaag
+    14881 atattaaatt gattaatgaa cgtggtgttg gattattagg agtctcaata gatgagaata
+    14941 aatggaaaga acaattgaac caaatcaata tcctttcttc tgaaagaaca tacattgtta
+    15001 tttcgccaca aaaccaagaa ttaaaaggaa atgattttca cttggttacc caaatagatg
+    15061 ttgatttgcc acaaccaaca aatattatta aaaccattat tccaatattt tgtcttctta
+    15121 ttccatgtat tttagaatca acaaaagttt gctcattatt tgtttctgga tttgcttcag
+    15181 ttttggttct tattatcact caatgtatga ctgtctcaga aatttatcaa tctattaatg
+    15241 ttcaagtggt ttgtgttatt gcagcatcat atggaattac ttcagcaatt caaacaacac
+    15301 acattggtac attgttgaca ttgtcttgtt ctcagtggtt tatctcacta ggaaaatatg
+    15361 gaattttaat gggaattttt ttacctacca ttttacttgc acaaccattt gctaatacag
+    15421 ttattgttga tataatgttt ccgatggtgt ggcatcttta ttatggcgat tctgatagtg
+    15481 cagaacatgg ctcattaatt ggaattaaat cagcaatgta cacaatgatg atagcatcct
+    15541 catcttcatt tttattaaca attggatacc ccactcatat gattattaat caaaaagcac
+    15601 attacacatt aaaagaagta tttctttttg gacttccaat atttctatgg gtatttatct
+    15661 gtggtgcttt acttccttat ttgttttttg aagtgttata aattaacaca tccaccttac
+    15721 atttaattga atttgataaa taatgttata actaaattaa tcctaataac tctttctctg
+    15781 agttggtgaa attcatttgg tcaacaacac caaatgatgc cgcttttgat tccatttctt
+    15841 gttttttctt tctttcttct tctaaccttt tttcttcttc ctcttttatt ttttgagctt
+    15901 gttctctttc ttcttctttt ctttttcttc gttcttcttt cttctgttga cgttctaatg
+    15961 ctttcttttc cctttcttca ttcaaaagtt gtttttgttt ttgtttttgt ttctcttcct
+    16021 cttcttcttc tttctttttt tgactttttt cctcttcagt agcttgtttt ttttcatttt
+    16081 cttctgcttc ttgttttatt cttttgttat actcttcttc gtccttttct ttttggatta
+    16141 ttttcaactc ctctttcttt tctccttctt tccttttctt ctcttcatct tgttttcttt
+    16201 gtttttctat ttcaacttct aatttctttt tacactcctc ttcttctttc atttgttgtg
+    16261 ttcttttttc ttcttgtctc ttcttttcct cttcaatgat ttggtgttct ttttcttctt
+    16321 gttcttgttg ggcttgttta attctttctt cctcttgttt tctaatcatt tcctttttgt
+    16381 catcttcttc cttttcacgt tgtgtaatca tttcatttag ctgaataatg tccttaatag
+    16441 atttttcttt ctgtagttgt tgtggttttt gttgttgctt ctttttttcc ttttcctctt
+    16501 ttcttttttg ttcatattct ttagcttttt gagcaatctt ttttagttca agtaattctt
+    16561 cgtcctcttc ttcttgagca attttatctt cttgtctttg atttgtttct gtttcatctt
+    16621 tagttttaat agcactttta cttagtggag tagtgtcttg taaaccattt tctttatttg
+    16681 atggttgaac taattcttct ttctcttgag aatcttttac actctcttcc tttaattcta
+    16741 aaacttcttt attatttaac tcttgttgat ttacttgatt aaacacttcc ttggtatcat
+    16801 cggtatttgg aagagttgat tcttttttat tatctaacac cttttcttgg gtttgccttt
+    16861 ctacttcatt attcgttcct aataatttct tgtctattgg ttcttctttt tggcctttaa
+    16921 ctagactttc ctcatgttca tttttaggtt caccgttaac tgcttcttgt gtgttatgaa
+    16981 ttttaatatc ttcttggtat gttgttattg tctcttcttt ttcgttttgt tttgcttctg
+    17041 tattttgaaa atctttgtta ttagcttcat caatactctt ttttaattct tctcctacaa
+    17101 cttcaactag cttttcagat aaacttttag gattagtgtt tgaagttagt tcatttttac
+    17161 attcttcagt ttcacattca attacgctgc ttgaactaat ttctcctttt tttatatctt
+    17221 ctaatttttt agtatctact tctttagtta attcttcaac catcatctct tcatcctcag
+    17281 gaatatcaaa cacctcttct tctcttttac ttccaactaa atcaacatca taattaggag
+    17341 caatacccat agtgatatta ttttctgaaa ttccactttc taaataaatg tcttttttcc
+    17401 ctgtaataaa ttctccactt gttttaaatg ttacattagt catatgttct tttactttaa
+    17461 ttttatttat atatttctct tgttcttttg ttgcttcagt attacaataa tatgggtcaa
+    17521 atctcattaa cacacgttct ggttgtacag gaagtacatc tccttcccat tgaattctta
+    17581 aaagtacttc acctgtttga gggatattaa aatctccaaa attttttaat tggaaccatt
+    17641 cttcaattcc attttcaaca actctccata atggtaaatc aactgctcct acaaactttt
+    17701 tagaactaaa gaaaccaatt acaacgtttt ctctcatttc ttctaattga actatgaaag
+    17761 tactcttatc tccatcccaa ataggatcaa ttgatttagt tgatatacca ctttcaattt
+    17821 gattattatc tttatcagta acaacacatc taaattttgt ttgttttcct tttagtgttg
+    17881 gaaaattaat acctttgata agagttattt gtatattttg tacttttatt tttcgttctt
+    17941 caaaacttct aggatccatc catgtagtat attttttatt ccaattaata aaatacattt
+    18001 ctcctctatc cattccaatt ccccatcctt ttggtaacat tttgcattca ggtaatggat
+    18061 atctaatatt taaataattc ttacatgact catctccata acactttctc caaagatgat
+    18121 ttatatatac tggaacacca tctacctcta ctttttgaat aacactttca caacttggtg
+    18181 tgggtctcat atgtattccg taaaatgtta ttttatcttt tgaaaaatca ataccatgta
+    18241 aggcagcacg tgcacaattg tcttcaaatg tacctttccc ccatcctaca gtaacaggaa
+    18301 atttaactat aatagttggc tttttctcta atttaattct tatttcaaca taagactcaa
+    18361 caataaaatc atcttctttt attgttggaa gtaagttagt tgattctaaa ataaattctt
+    18421 tctgtaataa tttaggtatt ttatctaact cttgaatacc accatttgaa gtgatatatg
+    18481 tttctctata cctatgttct gaataccata acataattgg atttaatggt ttccccgtat
+    18541 tattactaat tgtaacatat actttaatag attcattagg tttaattcca ggtgtacatc
+    18601 tcattcttac taatacttga tctctactac atacttcttc tggttttttt atatcaaaaa
+    18661 catctttaac acaataaaga attggtactt cattagatga tgtaaatgtt gataatgcta
+    18721 ttgccttctc tgaaccttct tttcttttca atggaataat ttgtaatttt gcttgtaatc
+    18781 gataccttac tccaacccct cctttaagat gtaaagaagg atgtggtaca ataggaataa
+    18841 taattgaaaa tggtactgca tgagtacctg gaaaatattc atgataaaat ggttcacaag
+    18901 agaaattaga ttgctctgcc aatggaggat aatcacgtga aatgaaaaat ttgtttacta
+    18961 atttaattgc ttttttgtct gaagcattac gtgacaaaat tgtttcacca attaagttaa
+    19021 aatgtagttg attaacaatt actctcttct ttacattaat aaggagaaac ccttgtaatc
+    19081 tttctccaat agcataacct ttattaataa aacgaacgtt taaattaact tctgacattt
+    19141 aaaactaaca atcatctttt ctagtttttc ttgaaaagta agataataaa gaggaaaaaa
+    19201 tcaacaaaaa caataaacaa attaaattga aggaaatgtc tttctttctt ttttttattt
+    19261 tgagacgaaa ggaatgatat ttgatttata aaaatcttca aagttattta tcgttttgtt
+    19321 taataatatg agtaaccaat atacctcaca aatcattcat tacatcagtt actatctttt
+    19381 caatctcctt aagacgagta tggtcattat ttgttgtccc tgcaagatca attaaattat
+    19441 tgtaaatttc aatgagcctc tgtttatttc tgctcatatc tttatcaatt tttttatgac
+    19501 caataatgga aaaaaaagat tgttgatttg agcagataac atcttctttt tttgatgctg
+    19561 ttaaatcttg tttttcagta ctgaacttag cagcctttct tttttctctt tttgctttta
+    19621 ctggattaaa actaacaaga ttttgttgtt gaattgaaga tattttgctt gtcctatcac
+    19681 aaatacttac agccatatca attaatggtc gaagtgcaaa aactggagga aatttcatta
+    19741 atctacgaag agtgtatgtt gggtcatctc gttctactat gtcatttctt acatataaca
+    19801 tcattgaaag gaatacacca tccactaatt ttaaattttc tccataagca aaaatagcgt
+    19861 cccatatttc aacaacatcc tcaatatgaa attcacaagc aaataacatc tttatccatc
+    19921 taataccaaa aacggaggaa taatatcnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+    19981 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+    20041 nnnnnnntaa actatacttt tctctgtttt gtttaataac ttctatccaa ctaacactta
+    20101 ttggagttgg taatacccca agccatactc tccatgcaat agtcctaaga tataacccac
+    20161 ttaacccatt aaaaatagca gtttttttaa gtgaaattaa ttctttatca cacaagtatg
+    20221 tgtctttaaa aatactaaga gaaatattaa gtccgatagg attacctaat tgttccattg
+    20281 aaaagaaaaa attaatattt catagttctt taaaaaatta tttacttttt taaaaaatta
+    20341 acagaaaaat aacaaaaaga aaaatatggt ctcttaaaag tgtttttgta tgagagatcg
+    20401 cttagaacaa atcaccaaat cctccaaaat cttcttcttc ctcttcttct ttagcagctg
+    20461 gggcttcttc tttcttttct tcagttttag tttcagtagc aacagcagta gcagcaacgg
+    20521 cagtcatgtt gttgaagatc ttttcagcca atgggaatac aacaccactc tcttttgaga
+    20581 atccaaggag agcttggaat gcattgagca taatgtgtgg gcaggctgct tcggttggga
+    20641 gattagcggc aagtgaaata gcagtagcag cttgaacacc ttcttggaat ttcttgacaa
+    20701 tgtcagattc agttaagtca agagccttag catcataaac aataccatta tcataaacta
+    20761 catcaatgac agctccatat ttgaatggat taatctttaa tttttgaaga agaactgctt
+    20821 gtgatactcc aactttttct ccttctttaa ttagaagagt ttctgaagta atttcaattt
+    20881 gacctttagt aatctttgat gcaatattca atgcttggac aaagttagtt tgagttgggt
+    20941 caagtcctgt atcaccagct ggtacaatga catcatttgg tgcaataact ccagctttag
+    21001 ctggtgatgg tgctttaagt tcagtaagtt tagcctttaa ttggtaaaga tcacctttag
+    21061 taaaaatgaa tccaacatta cctttaatgt gtggaagaag ttcttcgagt tctggttgag
+    21121 tttctgcttg gttcttgata gcttttctaa taagagtatt ctttcccata acaaattcac
+    21181 aagttcctct taattctttt ctgatagttt ggaattgaga tgatccgaca ttatcacatt
+    21241 taacaacaac aacttgtttg tattcttcca agagtttttt cattttggca agatatgctt
+    21301 ctttcttagc tttcttttgt tctttactta aaccagcttt gtgtaaggcc atccttagct
+    21361 atctcaattt cttagattat agggttgttt tatttggttc cttttttatt ttttttcttg
+    21421 tttttttact aataaatata gtttattata cttcannnnn nnnnnnnnnn nnnnnnnnnn
+    21481 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+    21541 nnnnnnnnnn nnnnngatta ttttctgttt ctctcagcat aacatgttat tgaaaactta
+    21601 atgttcttga atacaagaat gttttacctt atgaaatggg ctctgtcata aattgtttaa
+    21661 aaacaataaa taatatttac aaaaaaattg atagaaaaaa acttaaaatt taagttagaa
+    21721 ttaaatcaat gaaaggatta tcaacaaatg aaattcaaaa ttatctcgaa gatactacat
+    21781 ttctaagtga ttgtatgaaa agtttacacc aatacactaa tactattttt acattatttc
+    21841 aacaacttca tactgaaatg gctagttttt caagtaaatt acaagaaatg ggaaatatga
+    21901 gaggaataat gagtaccaat cgattaaaaa caagaatgtt agaaccctta ttaacttttg
+    21961 cacaaacaca acaacaatta tcagaaatat tttatgatat tcaatctgct actcaagtta
+    22021 ttaaccaatc aattgctgac actcaacaaa tatatattac tccattattg aattcattac
+    22081 aaactcataa ctctcaaaac aaatggaata tttggtcttg gtggagtcaa ccaaatcaag
+    22141 aatttactga tgcgacaaaa attcaactaa cactaacatt gggcagttgg gaatttaaat
+    22201 taaaattagg aggaataatg gaagcgatat atcgagcatt tcaggatgga tctatttgtg
+    22261 ctagtggaga tgaaaatttt tcaaaaacta tgacaaaagc aagaatagaa aaaacaaaat
+    22321 atttcatgaa atataaaagg tgccaaggtg gttatcaagg taaaacctta gaccaaattt
+    22381 taacaatgga agaacgtgaa ggatcaatcc cttctgggat tgaaaatatt attgaaaata
+    22441 ttaaagcaaa tgggtatact actgaaggaa tatttagatt atctcctagt gaaaaagata
+    22501 ttaaagatgt ttatgataga ttaggtgtaa tggatttcga aggattagat tacattctaa
+    22561 tggctgctgt attaaaaaga ttctttagaa gtcttcctga aaaagtgttt gatcgaacca
+    22621 atactaataa agccctttct ataaacaaaa taaaagctta taatattggt acattaaaaa
+    22681 gttttattaa aggactacca aagaataatg ttatgatcat aaaacaatta tttggacttt
+    22741 tatataaaat taatacttat tcagatacta ataaaatgaa tgctcaaaac ttggctacta
+    22801 tatggatacc ttgcttattt gaaataccac aagaaaatcc agtagtattc tcttgtagac
+    22861 ttaatgaatt aaagacattt tttgttgcat taatagacaa ttattatgaa ctatttcctg
+    22921 attttagtga tagaaagtca ttaaggttat cttcttgcag aaaatcttat caccaaagaa
+    22981 cactcactcg atcacagtca gaatgggctg ctagtgctga gtctgttgat aaaaatatta
+    23041 aataatattt aattccgtaa ttttctttaa attcaatatc taaataaaaa aaaataaaaa
+    23101 gtcgaaaatt aaacttcaaa acggaagaag tttggtgtga agaagtgatt aatgtatcga
+    23161 agaggaacaa aacaaaataa aaaaaaaagt tgttgtaaag gaaagtctaa accaacaaca
+    23221 cctgaaaaac agtcttatcc ccctgctgaa ccttttgatg atgaacacca ttctgtaagg
+    23281 acaattactt ttcaaaatgg agaggtggtt ggtgatagtt atgaacaaga aacaccagaa
+    23341 gataatgacc tttttcttgc cagacaagtc ttgaaaaata ttactcataa tactgttaat
+    23401 actatacaag aaatgataga tgatattact gttcaagaaa gaaaattgat taattcggtt
+    23461 attcggaatt atgagagttt aatacgtgaa ctaaaatttt cttttgactg tgacagtgtt
+    23521 actttggaac taccatatgt aagaagaatt tatggagttg atgacttaat tgaaataaaa
+    23581 agaaagcaag aagaagaaat gacccagata gttaaagaca ttaatagtct ttttggtgat
+    23641 tgtgtaaaga gatctattca cattaatgaa atgagaactg aaataataaa atcacttggg
+    23701 aactacaaca aaaccacaaa aataattctt aataaactag aaccaaaaaa ataacaaaaa
+    23761 caacaataag aataaaacta tttaattgta tctttttttg ttatttaatt aaaaaattga
+    23821 tatattaaaa aaaaaagaaa aaaaaactag ggaaaaggtt aataagaaat aaattaaaaa
+    23881 gaataataaa acattaaaaa aaggagaaaa aaataagtta gggtataaag gagaattaag
+    23941 atttcttagt gtgatggcta cccaaaagag tgaagtcact atcagaacaa gaaatctgat
+    24001 agttaatcca ttactttgca gaaagcaagt agttgttgat atttatcatc caggaattgt
+    24061 tcaaccaaaa tttactgaaa ttaaagaaaa gcttgctaaa atgtacaagg taaaagatgt
+    24121 tcaaactatc gttcttaatg ggttcgtcac taagtacgga ggaggaaaaa cttcaggatt
+    24181 tgcattgatt tatgacacac tttctgcttt aaagaagttt gttccaaaac atcaattaat
+    24241 tagagctggt ttggataaga agaccaaagc accaagaaaa gctagaaagg aacataagaa
+    24301 gaaatggaga atgtgccatt cattcaaaga ctataagaag aaagaaatga agaaagcatc
+    24361 tagaaagaag aagtaagaga tagtaattga attgatgtgg tcaataaatt tttgatataa
+    24421 aaaccaaatt ttcttctttt ttcaaaaaaa agaatctaat aaaatttttt ttatttaaag
+    24481 gattcctcat taagatataa tatgaagata gtttttattc catcacttat gaaaacttaa
+    24541 aaattgaaat aaaaagatat agaacttaaa aagaaaatat aattattgat gtgtgaattt
+    24601 gctgcacatt ttgttcatgg gttttgtgat aaagacaaag acaagttagt aagaaaagaa
+    24661 gatttatttc ctttattaat tcagttttta caaagtgagg atcctcaata taaaattgga
+    24721 tttgagaatt atttgtttga tttgtgtgat gttgatgaaa acaaagcgtt ggacattaca
+    24781 gagtttcttc atttaatgaa ctgtttggaa atctttgaaa gtcaaaaagg tcaaagtaag
+    24841 aatcttacaa caatgatggc cttatttagg gcaattgatt cagacggaaa tgcttcttta
+    24901 agtgctgaag aaattactaa agcattagat aaattaccta acgattcttc agttaatgat
+    24961 gaaattaaag ctgcagttaa aaaaattaaa gaatattgtg ggttattagg agggagagaa
+    25021 attaatgaaa tggaatttct tggaattgtt attccaccaa gtgattttca acaatataac
+    25081 caacaagtgt tctcttcatt atttgaaaaa ggtgatacag atcactcagg tatgatttct
+    25141 gttaaagagc ttaaaatgtt atttaaacaa atgtatccag atggtgttga tgaacgaaaa
+    25201 gcacctgaaa taattattaa attattagat gaaactggaa aaggtgaaat tgataaaaat
+    25261 caatttgcaa catttgcttg tgctgttgct ggaaatgatg ttactattag atgcttaact
+    25321 aaaactagat tttatgaagc catttttaaa atacttgact ctgataaaag tggactatta
+    25381 gaaagagatg aaactactaa attactgaag tctatgggat ttaatgaaaa gaaaattgca
+    25441 aagtggtttg aaaaaatagg agaagaacca ttgactttaa ataaattcct tgaaatttat
+    25501 ttaaagaagt aattcttatg tttttgtctt atttactttt acgtaattaa ttttttattt
+    25561 taaacaacaa ggtactgtcc aatattagaa gagaaaagta ttcagtaata aatcataaaa
+    25621 taaataattt tcttcaattc taattttcta agattttgac tcattctttt taaatcatag
+    25681 agtcttaata aagtgctttt aatgttttta aataaaacac tctctttgta aatttattat
+    25741 aaaagattat atcccttctt ataattatat ttttttagta caagttttcc ttatttaaat
+    25801 gaaaattggt aaggtttatt acttaaacgc ttataaaata agaaaaaaca tgtttaaaaa
+    25861 taaatttcaa tttctatttt attatcagtt tattttatta aataacagta tttatttata
+    25921 ataattcttt taggacttta tttcttttaa gcaggatcct tcttaagact ctctttaatt
+    25981 ctattaaaaa tacttataca tgaaaattta actatttcat ataaaagaag ttactgaagt
+    26041 aaattttgaa gttcatttaa ttattttttt attcacttaa aaattttatt tctataatag
+    26101 atatagtcca acaaaaataa ctggaggtgc taacacattg atagttgttg caaattgctg
+    26161 caatgttata attttaccta ttcaatttac tttacttgta ttagttccag taaattaaaa
+    26221 tctggatgtt aatgttgtac aattataata catcatataa aataaaaaaa ataacctaat
+    26281 aataaaacca ataaattaat atctcaataa tgtgtagttg aatggttcgt tattttagtt
+    26341 atgatatcat tgaatttcat agttcaatat taaaatgttg atattagatg agtgaaataa
+    26401 gtttcatttt attttctttt tatagcaaaa aatgtttcac tttttgtttg ttatttaatt
+    26461 tctatattta tattatcaat aacatttttt tctattttta attctatgat tctgatttct
+    26521 atttttattc tatttttatt ctatttttgt tttatttctt ttttgttttt cttatttttt
+    26581 aagattttca ttttattgaa aataacaaat tctatattat agaaatattt tactattcat
+    26641 tttttttctt tttgtttttt tttttgttta ttcttatttt ttctttgaat tatcttatat
+    26701 tatatttatg ttctttatta tacattttaa ttcttttttt tttatttatt cacattctat
+    26761 ttttcatata ttttatttta ttgttcagat tatttgaggt gaaattgata agtgataatg
+    26821 aaagtaatac atttttatac tctcattttt tattggttat atatatcata tcatattttt
+    26881 atttataatc caacaattta tgtacattat tcttaatatt tttatttgat gtaatatctt
+    26941 tatgttgata agatatgtac tctagattca atttgttttt attctatttt ataaaaataa
+    27001 tttatttttt agtttgaata acaaaacaaa aataaaaatc cattgaatga attaataaag
+    27061 tataatcttt atgaataatt gccaaataaa ttattattct ctcgaactat aagtattgag
+    27121 aataagagag tatttaaaat taaaagagtg tatgactatt ttaagataat tagtgatggg
+    27181 gatatttcta tattttatac gatgagtaaa atacttctct tcgttctaaa tttagcaatt
+    27241 gtttaaaagt ataataataa tttatatgat ttatttcttt atttcaaaag aaataatagt
+    27301 aagaataata ttaaagaaag gaggtttcat aatgaattta ttttgaagaa agtgaagagt
+    27361 aaactaaaat aatataataa ataactttac aacaatagaa tataattttc atattggtat
+    27421 aatgaaatga ttattatttg ttggtgatat tttctgaatt catttttaat attcattgtt
+    27481 atttgtcatg atgtaattct tttagaaata actctataag agaaataaag tatatttaaa
+    27541 agaattaaat attgcttctt aatacaaata aagaatgtgt gatatttcta ttaagtttca
+    27601 ttcttcatat tatcattaaa tacgattatt aaatcaagaa tcttattcaa ttacatattt
+    27661 aaattaatta tcttaattat tcaaatgata tcaaaatgta attaaatgag tataaatttg
+    27721 gtttatttga ttgttaaata ttaaatatta aattgaattt aagtgtaaag catgataaat
+    27781 tgttaattat gctgaattga taatatttga catggtagtt aattgtataa ttaacattta
+    27841 atttaaatat aagataatta tatgaaaaat acttactttg tttcaattat cttatgatta
+    27901 ttaggaatga aatttacatt aaataaaaga aattgaattt attggcaata
+//
+
+LOCUS       DS550574               23977 bp    DNA     linear   CON 08-DEC-2008
+DEFINITION  Entamoeba dispar SAW760 scf_1105229463249 genomic scaffold, whole
+            genome shotgun sequence.
+ACCESSION   DS550574 AANV02000000
+VERSION     DS550574.1  GI:165894805
+DBLINK      Project: 12914
+KEYWORDS    WGS.
+SOURCE      Entamoeba dispar SAW760
+  ORGANISM  Entamoeba dispar SAW760
+            Eukaryota; Amoebozoa; Archamoebae; Entamoebidae; Entamoeba.
+REFERENCE   1  (bases 1 to 23977)
+  AUTHORS   Lorenzi,H., Inman,J., Schobel,S., Amedeo,P. and Caler,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-DEC-2007) J. Craig Ventor Institute, 9704 Medical
+            Center Drive, Rockville, MD 20850, USA
+FEATURES             Location/Qualifiers
+     source          1..23977
+                     /organism="Entamoeba dispar SAW760"
+                     /mol_type="genomic DNA"
+                     /strain="SAW760"
+                     /db_xref="taxon:370354"
+     misc_feature    complement(1..30)
+                     /note="AT_rich"
+     gene            complement(<26..>586)
+                     /locus_tag="EDI_249790"
+     mRNA            complement(<26..>586)
+                     /locus_tag="EDI_249790"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_249790A"
+     CDS             complement(26..586)
+                     /locus_tag="EDI_249790"
+                     /note="encoded by transcript EDI_249790A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22663.1"
+                     /db_xref="GI:165894806"
+                     /translation="MFLFPRTTNEVTCSRNPLLASLQLQIDNKPYPDKPFSSIEKSHT
+                     IYNITNAGLDNLFSPSKEFAYSLEYNEIDTNSIIGKAGNGKYIPPLKDNTSYCFLCST
+                     ERLSGYGTFCDGITKDNAHVTLSGTLLIPNNEHPYITNPLTKESNDRCPIMLVCQDCF
+                     WRCTLQGGCEYICNNKYFVREKTGTD"
+     gene            complement(<629..>1786)
+                     /locus_tag="EDI_249800"
+                     /db_xref="Pathema:EDI_249800"
+     mRNA            complement(<629..>1786)
+                     /locus_tag="EDI_249800"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_249800A"
+                     /db_xref="Pathema:EDI_249800"
+     CDS             complement(629..1786)
+                     /locus_tag="EDI_249800"
+                     /note="encoded by transcript EDI_249800A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22664.1"
+                     /db_xref="GI:165894807"
+                     /db_xref="Pathema:EDI_249800"
+                     /translation="MNYNVIKALDQEETGDLIKYFNYTDGILEANSGVHDNKCLSIDS
+                     SDPPCPVQKGMYTKLKLTDESIQITNIDKSSITALVNIKIKPSSQFWNELKAPGISNP
+                     EFDNKCESIKNQTVVFFVGLKSSTHLFDAYRVYSRNKKTSCEQTEALYENAAIRMLKA
+                     QEELDYKPGIYTQWETAYNMEDNICGCYISMEEFIKSPDNTVEKEFEVIIPIDDLLPF
+                     AAMKMFPNALFGNLTLEVKMAIQQNFVICQCKQETILNKISHISSSSYSGSDEIKDNI
+                     TEVIKSDIYNIIKRNGEYHAFTQIGDSFNVHSFTGALRESQNIIVGKDTTVSFMITDG
+                     SLKYCRTNINGFNIKDSILNELIEKYQTKELIIPSQYVDYQAFSQKPMTNG"
+     misc_feature    complement(919..939)
+                     /locus_tag="EDI_249800"
+                     /note="AT_rich"
+     gene            <2298..>2666
+                     /locus_tag="EDI_249810"
+                     /db_xref="Pathema:EDI_249810"
+     mRNA            <2298..>2666
+                     /locus_tag="EDI_249810"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_249810A"
+                     /db_xref="Pathema:EDI_249810"
+     CDS             2298..2666
+                     /locus_tag="EDI_249810"
+                     /note="encoded by transcript EDI_249810A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22665.1"
+                     /db_xref="GI:165894808"
+                     /db_xref="Pathema:EDI_249810"
+                     /translation="MRFGFLKTLKNGLKSVGKKIAGIGGKLYKTTSTVVSKILPISKT
+                     ITSIIPGGQMIEMVLDRLPKWYETNGKILTEISEGKKIKDVIKDYGKTFYNDVILNKN
+                     NTNHYNLSSLSPFEQQKLTK"
+     misc_feature    complement(2587..2625)
+                     /note="AT_rich"
+     gene            complement(<2705..>3184)
+                     /locus_tag="EDI_249820"
+                     /db_xref="Pathema:EDI_249820"
+     mRNA            complement(<2705..>3184)
+                     /locus_tag="EDI_249820"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_249820A"
+                     /db_xref="Pathema:EDI_249820"
+     CDS             complement(2705..3184)
+                     /locus_tag="EDI_249820"
+                     /note="encoded by transcript EDI_249820A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22666.1"
+                     /db_xref="GI:165894809"
+                     /db_xref="Pathema:EDI_249820"
+                     /translation="MNELIYLCEDMDIDVYYQDTDSIHIKKKDLPRFEELYVSKYDRD
+                     LVGSELGQFHSDFPLVKGKPSWSIKSIFLGKKSYLDVLINEDGDQDYLIRMKGITKSA
+                     IIGTANEKFNGDMVALYEYLYAGNPLIIDLSKYGAHFSIERDFKISSLSEFKRTIKF"
+     gene            complement(<3281..>4251)
+                     /locus_tag="EDI_249830"
+                     /db_xref="Pathema:EDI_249830"
+     mRNA            complement(join(<3281..4192,4234..>4251))
+                     /locus_tag="EDI_249830"
+                     /product="hypothetical protein, conserved"
+                     /note="transcript EDI_249830A"
+                     /db_xref="Pathema:EDI_249830"
+     CDS             complement(join(3281..4192,4234..4251))
+                     /locus_tag="EDI_249830"
+                     /note="encoded by transcript EDI_249830A"
+                     /codon_start=1
+                     /product="hypothetical protein, conserved"
+                     /protein_id="EDR22667.1"
+                     /db_xref="GI:165894810"
+                     /db_xref="Pathema:EDI_249830"
+                     /translation="MFEIFVELLVKSNCRIDDTHFNSRKYCEYYCLRDVLVLREGFLK
+                     YRQMVQTHLHLDCVCYASLSSMAYAFFVNNCFVKDAIFEYTGVVREYIKQAVHGGRNM
+                     TSENKKHYITDEIVDFDACSLYPSAIVRLYLPMGAPNQMFHPIEWYLEHLMDEQQFEP
+                     SETKFISYFIVTIVITKINKKRKMPIIIKKIKGINHYVNEETTMIVDSIYLQDLIKYQ
+                     EIKFKMVQGVYWKGSKVGLFKEKIKEIYRIRKEMKQVNDPAEIIFKLVMNSSYGKTIQ
+                     KPIKEEKKFFRGRNKMIILETPLRRCHCWGTNS"
+     misc_feature    complement(4272..4408)
+                     /note="AT_rich"
+     repeat_region   4605..4730
+                     /rpt_family="EdLINE1"
+     repeat_region   5229..5369
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaaa"
+                     /satellite="microsatellite"
+     repeat_region   6373..6532
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaaaa"
+                     /satellite="microsatellite"
+     repeat_region   6582..6650
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaaaa"
+                     /satellite="microsatellite"
+     misc_feature    complement(6653..6701)
+                     /note="AT_rich"
+     gene            complement(<9296..>9622)
+                     /locus_tag="EDI_249860"
+                     /db_xref="Pathema:EDI_249860"
+     mRNA            complement(<9296..>9622)
+                     /locus_tag="EDI_249860"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_249860A"
+                     /db_xref="Pathema:EDI_249860"
+     CDS             complement(9296..9622)
+                     /locus_tag="EDI_249860"
+                     /note="encoded by transcript EDI_249860A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22668.1"
+                     /db_xref="GI:165894811"
+                     /db_xref="Pathema:EDI_249860"
+                     /translation="MSLKSVNNTNTKKPKINIPTYQEKLKRDLKTRISTDKQNQKDVF
+                     EFNDECFDHNKYTIQLERMKLIGSKQLVKMFSPPINVDFLNKMFNENISLLLCIIKFF
+                     NSMNHI"
+     gene            complement(<9675..>10307)
+                     /locus_tag="EDI_249870"
+                     /db_xref="Pathema:EDI_249870"
+     mRNA            complement(<9675..>10307)
+                     /locus_tag="EDI_249870"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_249870A"
+                     /db_xref="Pathema:EDI_249870"
+     CDS             complement(9675..10307)
+                     /locus_tag="EDI_249870"
+                     /note="encoded by transcript EDI_249870A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22669.1"
+                     /db_xref="GI:165894812"
+                     /db_xref="Pathema:EDI_249870"
+                     /translation="MYPVCSVYFKGDIKTPLNISIYKQLTTNLISLTRLKGYRYALDS
+                     TFKYLCQFLTNVGILIKYTYPEGILSINFNFRLYTQQNNFIYELKSKNDLTLFVHNPA
+                     INIFNQLKTQFTYNNNLVVLQNPLFDNLLIYGNDTGIVALLKDSSLLNSEKGLPKVNQ
+                     MDTFNFTIDNLVALNVNNNVNINTNINQPDVQIEEFSFTNFPHTLLLDSN"
+     misc_feature    complement(9747..9781)
+                     /locus_tag="EDI_249870"
+                     /note="AT_rich"
+     gene            <10556..>11020
+                     /locus_tag="EDI_249880"
+                     /db_xref="Pathema:EDI_249880"
+     mRNA            <10556..>11020
+                     /locus_tag="EDI_249880"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_249880A"
+                     /db_xref="Pathema:EDI_249880"
+     CDS             10556..11020
+                     /locus_tag="EDI_249880"
+                     /note="encoded by transcript EDI_249880A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22670.1"
+                     /db_xref="GI:165894813"
+                     /db_xref="Pathema:EDI_249880"
+                     /translation="MSIEKGDIFEETVRKAVEGKNLFLWGKTGTGKTLTANEVCKRVG
+                     QPLPYNKSTSKLWRNYKKQKVVLLDDIDKDSVNYIKSSIFTWGDYYNFEAQISSKEED
+                     TIVINPVNYTLIITSTFNPEELFEFKNSYEIEKFHRLFEVVHTDENYLDSLK"
+     misc_feature    complement(11011..11083)
+                     /note="AT_rich"
+     repeat_region   11736..11777
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaaa"
+                     /satellite="microsatellite"
+     misc_feature    complement(12519..12539)
+                     /note="AT_rich"
+     misc_feature    complement(12774..12814)
+                     /note="AT_rich"
+     repeat_region   complement(12920..12990)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="tataa"
+                     /satellite="microsatellite"
+     repeat_region   complement(13004..13136)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="ttaa"
+                     /satellite="microsatellite"
+     repeat_region   complement(13135..13190)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="a"
+                     /satellite="microsatellite"
+     misc_feature    complement(13257..13294)
+                     /note="AT_rich"
+     repeat_region   complement(13295..13327)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaaa"
+                     /satellite="microsatellite"
+     gene            complement(<13356..>13766)
+                     /locus_tag="EDI_249890"
+                     /db_xref="Pathema:EDI_249890"
+     mRNA            complement(<13356..>13766)
+                     /locus_tag="EDI_249890"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_249890A"
+                     /db_xref="Pathema:EDI_249890"
+     CDS             complement(13356..13766)
+                     /locus_tag="EDI_249890"
+                     /note="encoded by transcript EDI_249890A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22671.1"
+                     /db_xref="GI:165894814"
+                     /db_xref="Pathema:EDI_249890"
+                     /translation="MEEWYTYDEDDFATEEPIVIEEKEKKERPIVIEEREEEGEEKDE
+                     WEIEDWMLMNEDDERNAGEWMINNDEDEDGAPMEMSQWKEIRNQEMEKYLHRKKIYDK
+                     VKAQIRNIRREIQSPKDMEALLDEYIREAGEGDY"
+     repeat_region   complement(13635..13707)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="gaa"
+                     /satellite="microsatellite"
+     misc_feature    complement(14232..14289)
+                     /note="AT_rich"
+     gene            complement(<14838..>16067)
+                     /locus_tag="EDI_249900"
+                     /db_xref="Pathema:EDI_249900"
+     mRNA            complement(<14838..>16067)
+                     /locus_tag="EDI_249900"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_249900A"
+                     /db_xref="Pathema:EDI_249900"
+     CDS             complement(14838..16067)
+                     /locus_tag="EDI_249900"
+                     /note="encoded by transcript EDI_249900A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22672.1"
+                     /db_xref="GI:165894815"
+                     /db_xref="Pathema:EDI_249900"
+                     /translation="MEKAEFIKGFYFIQRTIESRKYILESGDQETFENRAAKSGLETY
+                     IINELRMTWKNNRYNYLTKALITKTEKLYLPNEEHPLYKSFIEFLKNTYKRGVDRFKT
+                     FICVGSTYIGKSVFFTKFIVPDKYYIYHSNNLEYSKMSNQPGKIFRILDDINWSEVKS
+                     TELKALMNRNISSVDIKYGYEYIFPLIPIIIVNKEDYINFQRHFSDIWKFIERNAIIY
+                     PEQKEECIEEERPLFTQKEVKGEYKYLFDTIIPVNELKECNTININEWIKKELNEKQG
+                     YIYDIQKYIQLPTEKEINLPNPERQKRKILDDYEEYLMRKKKEIIESEIQRGSTKRKR
+                     VDDDEYEDENKYEKERDYEDESYEDEKEYEDEDILENENEIEYSITDSENEYSREDKE
+                     EESDDETEEVEKGFIEL"
+     repeat_region   14967..15063
+                     /rpt_type=tandem
+                     /rpt_unit_seq="cat"
+                     /satellite="microsatellite"
+     gene            <16408..>16851
+                     /locus_tag="EDI_249910"
+                     /db_xref="Pathema:EDI_249910"
+     mRNA            <16408..>16851
+                     /locus_tag="EDI_249910"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_249910A"
+                     /db_xref="Pathema:EDI_249910"
+     CDS             16408..16851
+                     /locus_tag="EDI_249910"
+                     /note="encoded by transcript EDI_249910A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22673.1"
+                     /db_xref="GI:165894816"
+                     /db_xref="Pathema:EDI_249910"
+                     /translation="MRLLKHNIRKQKQNTNSCSNSTSTTSTSINTTTTTNNNNNCNNN
+                     NNSHNTSSIQSIKQSKPRKVSDEINKKYSSLLKKLWENEKLLDKYNLSEEVKTLLNTR
+                     MHLWLEYYTINQAMSSNHDSDSNSNSNTNIFEYIDSFSEITSFYN"
+     repeat_region   complement(16470..16513)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="tag"
+                     /satellite="microsatellite"
+     repeat_region   16512..16553
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taa"
+                     /satellite="microsatellite"
+     gap             17362..17461
+                     /estimated_length=100
+     gene            <17764..>18624
+                     /locus_tag="EDI_250020"
+                     /db_xref="Pathema:EDI_250020"
+     mRNA            <17764..>18624
+                     /locus_tag="EDI_250020"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_250020A"
+                     /db_xref="Pathema:EDI_250020"
+     CDS             17764..18624
+                     /locus_tag="EDI_250020"
+                     /note="encoded by transcript EDI_250020A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22674.1"
+                     /db_xref="GI:165894817"
+                     /db_xref="Pathema:EDI_250020"
+                     /translation="MDFRRPTRYNYRRRRNLSLYRYRQSKAFLSSIKKDILKCNFPTK
+                     VKLIKLNEKKTMYLTDEHPNYAISAATGSSLPLFPTKSSNILSFMHKGNALDGGSNQV
+                     YFRFGDWDTIRILRVIIKVQPITNMFAGNQNIIQTVNCFYSMNNAVETPNALYQIQPS
+                     YDNSLLNYKQKFTFNNNESFTLVIEKPQTMSTDSPVVHSYKTTWSLSDQTTFALNDGN
+                     WQTQREDNQDDSENEGECEYLHDKLGIINSPLYDAGVAPAIHCGRLYFKPSGDCAFNI
+                     TINYKVALKG"
+     repeat_region   18680..18736
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaaaa"
+                     /satellite="microsatellite"
+     gene            <18736..>19479
+                     /locus_tag="EDI_250030"
+                     /db_xref="Pathema:EDI_250030"
+     mRNA            <18736..>19479
+                     /locus_tag="EDI_250030"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_250030A"
+                     /db_xref="Pathema:EDI_250030"
+     CDS             18736..19479
+                     /locus_tag="EDI_250030"
+                     /note="encoded by transcript EDI_250030A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22675.1"
+                     /db_xref="GI:165894818"
+                     /db_xref="Pathema:EDI_250030"
+                     /translation="MTENQLDIQVFKDYSIDFTTNVPLVNEIMAKEVIKYLYKVDMTD
+                     MKIKDIQSNEEIDKTNDDYDYAIQMGLYSHNSISNKYIVGGMVVSSKDKVPYLFLANS
+                     YKISYWKTDIENYNGDFSITNKSFMVERNLGIDIKGTLHLPRKSAFLLGKYEDIIFEQ
+                     STTEYSLGSDNVSFVFVSDETTTTTSKRENDKSTPNQGMSRRRKLFKKELXXXXXXXX
+                     XXXXXXXXXXXXXXXXXXXXXXXXXXSSI"
+     gap             19366..19465
+                     /estimated_length=100
+     gene            <19490..>20009
+                     /locus_tag="EDI_250140"
+                     /db_xref="Pathema:EDI_250140"
+     mRNA            join(<19490..19686,19775..>20009)
+                     /locus_tag="EDI_250140"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_250140A"
+                     /db_xref="Pathema:EDI_250140"
+     CDS             join(19490..19686,19775..20009)
+                     /locus_tag="EDI_250140"
+                     /note="encoded by transcript EDI_250140A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22676.1"
+                     /db_xref="GI:165894819"
+                     /db_xref="Pathema:EDI_250140"
+                     /translation="MKSDTAIVENSDTSQINVDMTSLKTELFRTKANYDLRFNVKLSN
+                     DDNNDNNDDTNINEKIYGIGFFLSFNLNDSFFLFGENSYSSLTINHPIVSIEYNDYLQ
+                     ILLNNMPFGLQRIFGDLTFSNVLSIVSYDYNETTGSCLLRN"
+     repeat_region   19618..19660
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taa"
+                     /satellite="microsatellite"
+     repeat_region   complement(20060..20095)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="ttaa"
+                     /satellite="microsatellite"
+     gene            complement(<20084..>20518)
+                     /locus_tag="EDI_250150"
+                     /db_xref="Pathema:EDI_250150"
+     mRNA            complement(<20084..>20518)
+                     /locus_tag="EDI_250150"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_250150A"
+                     /db_xref="Pathema:EDI_250150"
+     CDS             complement(20084..20518)
+                     /locus_tag="EDI_250150"
+                     /note="encoded by transcript EDI_250150A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22677.1"
+                     /db_xref="GI:165894820"
+                     /db_xref="Pathema:EDI_250150"
+                     /translation="MGLYSHNSISNKYIVGGMVVSSKDKVPYLFLANSYKISYWKTDI
+                     ENYNGDFSITNKSFMVERNLGIDIKGTLHLPRKSAFLLGKYEDIIFEQSTTEYSLGSD
+                     NVSFVFVSDETTTTTSKRENDKNTPNQGMSRRRKLFKKELIN"
+     gap             20531..20630
+                     /estimated_length=100
+     gene            <20737..>21219
+                     /locus_tag="EDI_250260"
+                     /db_xref="Pathema:EDI_250260"
+     mRNA            <20737..>21219
+                     /locus_tag="EDI_250260"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_250260A"
+                     /db_xref="Pathema:EDI_250260"
+     CDS             20737..21219
+                     /locus_tag="EDI_250260"
+                     /note="encoded by transcript EDI_250260A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22678.1"
+                     /db_xref="GI:165894821"
+                     /db_xref="Pathema:EDI_250260"
+                     /translation="MYFNTHGITDEDGEAIKLNEKSYIRDTQITHLLFNNNVRHVTVF
+                     FECCHSGGLFQPDESCIFHTDRIIKNPTLDYHYNEDNSYSMWKSNITVFSTSLKEQRS
+                     YQLNEENKGYGWATQKISELEKSPFDYTPIYVVNWLNKQIGKEQYAIVQSSTLIPTWF"
+     misc_feature    complement(21214..21287)
+                     /note="AT_rich"
+     gene            complement(<21282..>22280)
+                     /locus_tag="EDI_250270"
+                     /db_xref="Pathema:EDI_250270"
+     mRNA            complement(<21282..>22280)
+                     /locus_tag="EDI_250270"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_250270A"
+                     /db_xref="Pathema:EDI_250270"
+     CDS             complement(21282..22280)
+                     /locus_tag="EDI_250270"
+                     /note="encoded by transcript EDI_250270A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22679.1"
+                     /db_xref="GI:165894822"
+                     /db_xref="Pathema:EDI_250270"
+                     /translation="MGILSTLLSKVLPKALNIFSYAGQGIVQGIQKNGLDGYRLQLAG
+                     YSIPNSDFNPLDGPIDENDAGEEQVLQQHVGANKEQVVAGLIAAREMSNAVLYSSLTN
+                     CKTETVTLEANLSFYYSKTAKTGTRKDGVPVINYKDHGYTHLIPKLFRNYDSLKRYDA
+                     FVLNMVIVQSTQASTSITGTIVSFYPLTKDTRKLKNSVVKSAGNRQESSTYNRIYYVI
+                     RNVTPGRFKITRDGFEPKDATVNPNEAIPTDVLDKYDSTDMDTSGSFLSYGTLCFVKE
+                     NLGENDVAMQFNIKMQFIGFRQQSLDDIYDDDGSTEMSPITTNCLPKKFLKKKNLN"
+     gene            <22429..>23250
+                     /locus_tag="EDI_250280"
+                     /db_xref="Pathema:EDI_250280"
+     mRNA            <22429..>23250
+                     /locus_tag="EDI_250280"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_250280A"
+                     /db_xref="Pathema:EDI_250280"
+     CDS             22429..23250
+                     /locus_tag="EDI_250280"
+                     /note="encoded by transcript EDI_250280A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22680.1"
+                     /db_xref="GI:165894823"
+                     /db_xref="Pathema:EDI_250280"
+                     /translation="MNPKNVSEVTVCQTYPVRIECNVADSEDDREMVIVPLILGEGND
+                     WDKIDPEMFKIKDVNISINPYYQNSMVVNQSIEGYVSGDYPVYVQAFSGNTYNEGDAT
+                     KMNELIFTGTYLSAGSNSTIRTNFKSKNIYKTVINSDDKTQAVNKEVISRGTVIDGSL
+                     LKNPNVVLQLGHIAMSIRKEDFQPKYISGKNDSTGTMLSSIEKRRKKIELLQEKEKEK
+                     HICKGKMQPKPEPEPEPSEDNKYVDSLVNGKLICNYQAFIRAEITIEYTRKPYGN"
+     repeat_region   23264..23401
+                     /rpt_type=tandem
+                     /rpt_unit_seq="gaaaa"
+                     /satellite="microsatellite"
+     repeat_region   23283..23444
+                     /rpt_type=tandem
+                     /rpt_unit_seq="gaa"
+                     /satellite="microsatellite"
+     gene            <23364..>23738
+                     /locus_tag="EDI_250290"
+                     /db_xref="Pathema:EDI_250290"
+     mRNA            <23364..>23738
+                     /locus_tag="EDI_250290"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_250290A"
+                     /db_xref="Pathema:EDI_250290"
+     CDS             23364..23738
+                     /locus_tag="EDI_250290"
+                     /note="encoded by transcript EDI_250290A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22681.1"
+                     /db_xref="GI:165894824"
+                     /db_xref="Pathema:EDI_250290"
+                     /translation="MSKEKEKDEISEDYLEEILEEFNEKVEILEIKEDIVIEEVEKKR
+                     KSRRKKGVMDDEELNIVIDNNIKKFNEFLRGEDVIVRVIGKKTDFIQIKEVTRIKHRE
+                     DINEKEDSISSEYLEEILSGMR"
+     misc_feature    complement(23735..23774)
+                     /note="AT_rich"
+     misc_feature    complement(23876..23910)
+                     /note="AT_rich"
+ORIGIN      
+        1 aataaataaa tgaattaatt ttattttaat ctgttcctgt tttttctctt acaaaatatt
+       61 tgttattaca aatatattca caaccacctt gtaatgtaca tctccagaaa caatcttgac
+      121 atacaagcat aattggacat ctatcatttg attctttagt taaaggatta gtaatataag
+      181 gatgttcatt attaggaatt aataaagttc cagaaagtgt tacatgagca ttatctttag
+      241 taattccatc acaaaatgta ccataaccac ttaatctttc agtactacat aagaaacaat
+      301 atgatgtatt atctttaagt ggtggaatat attttccatt tcctgctttt cctataattg
+      361 aattagtatc tatttcatta tattctaatg aataagcaaa ttcttttgaa ggagagaata
+      421 aattatctaa accagcatta gtaatattat aaatagtatg tgatttttct atagatgaaa
+      481 atggtttatc aggataaggt ttattatcaa tttgtaattg taaagatgct aataaaggat
+      541 ttctactaca tgttacttca ttagttgttc tagggaataa aaacattaaa gaacttacat
+      601 ttgtcatagc ataagtagta ttacattttt aaccattagt cattggtttt tgtgaaaatg
+      661 cttgataatc aacatattga gaaggaataa ttaattcttt tgtttgatat ttttctatta
+      721 attcatttaa tatactatct ttaatattaa atccattaat atttgttcta caatatttta
+      781 aacttccatc tgttatcata aaacttactg ttgtatcttt tccaacaata atattttgtg
+      841 attcacgtaa tgcaccagta aatgaatgaa cattaaatga atcacctatt tgtgtaaatg
+      901 catgatattc tccatttctt ttaattatat tatatatatc acttttaatt acttctgtta
+      961 tattatcttt tatttcatct gatccactat atgaagatga tgaaatatgt gaaattttat
+     1021 ttaatattgt ttcttgttta cattgacaaa taacaaaatt ttgttgaatt gccattttaa
+     1081 cttcaagtgt taaatttcca aataatgcat taggaaacat tttcatagca gcaaatggta
+     1141 ataaatcatc tattggaata attacttcaa attctttttc aactgtatta tctggtgatt
+     1201 taataaattc ttccattgat atataacatc cacatatatt atcttccata ttatatgctg
+     1261 tttcccattg tgtataaatt cctggtttat aatctaattc ttcttgtgct tttaacattc
+     1321 taatagctgc attttcatat aatgcttctg tttgttcaca tgatgttttc ttatttcttg
+     1381 aatatactct atatgcatca aataaatgtg ttgatgattt taatcctaca aagaatacaa
+     1441 ctgtttgatt ttttatactt tcacatttat tatcaaattc tggatttgaa atacctggtg
+     1501 cttttaattc attccaaaat tgtgaacttg gtttaatttt aatattaact aatgctgtaa
+     1561 tagatgattt atctatattt gtaatttgaa ttgattcatc tgttaatttt aattttgtat
+     1621 acattccttt ttgtacagga catggtggat cagatgaatc aattgataaa catttattat
+     1681 catgaacacc tgaattagct tcaagtattc catctgtata attaaagtat ttaataaggt
+     1741 cacctgtttc ttcttgatct aatgctttaa taacgttata gttcatcttc tttattttga
+     1801 tttattagtt caatctttta tttcattatg aagtttggta attggaaaag attcaaagaa
+     1861 ggattaaaga aattagcagc tgcattagca gttggtgcta aattaggtgg aaatatgata
+     1921 gaaaaagcaa aaccattaat agatactgct gttgatttta ttccaggtgg aaatattatt
+     1981 aaaaaggaac agaaataatg aataaattag cagaacctac aattgaagca ttgaatagaa
+     2041 tagcatcagg tgaaaatgtt attggtacaa ctaaaagata tttaaatgaa attaaaaatg
+     2101 aaataccaaa tgatattact aacacagtaa gtaatattat caatcaaata cctgaaagaa
+     2161 aatcaataaa aagaaaaaga aaaccattat tatttgctaa tagacttaat aatgaagaag
+     2221 tgaatgataa tataatagat gaagaagatg aagtagatga ttgtctataa ataactaatt
+     2281 aatatcattt gattattatg agatttgggt tcttaaagac actaaagaat ggacttaaaa
+     2341 gtgttggaaa gaaaatagca ggaataggag gtaaattata taaaacaaca agtacagtag
+     2401 tatctaaaat actaccaata tcaaaaacaa taacatcaat aatacctggt ggacaaatga
+     2461 ttgaaatggt acttgataga ctccctaaat ggtatgaaac aaatggaaaa atacttacag
+     2521 aaataagtga aggaaagaaa ataaaagatg ttattaaaga ttatggaaaa acattttata
+     2581 atgatgttat tttaaataaa aataatacaa atcattataa tttatcatca ttatctcctt
+     2641 ttgaacaaca aaaattaaca aaataaagaa aaagaagaat caattagact taattgagct
+     2701 gtctttaaaa tttaattgtt cttttaaatt cactcagtga tgatatttta aaatctcgct
+     2761 caatagaaaa gtgagcaccg tacttggata ggtcaattat aagcggatta cccgcataaa
+     2821 gatattcata taaggcgacc atatccccat taaacttctc attggctgtt ccaatgatag
+     2881 cactcttagt gattcctttc atacggatta aataatcctg gtcgccatcc tcattaatga
+     2941 gaacatcaag atatgatttc ttcccaagga agattgattt tattgaccaa gacggtttcc
+     3001 ctttcacaag agggaagtct gagtgaaatt gacctagttc agacccaact aggtctctat
+     3061 catactttga tacataaagc tcttcaaatc gtggtagatc cttcttcttt atatgaatac
+     3121 tatcagtgtc ttgatagtaa acatcaatgt ccatatcttc acataaataa attaattcgt
+     3181 tcattatctc ttggatatgg agagaataag aacaccaata atgttgggaa caaaaaagtc
+     3241 atctaattgt ttctttacat caaccatcca aacgtctgag tcatgaattt gttccccaac
+     3301 aatgacatct tctaagtggc gtctccaaaa tgatcatttt atttcttcct ctgaagaatt
+     3361 tcttttcttc cttaattggt ttttggatgg tttttccata ggaagaattc attaccagtt
+     3421 taaatataat ttcagctgga tcatttactt gtttcatttc tttccttatt ctatatattt
+     3481 cttttatttt ttctttaaat aatccaactt tacttccttt ccaatacacc ccttgtacca
+     3541 tcttaaattt tatttcttga tatttaatta aatcttgtag ataaattgaa tctacaatca
+     3601 tggtggtttc ttcatttaca taatgattta taccttttat ctttttaata ataataggca
+     3661 tttttctttt cttatttatt tttgttatta caatggttac aataaaataa gaaataaatt
+     3721 ttgtttcaga gggttcaaat tgttgttcat ccataaggtg ttcaagatac cattcaattg
+     3781 gatgaaacat ttgatttggc gctcccattg gcaaatataa acgtacaatg gcagatggat
+     3841 ataaactaca agcgtcaaaa tcaacaattt catcagtgat ataatgtttt ttattttcac
+     3901 tggtcatatt tcttccccca tgtactgctt gtttaatata ttctcgaaca acccctgtat
+     3961 attcaaatat tgcgtcttta acaaaacaat tattaacaaa aaatgcgtat gccattgaac
+     4021 taagagaggc ataacagacg caatcaaggt ggagatgagt ttgaaccatt tgtcgatatt
+     4081 ttaaaaagcc ttctctaagt acaagaacat ctcgaaggca ataatactca caatattttc
+     4141 ttgaattaaa gtgagtatca tcaatacgac aattactttt aactagaagt tccttaaatt
+     4201 tctttctaat acagagagat gaaagaacct cacaacgaat atttcgaaca tgtagtattt
+     4261 tctttgaaaa gtatttttaa attattctat atttattttt tctatcattt tttgatttga
+     4321 atttcttaaa ataaaaatac tattctattt ataggttttt gttaaaaaaa ataaaataga
+     4381 taaaaacaaa tgaatttctt tttatattgt tattgtttct tcttgattct tttatttgta
+     4441 ttcttcaaac tctttctttg ttttgtcttt tctagttctt tatttcaaac ttactctaaa
+     4501 attaatgaca ttgaaggtat aatgaatgtt atagttattt ctcatttttg tttgtatttt
+     4561 tgttgttaat aatttctttt attttgtgta aataaaattc atgatagaag aagaagcttc
+     4621 taatgtgagc atgttggaaa taaactctat gatagaagta gagcgtattg aagaaactaa
+     4681 agtaatcagt tcttaaaatg aagaaaatca aattgtggat atatctatta attgactctt
+     4741 tttagtgaaa ataaaattct tgttaatcat tgatattaat attagttcag tgttttgcac
+     4801 ttgtttatct ttatttgatt atttgtaaat attcatttaa tgataacgtt gattgtttgt
+     4861 ttaatcattc atgtaattta tgaccatttt aatacaatta ataatatcat ttgaatattg
+     4921 tgttttattt caatttaata cacgtaatac tcatcattca attaaactta tttatattta
+     4981 tttgattcga ttctgatact atttgaataa ttatgataac aacaaataat tgagaaatgt
+     5041 agaattgaat aagaatggtt tagtcaatat atttattgta gtgatataaa attgatcaat
+     5101 tgtcatatat atcatgttcg ttttattcat actatgaatt cattattcac ttatttttca
+     5161 acaaaatcta ttctaattat catctagagt tgatttctaa cattaatcat caaaatggat
+     5221 ggtaaatgat agaataataa acaatgaata aaaagaaaag aatttcataa aaatgaaaga
+     5281 aaataaaaaa ataagaagaa gaaaagaaaa tcaaaatagt aaaaatataa taaaaagaat
+     5341 taaaagaata attaataaaa ataaattaat ttgaaaatca acttatatta tttcttcatt
+     5401 atttaacatt atattattga ataataaaac actaaatgtt caattttttt taaatgataa
+     5461 atcaaacttc tgcatagatt aatctcttgt taaatatcaa gtacttcttg aatgagattg
+     5521 ggatatctta aatcatattc aatctgtact atctcacttc tttgggtata tcttcttaat
+     5581 tcatttttat caaaacatcc tcttgtttct tcaattagac tagcatatgt aatttatatc
+     5641 ttttgtgtat ctgacaatgt cctagtttgt ttatttatta agttatctat ttatctttca
+     5701 ttaatcagaa attcattaat ctcttgtatt gttagaggta agtatgtcca ttgtctagtt
+     5761 ttaataaaat catacaacac atcttcatca ccctcactca atattttttg acctccaaat
+     5821 gatttctttg gaatatctcc tttcttcgtt attgattatt atttccttat ttctttcaag
+     5881 ataaagagat agaccatttg cttcattatt tatactttta aataagtgag taactttaga
+     5941 atgaagagaa atcacttgtt catctaagaa agtataagaa atatcatcat taactgtatt
+     6001 aaaatattca ttttatcttt aactaatttc agaatctcaa cacttttaat tggagatgac
+     6061 aatgaattat atggattcat tgagattgta ttttatcatt tcattcattt tattctttat
+     6121 tttgttattc aaaccaaaaa ataaactatt tttataaatg gaataaaatc aaaaataaca
+     6181 tgaatctaga gtatcatatt tcaacaaaat gaagatatga tatcaaatag aaatagtaaa
+     6241 agttgttctg aatgaagagt atattatatc taaataatca gtagagtatg atatatatag
+     6301 actatgaaaa acgaaacgtg caaaaaaatt atcactttca ttatcatata tcaatttcac
+     6361 tatcaaataa tctaaataag aaaataaaaa tatataaaat tagaaataga taaaatgaaa
+     6421 agaagataga aataaaatga acaataagga acatagatat gaacataaga taatacaaag
+     6481 aaaaaggcaa aaaatacaca aatttaagaa aaagaaaaaa agaatagtaa aatatttact
+     6541 ataatataga atttgttatt ttcaataaaa tgaaaatctt aaaaaataaa aaacaaaaca
+     6601 agaataaaaa tagaaattag aatcataaag ttaaaaatag aaataaaaat tgttattttt
+     6661 gataatataa atatagaaat agaataacaa aaaaataaaa acaaaatcga aggatttttt
+     6721 gttgtaagaa gaaaatagaa ttgatgtgaa cttatttcat gtgtctatgg ataattaaaa
+     6781 caccaacaga aaatatatta aaagtattta gcactgttta tacaagaaca tacatgtata
+     6841 taacttatac agataagagt caattagaag aggtgaacta tgaaggaaaa ttgatttatt
+     6901 ctactaaata tacattagtc attagatcta acatgaatga agacatagaa attgacaaga
+     6961 cccttcatgt ctaatcattt aggtttatta ataataaaaa cagtacaatg acaaacaaag
+     7021 acagtaatag gataatagta ttttgtaatt ctgatataaa taatcatgag aagaaagata
+     7081 gtaaatttga tagtaacagt aatacaaacc atattcaaat aaatgataaa gaaatatctg
+     7141 gtatatcaac aggaacattc aatgttaaaa atctcaaatt aaataattgt acatttagta
+     7201 ttagaacatc tatagatgat caatcactag gaaatagttt aaggcaaaat atgcatatag
+     7261 aagattgtac ttttttcaca aaacaaaaaa atacaggtat atttaatagt gatacgatta
+     7321 atgaaaatgt agttttattt aagagtaata tatttattga aagaattttc ttagataatg
+     7381 gactgagtct tgatatggta gaaggaaagt ttctatcaaa ggagatgtga gtacatatga
+     7441 taatattatt cctaaatcac aatatgggta cattgatata gtaaaaggat acaatgacaa
+     7501 tcaactcaaa gggaaagaaa cacactacat gatggcatgt ctctattatg acttagactc
+     7561 agagaattac actcaagttg tgttagatga caccaacaaa ggaagtaatt acaaaagtaa
+     7621 attgtactca gacaaggtgt catatattca atggttatgt gaatgtcaaa caaggtgtat
+     7681 taaaagaatt atattaatgg aaaaaggaaa aagtaatatt aatcaattta tagaaaataa
+     7741 taagagtaaa tatgatatta atgttattga aatttttatt gagaaccaag gtattgattt
+     7801 actttttatt aattggattg ggtaagacaa tactaacaat gtttatcata ttattctaat
+     7861 acaaatagta ataatttaga tgattcatat tatacaaatt atacacaaat tgcctttatg
+     7921 ggttatttga tttcacatac gattaactca aataagtatt ttcaaaaata ttataatact
+     7981 tttattgata atggctatat tactaaaagt tatcttgata tattaaaaga tttattaaat
+     8041 tcatataaaa cagaaaataa gagtaatttt tatttaaaga gtggatatat gaaaggtatt
+     8101 ttaggtaatt aatatgaata tgatgaaaat aaagatacaa ttgataattt aaagaatccc
+     8161 cttacaagct atacaagttc tgatgctact caacaaatta tatctaactt ttatcttcac
+     8221 tagttaataa atggaggtta tgaaagtata gatgaagcca caaaaattat acttaaagat
+     8281 ggtactaaaa tgacatttag tgaatatatt agaaaaatta gaagtattct tataaataca
+     8341 gttgttaatg taattattga gaataacatt cagtatttcc aatcatgaga tgacatcaca
+     8401 gcagatccac agtacagtaa gtgcaaaggc atcattagag gagatactca aaacaaagga
+     8461 tattaacgaa atgaagagac tcttgaaaga atggcaatat aaatgcatgt atttatcata
+     8521 caagaatgga ggtgttacat tcagtcttag taaatgagag gaaacactat ttattaatga
+     8581 tctattcaat aagactacac tcaaggatta tagtgattat actattaatg caattgatta
+     8641 taaaattcag agaaagaaaa taaggacatt tacattttga atgatgaaga tcagaatgtt
+     8701 aagaatggat gggtttacac tgacaaaatc tatagactca tgatgaagta ctttaatgga
+     8761 agtagaatag atgataaacc accagaaagt acaatgagta atgaagagat ggataacatt
+     8821 atgacattaa taagtacaag ataactacag aagatgaaga aaaagaagga ctcatggaga
+     8881 ttatggataa cagaagatgc aatgaacatt atttacacaa aagaacaaaa atatgataga
+     8941 gaatatgtca attatagtct taaagaatat caaaagataa gaaatgcatt tgaagaatgg
+     9001 agaaactact atttcctaat ccaagtgagt acttcaaaac aacagaaatt atgatatgga
+     9061 gaccaatgga attagaaatg aaaaatgtag aagaaattag tagtgaaacc tatatataca
+     9121 atacatcata gaatattact atgctataga tgagataacc ctcatcattt tatttctctt
+     9181 aagattattt ttagaaatgt tactaagatg ttaaagtatc acattaattc aatattattc
+     9241 agttgaagga tatcaaagat agtttggtct acatataaac catttaattt tctaattata
+     9301 tgtgattcat tgagttgaag aattttatta tacatagcag cagagagata ttttcattaa
+     9361 acattttatt taagaagtct acattaatag gaggactaaa cattttaact aattgtttag
+     9421 aacctattaa tttcattctt tctaattgaa tagtgtattt attatgatcg aagcattcat
+     9481 cattgaattc aaagacatct ttttgatttt gtttatccgt actaattcta gtctttaaat
+     9541 cacgtttaag tttttcttga taagtaggaa tattaatttt tggtttctta gtgtttgtgt
+     9601 tattaacact tttgagactc atatatgaaa agagaaaaat aagagattca tagatttaaa
+     9661 gaaataataa aacattaatt agaatctaat agtaaagtat gtggaaaatt tgtaaatgag
+     9721 aattcttcta tttgaacatc aggttgatta atattagtat taatattaac attattatta
+     9781 acatttagag caactagatt atcaatagtg aaattaaaag tatccatttg attgacttta
+     9841 ggaagacctt tttcagaatt caatagagaa gagtctttta ataaagctac tatcccagta
+     9901 tcattaccat aaattaatag attatcaaag agtggatttt gtagaacaac aagattatta
+     9961 ttataagtga attgtgtttt gagctgatta aatatattga tagcaggatt atgaacaaat
+    10021 agagttaaat cattttttga tttaagttca taaatgaaat tattttgttg agtataaagt
+    10081 ctaaagttaa agttaattga gagaattcct tcaggataag tgtatttaat aagaatacca
+    10141 acattagtta agaattgaca taagtattta aaagtagaat ccaatgcata tctataacct
+    10201 ttaagtctgg ttaaagaaat taaatttgta gtgagttgtt tgtaaataga tatattcaaa
+    10261 ggagttttaa tatctccttt aaaataaaca gaacaaacag gatacataat atgattatta
+    10321 tctttttgag cattaatatc agtgagaaca atttgaaatt gatatatttg ttgaattaaa
+    10381 tgatataaaa agtaaatgtc agtatgaata tttttttcag ggatagactt tctaagttgt
+    10441 tcaacgtatt tttgttttgt tgttttttta aaccattggt caattttagt aggaatagta
+    10501 cccctatgag tagacattga atatttaaag agataagatc tgaaaagaaa caaaaatgag
+    10561 tattgagaaa ggagatatat ttgaagaaac agtaagaaaa gcagtagaag gaaagaattt
+    10621 atttttatgg ggaaaaactg gtacaggaaa gacactaaca gctaatgaag tttgtaaaag
+    10681 agtagggcaa ccacttccct ataataaaag tacaagtaaa ttatggagaa attataaaaa
+    10741 acaaaaagta gtattacttg atgatattga taaagatagt gttaattata ttaaaagtag
+    10801 tatatttaca tggggagatt attataattt tgaagcacaa ataagtagta aagaagaaga
+    10861 tactattgta attaatccag ttaattatac attaataatt acatctacat ttaatccaga
+    10921 agaattattt gaatttaaga atagttatga aatagagaaa tttcatagat tatttgaagt
+    10981 agttcataca gatgaaaatt atttagactc tttaaaatga ataacataaa tgaataattt
+    11041 ttaagaaatc aattagattt aatttttaat ttaatttaat tatcctctaa atatttttgg
+    11101 tcattgactc tattaagaag atcattaata acaagctccg taaagagtct gtaatgataa
+    11161 gcaggatatt tcatagtttt tatattctta tcattactat ctctaagttt atagagatca
+    11221 tttagtctag cattaaaata tgaagacttc tttccatcat gagaccaaaa tggatgttta
+    11281 ggaagaaata catagaatgt ttttatcttc ccatagatac tacagactaa tttatttaac
+    11341 tcttcataac taaatacatt atgaaagaat cccccaacac aatgtataaa gtataataat
+    11401 tcaaaagggg ggtcatcgag tttttcaacc gatctgaaga atattactaa tgattcgatt
+    11461 gcagagtcat atcttttttg atatatttta gtacgaaatg gacttagagc atctgtaata
+    11521 actctgttgt ccaaaccaac caatttatac attgtataaa tcagaggttc tattgtacta
+    11581 aagtccaaat caaaagtatt aaaagtaaac ttttgaattg gaatatccaa catgactctt
+    11641 tgtacgtttt tcgaattcac gtaatatccc agaacggtgt tgtagtctgg taatctctgc
+    11701 aattgtatat agaatggaat attaagatag atctgaaata aagtagataa aaataaaaaa
+    11761 gaatgaaata aaataaagaa gagaacctgt cattcttaat aaatgaatca aaagacactt
+    11821 ccctttcatt attattatca ataaccataa aagtggtatt ctcatttgta ttttgactat
+    11881 tattaggaat agaataatta gggatgacaa tgtcatagtc agatttgtgt ttatatgtac
+    11941 aagtaccaca tatgtcataa accatgggac tcttgtattc atcatcacta taaagagaga
+    12001 ataatcttct accaacataa gttgatggaa gtttagatga aggagatcta ttagacattt
+    12061 gaagaatgga aaaatgagat tagattaata gagaagatga aatagagtag tagagtttac
+    12121 aagagtgtct atgaatagaa tgaatgaata gaaatgaata aattagatta tcttgaatgg
+    12181 aatttaccat ccttgaataa cacatcataa gaataaatct tattgatagt gtctgtattg
+    12241 ttatagttcc aatctttgaa cttgatgatt ccaaagtgtc ttacaacaac tttattacgg
+    12301 aaccaaacaa agattctata aatatgttta tcaacatctc tagattttct aaagcattta
+    12361 atgcttataa ttatttttgt ttaagaggta tctacaaaca tcacgataat tgtatttatc
+    12421 agtgatgatg taaaatctgt gttggtattt tggtattact gtattcatta tggatgtatg
+    12481 agaataaaaa gatcaagatg ccccagtaat cattggacat attttttaat tttttttaag
+    12541 aatttcaaag tgtgaaaagt tataaaaaat tagaaaaggt cagggaagaa aaaaggaaaa
+    12601 aggacatgat aggataaatt atagagaaaa tgtataaaaa taccatatag agacgtaatg
+    12661 aaactctcta tccatattga tagtcatttt tgaaaaagtc cacttgaggt ggtcataacc
+    12721 agtcatgaat gttatataaa acaaaataaa ataaagtgtg tgtattgtgt gtgttttata
+    12781 aaactataaa tataattaaa tttattataa ataactagaa ttgcaccttt attcaacttg
+    12841 tgtgttctaa atatattttt gttgtataaa acaatagatg atttataaat agaaaaatag
+    12901 acataattgt aatttattca ttatgttatt caatgttatt tatactattg tttattatat
+    12961 tatattattt atatactatt atattttatt cttcattcta tttttattta tccaatcaat
+    13021 cagacaatca atcatttaaa caatcatttt ttttcttatt tagtgatcaa tcactttctt
+    13081 atttaatgaa ttttaaatga aaaattaatg aaaaattaat gaaaaattaa tgaattttct
+    13141 ctttcttatt tattgttatt cttcttttct tttgtttttc ctcctttttt ggaaattttc
+    13201 cttatttctt gtctattatc tattgccatt gtctattatt tgggttgtcc attatctatt
+    13261 atttaaatta tctttatatt atatgttatt taaattattt tactctcctt tattctattt
+    13321 tattttaacc aaaaacaatt tcaattttaa ctcacttaat agtctccttc acctgcttct
+    13381 ctaatgtatt catctagaag tgcttccata tcttttggag attgtatttc tctccttata
+    13441 tttcttattt gtgcctttac tttatcataa atcttctttc tgtgaagata tttctccatt
+    13501 tcttgatttc ttatttcttt ccattgagac atttccattg gagcaccatc ttcatcttca
+    13561 tcattattta tcatccactc tccagcattc ctttcatcat cttcattcat tagcatccaa
+    13621 tcctcaattt cccattcatc tttctcctct ccttcttctt ctctttcttc tattactatt
+    13681 ggtctttctt tcttttcttt ctcttctatt actattggtt cttcagtagc aaaatcatct
+    13741 tcatcgtatg tgtaccactc ctccatactt tgaatattct ctgttgtgtt catttttgta
+    13801 taactcctct attacaactc cattcctttt actattttga ataatttctg aatcacttac
+    13861 tctacttttt tctatacgta ctctttttat tttaatactt aattcggctg ggatagagta
+    13921 tgttacaaat ataaatattc tattagaaat atcttctact aaaataaatg ttttataatc
+    13981 ttttcccatc aagtattcct tattctatca tatttactat catctgggag tgttattata
+    14041 aatctctttc catgtacttt gttattcatg gttgaatttt taaattccag ttctaatttt
+    14101 tttaaaaaga aattcttcat ttatttcttt tctaatttta ttctcgtctc tttacttatt
+    14161 ataccaaaca tttgttctaa tgaatattct tttggcattg atactatttc atcttgtctt
+    14221 ctacctgatt cattaaaaac attaattaat actttttcaa tttttagaat ttctattata
+    14281 atataattag atgaattaaa agtttcatat attctcaatc ctcttctttt aattcgttct
+    14341 ttgtagaatt catatcctgt aaaatagtaa ctccatccat ctaatcctgg ttctcttcgt
+    14401 tttgtgccaa ataaatatgt ttttgtttca tcttctcttc tatcaacttc cataatatat
+    14461 tttctatcaa tacttagaat tttcccacta tattctacat ataattcttg tgcattaaat
+    14521 ggattatttg gtatattatc taaaatttct tctagtaagt ctgatgattt acctactgga
+    14581 tctactgaaa gaacggttac tggtctatgt tctcctaaat agattaatga ttgatcatct
+    14641 tctgatttga ttggggaaga attctctaac ataacaactc ttggatattc ctctacttca
+    14701 actcttggtt gattttcttc acttatttct ctacttaaat ctatgtctaa tgagttagga
+    14761 ctcatactca tctcttctat ctattttttt ttcaagtttt ctcaaaaact atttaattat
+    14821 tctattctat catcttatta taattcaata aatcctttct caacttcttc tgtctcatca
+    14881 tcactttctt cttctttatc ctctcttgaa tattcatttt ctgaatcagt aatactatat
+    14941 tcaatttcat tctcattttc taatatatcc tcatcttcat attctttttc atcttcataa
+    15001 ctctcatctt catagtctct ctctttctca tatttattct catcttcata ctcatcatca
+    15061 tcaactcttt ttcgttttgt tgaacctctt tgaatttctg attcaatgat ttctttcttt
+    15121 tttctcatta aatactcctc ataatcatct aaaatctttc tcttctgtcg ttctggattt
+    15181 ggaagattaa tttctttttc agtaggtaat tgaatatatt tctgaatatc atagatatat
+    15241 ccttgttttt catttaattc ctttttaatc cattcgttaa tattgattgt attacattct
+    15301 tttaattcat taactggaat aattgtgtca aataaatatt tatattctcc tttgacttct
+    15361 ttttgtgtga ataatggtct ttcttcttct atgcattctt ctttctgttc tggataaata
+    15421 atggcatttc tttcaataaa tttccaaata tcactaaaat gtctctgaaa attaatataa
+    15481 tcttctttat tgactataat aattggaatt aatggaaaga tgtattcata tccatattta
+    15541 atatcaacac ttgagatatt tctattcatt aatgctttta attcggtact tttcacttca
+    15601 ctccaattaa tatcgtctaa aattctaaat atttttcctg gttgatttga cattttacta
+    15661 tattcaagat tatttgaatg ataaatgtaa tatttatctg gaacaataaa ctttgtaaaa
+    15721 aatacacttt ttcctatata tgtacttcct acacaaataa atgtcttaaa tctatctact
+    15781 cctcttttgt atgtattctt taaaaattct ataaatgatt tatataatgg atgttcttca
+    15841 tttggtaaat ataatttctc agtctttgta attaatgctt ttgttaaata attatatcga
+    15901 ttatttttcc atgtcattct taattcatta ataatatatg tttcaagtcc actttttgcc
+    15961 gctctattct caaatgtttc ttgatcccct gattctaaaa tatattttct actctcaatt
+    16021 gttctttgaa taaagtagaa tcctttgata aattcggcct tttccatcat taaaattttt
+    16081 ataacttctt tttgtgtttc tatggattca tttatatatt gaaacttttc acattcagga
+    16141 attctttttc cataactgat tattattgga acacttagat aatggagaga gattatataa
+    16201 ttctcggtgt acttgtctac ataattcttg attatctcaa gactattttc tctacaagtc
+    16261 tcttcatcag aattctccat agattcagaa attattgtac attgtttatt tggatcatcg
+    16321 acaatatact taaggacact ccacatgatt aatttgattt aattattcaa ttccttcttt
+    16381 tcaagttcat cttattttca tttaataatg cgtctactga aacacaatat tcgtaaacaa
+    16441 aaacaaaata ctaatagttg cagtaatagt acttctacta cttctacttc tattaatact
+    16501 actactacta ctaataataa taataattgt aataataata ataatagtca taacacttct
+    16561 tctattcaat ctattaaaca atctaagcct agaaaggttt ctgatgaaat taataagaaa
+    16621 tattcatctc tcttgaagaa attatgggaa aatgaaaaat tacttgataa gtataatcta
+    16681 agtgaagaag taaagacact tcttaatact cgaatgcatt tatggttaga gtattataca
+    16741 attaatcaag ctatgagttc taatcatgac tctgactcaa actctaattc taatacaaat
+    16801 atctttgaat atattgatag cttttcagaa ataactagtt tttataattg atctaatatt
+    16861 ttaatttatg tttagctttt cgaataaaga aaaagagaaa attgaacaaa taggtgattt
+    16921 aatcacacaa aaaacagaca aaacagacaa aacagatgaa attattacta gtacaataac
+    16981 aaaagttatt aaatttaatg acactcaatt gactaactat tatagaatcg atttaatgga
+    17041 ctttattgaa cctacttatg gaaatttaag acctacaagt cttaaaatta atcttactaa
+    17101 ttatgacgac aagatctcaa caatcacatt ctcatatatt catactcctc ttattaatga
+    17161 attaattaat catattaatc aatctacact ctcagttaat aatcaattta ataaatcatt
+    17221 ctcttatact gttcaatccc cttatttaac ttattatcaa ttagattctc aaatgaattt
+    17281 aactgatagc gacatctctc aattaactaa tgttaatctg attaaagaat gattattaac
+    17341 tgtatctttc tgttaaatta tnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+    17401 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+    17461 naattgcttc accatcttca tcagtaattc catgtgtatt aaaatacata taaatatact
+    17521 tatattttct ctctctattt actaaataca attgattaaa ttcattacac tactactaat
+    17581 atcaatatct tctccttttc tcttatctat ttttgtaaag ataatgtctt gcttgtataa
+    17641 ataattgtgg ttatttgccc attgtttaca ccaggtaatt tgttgatcta aacctttgtt
+    17701 aatttctcca atctcaggat ctattattcc aataaattgc atgaactaat attactagtt
+    17761 cttatggatt ttagacgacc aactagatac aattatagaa gaagaagaaa tctttcttta
+    17821 tatagatata gacaatcaaa agctttctta tcaagtatca agaaggacat tcttaaatgt
+    17881 aacttcccta ctaaggtaaa attaattaaa ttgaatgaaa agaagacgat gtatttgaca
+    17941 gatgaacatc caaattatgc aattagtgct gctactggaa gttcactccc tctatttcca
+    18001 actaaatcaa gtaatattct atcatttatg cataaaggaa atgctcttga tggtggtagt
+    18061 aatcaagtgt attttagatt tggagattgg gatactataa ggattctaag agttattatt
+    18121 aaggttcaac caattacaaa tatgtttgca ggaaatcaga atatcatcca aacagtaaat
+    18181 tgtttctatt cgatgaataa tgcagttgaa acaccaaatg ctttatatca aattcaacca
+    18241 agttatgata attcacttct aaactataaa cagaaattta cctttaataa taatgaatca
+    18301 tttacattag taatagagaa accacaaact atgagtactg actctccagt agttcattca
+    18361 tataaaacta catggtcatt aagtgatcaa acaacatttg cattgaatga cggtaattgg
+    18421 caaactcaaa gagaagataa tcaagatgat tcagaaaatg aaggagaatg tgaatatctt
+    18481 catgataaat taggtattat taatagtcca ttatatgatg caggtgtagc accagctatt
+    18541 cattgtggta gactttattt taaaccaagt ggggattgtg catttaatat cacaattaac
+    18601 tacaaggtag cattaaaagg ttaattatct aattgaatta aaataattca atctttattc
+    18661 tatttttcat ttaatttcta tcaatataaa aaagagaata gaatagaact agaaaataag
+    18721 aataagaata agaatatgac agagaaccaa cttgatattc aagtatttaa agattatagt
+    18781 attgatttta ctactaatgt tccattggtg aatgaaatta tggcaaaaga ggttattaag
+    18841 tatttatata aagtagatat gactgatatg aaaataaaag atatccagag taatgaagaa
+    18901 atagataaaa caaatgatga ctatgattat gctattcaaa tgggattata ttcacataat
+    18961 agtatttcta ataaatatat tgtaggtgga atggtagttt ctagtaaaga taaagttcca
+    19021 tatttgtttt tagctaattc atataaaatc tcatattgga agacagatat agagaattat
+    19081 aatggagact tttctattac taataaatca tttatggtag agaggaatct tggaatagat
+    19141 attaaaggta cattacattt accaagaaaa tctgcattct tattaggaaa atatgaagat
+    19201 attatttttg aacaaagtac tactgaatat tcattaggaa gtgataatgt atcatttgta
+    19261 tttgtaagtg atgagactac tactactact agtaaaagag aaaatgataa gagtactcct
+    19321 aatcaaggga tgagtagaag aagaaaatta tttaaaaaag agttannnnn nnnnnnnnnn
+    19381 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+    19441 nnnnnnnnnn nnnnnnnnnn nnnnnattct tcaatttgat cctactaata tgaaaagtga
+    19501 tacagcaata gtagagaata gtgatacttc tcaaattaat gttgatatga ctagtttaaa
+    19561 gactgaatta tttagaacaa aggctaatta tgatttaaga tttaatgtca aattatctaa
+    19621 tgatgataat aatgataata atgatgatac taatattaat gaaaagattt atggaatagg
+    19681 attcttgttt atacttaatg ataaaaaaca aatatgatgt tattatgtat tgtaatacaa
+    19741 atgaaaatca gattcaaatt cctttagaaa gtagtttatc atttaatctt aatgactctt
+    19801 tctttttatt tggtgaaaat tcatattcat cacttactat taatcatcct attgtttcta
+    19861 ttgaatacaa tgattatcta caaatattat taaataatat gccatttggt cttcaaagaa
+    19921 tttttggaga tttaactttc tctaatgttc tcagtatagt aagttatgat tataatgaaa
+    19981 ctactggttc atgtttactt agaaattaaa catctaaata aactaattga ttaattttta
+    20041 aaaatgattc aattatcatt taattgtcta attggttaat tgattaatta attaactctt
+    20101 ttttaaataa ttttcttctt ctactcatcc cttgattagg agtattctta tcattttctc
+    20161 ttttactagt agtagtagta gtctcatcac ttacaaatac aaatgataca ttatcacttc
+    20221 ctaatgaata ttcagtagta ctttgttcaa aaataatatc ttcatatttt cctaataaga
+    20281 atgcagattt tcttggtaaa tgtaatgtac ctttaatatc tattccaaga ttcctctcta
+    20341 ccataaatga tttattagta atagaaaagt ctccattata attctctata tctgtcttcc
+    20401 aatatgaaat tttatatgaa ttagctaaaa acaaatatgg aactttatct ttactagaaa
+    20461 ctaccattcc acctacaata tatttattag aaatactatt atgtgaatat aatcccattg
+    20521 aatagcataa nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+    20581 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn tacaaaatag
+    20641 atagagaaaa gagaagatat tgatattagt agtagtgtaa tgaatttaat tcaattgtat
+    20701 ttagtaaata gagagagaaa atataagtat atttatatgt attttaatac acatggaatt
+    20761 actgatgaag atggtgaagc aattaagtta aatgagaaat catatattag agatacacaa
+    20821 attacacact tattatttaa taataatgta agacatgtaa cagtgttttt tgaatgttgt
+    20881 cattcaggag gattatttca acctgatgaa tcatgtattt ttcatacaga tagaataatt
+    20941 aaaaatccaa cacttgatta tcattataat gaagataata gttatagtat gtggaaatca
+    21001 aatattacag tctttagtac atcacttaaa gaacaaagaa gttatcaatt gaatgaagaa
+    21061 aataaaggat atggatgggc aacacaaaaa ataagtgaat tagaaaagag tccatttgat
+    21121 tatactccta tttatgtagt taattggtta aataaacaaa taggtaagga acaatatgca
+    21181 attgttcaat catcaacatt aattccaaca tggttttaat tattaacatt aacaataaac
+    21241 ataaatgatt aattaattaa gatttaatta ttttaatagt attaattgag atttttcttt
+    21301 ttcaagaatt tctttggaag acagtttgtt gtaataggac tcatttctgt acttccatca
+    21361 tcatcataaa tgtcatcaag cgactgttgt ctaaatccaa tgaattgcat ttttatattg
+    21421 aattgcatag caacatcatt ttctccaaga ttctctttta caaaacataa agtaccatat
+    21481 gataagaaag aaccactggt atccatatca gtactatcat acttatctaa tacatcagta
+    21541 ggaattgctt catttgggtt gactgtagca tcttttggtt caaatccatc tcgagtaatt
+    21601 ttgaatcttc caggagtgac atttcggata acataataaa ttctattgta agttgatgat
+    21661 tcctgacgat ttcctgcact tttaacaaca gagttcttta attttctagt gtctttagtt
+    21721 aaaggataga aagaaacaat agttccagtg atacttgttg acgcttgcgt agattgaaca
+    21781 ataaccatat tcaatacaaa agcatcatat cgttttaatg aatcataatt tctgaataat
+    21841 ttaggaataa gatgagtata accatgatcc ttataattaa taacaggaac accatccttt
+    21901 cgagtacctg ttttagctgt ttttgaatag tagaaagata aattagcttc taatgtgaca
+    21961 gtttcagttt tacaattagt gagagaacta tacaagacag cattagacat ttctctagca
+    22021 gcaattaatc cagctacaac ttgttcttta ttagcaccaa catgttgttg taagacttgt
+    22081 tcttcaccag catcattttc atctatagga ccatctaaag gattaaaatc actattagga
+    22141 atagaataac cagctaattg aagtctataa ccatcaagac catttttctg gattccttga
+    22201 actatacctt gaccagcata actaaagata tttaatgctt taggaaggac tttacttaag
+    22261 agagtagata gaatacccat aataagaata tgaataatag atgtaactaa taaattagca
+    22321 tctaactaaa aattagcatc taacaaatta aaatgataga taaaaatacg agatttagat
+    22381 gggatattta agagattcag attaactaaa taatacaaaa aaagaagaat gaacccgaag
+    22441 aatgtatcag aagtaacagt atgccaaaca tatccagtta gaattgaatg taatgtagca
+    22501 gattcagaag atgatagaga gatggttata gttccattaa tattaggaga aggaaatgat
+    22561 tgggataaaa tagatcccga aatgtttaaa attaaagacg ttaatatatc aattaatcca
+    22621 tattatcaaa atagtatggt agtaaatcaa agtattgaag gatatgtttc aggagattat
+    22681 ccagtatatg ttcaagcatt ttcaggaaat acatataatg aaggagatgc aacaaaaatg
+    22741 aatgaattaa tctttacagg aacatattta tcagctggat ccaattctac aattagaacg
+    22801 aatttcaaaa gtaagaacat atacaaaaca gtaattaata gtgatgataa gacacaagca
+    22861 gtaaataaag aagtaattag tagaggaaca gtaatagatg gatcattatt aaagaatcca
+    22921 aatgtagtat tacaattagg acatatagca atgtctatta gaaaagaaga tttccaacct
+    22981 aagtatattt caggaaagaa tgatagtaca ggtactatgc tttcatcaat agagaagaga
+    23041 agaaagaaga ttgaattact tcaagagaaa gagaaagaga aacatatttg taaaggaaag
+    23101 atgcaaccta aaccagaacc agagccagaa ccaagtgaag ataataaata tgttgatagt
+    23161 ctagtaaatg gaaagttaat ttgtaactat caagcattta ttagagcaga gattacaatt
+    23221 gaatatacaa gaaagccata tgggaattaa ttgaataagg tttaaagaaa agaaaaggtt
+    23281 ttaaagaaaa gaaaaagagt aaaataaata agaataagaa taagaataaa gaactaaaaa
+    23341 gtagaacata gaaatagaat agaatgagta aggaaaaaga gaaagatgag ataagtgaag
+    23401 attacttaga agagatatta gaagaattta atgaaaaagt agaaattcta gagataaaag
+    23461 aagacatagt aattgaagaa gttgaaaaga aaagaaaaag tagaaggaag aaaggtgtaa
+    23521 tggatgatga agaactcaac attgtgattg ataataatat caagaagttt aatgaatttc
+    23581 tcagaggaga agatgtaata gttagagtca tagggaaaaa gacagacttt atacaaatca
+    23641 aagaagtcac aagaataaaa cacagagaag atattaatga gaaagaggat agtataagtt
+    23701 cagagtatct agaagagata ctttcaggaa tgagataatt taaataacat ataatataaa
+    23761 gataatttaa ataagagata atggataaat tgaataatag acaaagacaa tagatgaagg
+    23821 acaagaaata ggagaatttc caaaaacgag gaataacaaa gaaaagagga ataacaataa
+    23881 ttaaaattca tttaaaattc atttatattt catgaaataa aaagtgattg atcactaaat
+    23941 aagaaaaaaa tgatgtttaa atgattgatt gtctgat
+//
+LOCUS       DS572566                1059 bp    DNA     linear   CON 17-APR-2008
+DEFINITION  Entamoeba histolytica HM-1:IMSS scf_1104750516555 genomic scaffold,
+            whole genome shotgun sequence.
+ACCESSION   DS572566 AAFB02000000
+VERSION     DS572566.1  GI:169798988
+DBLINK      Project: 142
+KEYWORDS    WGS.
+SOURCE      Entamoeba histolytica HM-1:IMSS
+  ORGANISM  Entamoeba histolytica HM-1:IMSS
+            Eukaryota; Amoebozoa; Archamoebae; Entamoebidae; Entamoeba.
+REFERENCE   1  (bases 1 to 1059)
+  AUTHORS   Loftus,B., Anderson,I., Davies,R., Alsmark,U.C., Samuelson,J.,
+            Amedeo,P., Roncaglia,P., Berriman,M., Hirt,R.P., Mann,B.J.,
+            Nozaki,T., Suh,B., Pop,M., Duchene,M., Ackers,J., Tannich,E.,
+            Leippe,M., Hofer,M., Bruchhaus,I., Willhoeft,U., Bhattacharya,A.,
+            Chillingworth,T., Churcher,C., Hance,Z., Harris,B., Harris,D.,
+            Jagels,K., Moule,S., Mungall,K., Ormond,D., Squares,R.,
+            Whitehead,S., Quail,M.A., Rabbinowitsch,E., Norbertczak,H.,
+            Price,C., Wang,Z., Guillen,N., Gilchrist,C., Stroup,S.E.,
+            Bhattacharya,S., Lohia,A., Foster,P.G., Sicheritz-Ponten,T.,
+            Weber,C., Singh,U., Mukherjee,C., El-Sayed,N.M., Petri,W.A. Jr.,
+            Clark,C.G., Embley,T.M., Barrell,B., Fraser,C.M. and Hall,N.
+  TITLE     The genome of the protist parasite Entamoeba histolytica
+  JOURNAL   Nature 433 (7028), 865-868 (2005)
+   PUBMED   15729342
+REFERENCE   2  (bases 1 to 1059)
+  AUTHORS   Lorenzi,H., Amedeo,P., Inman,J., Schobel,S. and Caler,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAR-2007) The Institute for Genomic Research, 9712
+            Medical Center Drive, Rockville, MD 20850, USA
+COMMENT     This version of the project, JCVI-ESG2-1.0, represents 8x coverage
+            of the genome.
+FEATURES             Location/Qualifiers
+     source          1..1059
+                     /organism="Entamoeba histolytica HM-1:IMSS"
+                     /mol_type="genomic DNA"
+                     /strain="HM-1:IMSS"
+                     /db_xref="taxon:294381"
+     repeat_region   complement(1..226)
+                     /rpt_family="LINE1"
+     repeat_region   complement(194..627)
+                     /rpt_family="LINE1"
+     gene            <662..>1059
+                     /locus_tag="EHI_018740"
+                     /db_xref="Pathema:EHI_018740"
+     mRNA            <662..>1059
+                     /locus_tag="EHI_018740"
+                     /product="peroxiredoxin family protein"
+                     /note="transcript EHI_018740A"
+                     /db_xref="Pathema:EHI_018740"
+     CDS             662..>1059
+                     /locus_tag="EHI_018740"
+                     /note="encoded by transcript EHI_018740A;
+                     Weakly similar to GB:ABM72140.1: thioredoxin peroxidae
+                     taxon:167542 {Prochlorococcus marinus str. MIT 9515;}  /
+                     %id: 48.1 / coverage: 76.5%  Weakly similar to
+                     GB:BAB76340.1: peroxiredoxin taxon:103690 {Notoc sp. PCC
+                     7120;}  / %id: 47.1 / coverage: 84.3% This functional
+                     annotation is a direct result of community participation
+                     in an Entamoeba Annotation Jamboree;
+                     GO_function: GO:0016209 - antioxidant activity;
+                     GO_process: GO:0008150 - biological_process"
+                     /codon_start=1
+                     /product="peroxiredoxin family protein"
+                     /protein_id="EDS88591.1"
+                     /db_xref="GI:169798989"
+                     /db_xref="Pathema:EHI_018740"
+                     /translation="MKRQILKRRDGRERSMDVRNKEEGGMIKKVKEMYYSITGTKPSI
+                     RVGEKAPKICGKAYYKGEIKEYEMEAEKGKYHVIGFYCRDFSRVCPREIKELSDNIEK
+                     FKELNAEVIGISVDSVETHKRLCERKEKKE"
+ORIGIN      
+        1 agtgttgagt atctcaatct ttcatttttc attatttttg attttctata cccacaaaat
+       61 attgctccat cttgcatttt agttaattgt agaaatgcat ttttcttaat attgatttcc
+      121 atgctttaat tgtagtagtt ttatctactc attttgactc attccatctt ctaaaatgtc
+      181 acttatttga tgccatttcc atttttgatg tatttatcat taatttcatt gtggattatt
+      241 caaatttctt cactactttc tgtcattatt ctcaaatcat ccatatataa agtgtgattt
+      301 gattttggga atttctcttc gatgatttga gaaattacat tcatctgtat gatgaagagt
+      361 agatttgata atgaatcatt tgtaaaattc ctctatttaa tttaatacat catagatatt
+      421 cattaaattt ataacctatg aatatcttcc atctagtcat catactttca atcatgtcaa
+      481 tgatgactcc ctctacatta aaatatttta atgattcaat tacccattcg tggtttactg
+      541 tgtcatatgc tttcttaatg tcataataag actcatcata ttttgggtat ttctcttcta
+      601 tctgttttaa tgtataaata atagtcaaaa taaagaaaaa gaagatatga agtaaaaaga
+      661 aatgaaaaga caaatattga aaagaagaga tggaagagaa agaagtatgg acgtaagaaa
+      721 taaagaagaa ggagggatga taaaaaaagt taaagagatg tattattcaa tcacaggaac
+      781 caaaccaagt atcagagttg gagaaaaagc accaaagata tgtgggaaag catattacaa
+      841 aggagaaata aaagaatatg aaatggaagc tgagaaaggg aaatatcatg tgattggatt
+      901 ttattgtaga gatttttcaa gagtttgccc aagagaaatt aaagaattga gtgacaatat
+      961 tgaaaaattc aaagaactaa atgcagaagt aattgggatt tcagtagatt cagtagaaac
+     1021 acacaaaaga ttatgtgaaa gaaaagagaa aaaggaata
+//
+LOCUS       DS572192                1614 bp    DNA     linear   CON 12-MAR-2008
+DEFINITION  Entamoeba histolytica HM-1:IMSS scf_1104750516513 genomic scaffold,
+            whole genome shotgun sequence.
+ACCESSION   DS572192 AAFB02000000
+VERSION     DS572192.1  GI:169799438
+DBLINK      Project: 142
+KEYWORDS    WGS.
+SOURCE      Entamoeba histolytica HM-1:IMSS
+  ORGANISM  Entamoeba histolytica HM-1:IMSS
+            Eukaryota; Amoebozoa; Archamoebae; Entamoebidae; Entamoeba.
+REFERENCE   1  (bases 1 to 1614)
+  AUTHORS   Loftus,B., Anderson,I., Davies,R., Alsmark,U.C., Samuelson,J.,
+            Amedeo,P., Roncaglia,P., Berriman,M., Hirt,R.P., Mann,B.J.,
+            Nozaki,T., Suh,B., Pop,M., Duchene,M., Ackers,J., Tannich,E.,
+            Leippe,M., Hofer,M., Bruchhaus,I., Willhoeft,U., Bhattacharya,A.,
+            Chillingworth,T., Churcher,C., Hance,Z., Harris,B., Harris,D.,
+            Jagels,K., Moule,S., Mungall,K., Ormond,D., Squares,R.,
+            Whitehead,S., Quail,M.A., Rabbinowitsch,E., Norbertczak,H.,
+            Price,C., Wang,Z., Guillen,N., Gilchrist,C., Stroup,S.E.,
+            Bhattacharya,S., Lohia,A., Foster,P.G., Sicheritz-Ponten,T.,
+            Weber,C., Singh,U., Mukherjee,C., El-Sayed,N.M., Petri,W.A. Jr.,
+            Clark,C.G., Embley,T.M., Barrell,B., Fraser,C.M. and Hall,N.
+  TITLE     The genome of the protist parasite Entamoeba histolytica
+  JOURNAL   Nature 433 (7028), 865-868 (2005)
+   PUBMED   15729342
+REFERENCE   2  (bases 1 to 1614)
+  AUTHORS   Lorenzi,H., Amedeo,P., Inman,J., Schobel,S. and Caler,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAR-2007) The Institute for Genomic Research, 9712
+            Medical Center Drive, Rockville, MD 20850, USA
+COMMENT     This version of the project, JCVI-ESG2-1.0, represents 8x coverage
+            of the genome.
+FEATURES             Location/Qualifiers
+     source          1..1614
+                     /organism="Entamoeba histolytica HM-1:IMSS"
+                     /mol_type="genomic DNA"
+                     /strain="HM-1:IMSS"
+                     /db_xref="taxon:294381"
+     repeat_region   261..815
+                     /rpt_family="SINE2"
+     repeat_region   complement(810..1614)
+                     /rpt_family="LINE1"
+ORIGIN      
+        1 tccaaaaaag aaattaataa tgtgagcaga aattgattga agaattggat agagcaaaaa
+       61 aaacattaat acgctattaa tactaattca atatttaaat ttttgagtaa atgtttaaat
+      121 attcattttg attgattttt gaaaaaaaac atcaacattt tgaaaagaag aaaatatttg
+      181 caacatcatt gatgaatttt attttaaatt ttttttattt taaatttttt ttattttttt
+      241 tttgtgaaat agaaatttaa aatctcccag ttatcatctg gtcatgacgt gcctttggtg
+      301 agataatatc ttttcaacac taactgttta ttattattaa tatttattag aagtgattat
+      361 tataaaagat tgttattcat taaggtgtat tgttattcaa tattatttat aaggattata
+      421 atttactaag ggagtattat gtattaagaa ttatcattta ttaaagaaga cgcatatata
+      481 attgttactg ttgcacaaaa attaaacata aggatattat caaggaatag catttcttta
+      541 agtggtgtgg aagataaagg agatgaggca taacattatg atatggatat actcttctta
+      601 aaacaacaat ataaagaatg agaaatatta tattactcat taaaatcaaa acaaaagtca
+      661 ggcagcaact taattgagga accatttaag tcgagcatgc ttgcaaaaac ttaaattaaa
+      721 tagaaataaa gcattttgaa gaaactgatt tactcacttc tcaacatgat gaaaaacata
+      781 aagatgatgt caatcataat tgattttttt ttattgagat tactactgga tttattttga
+      841 catcttttaa tttttctatt ttcattagct tattctttaa ttcattatac ttatttcttt
+      901 tcttcaaata cgctccatta atattgtgat cagccacaat agtcatatca aatattagac
+      961 tagttttatt ctttttatct aatacatata tgtctggtat tttgtggtat tgtccatcac
+     1021 ttttatgcat tatttgtttg ttcaatatca ttgtaatgtc tttatattgg aatgttgttt
+     1081 catatggggt ttttatattg attatttcaa gtatattttc ttattaatcc ctcccatatt
+     1141 ataatgccta tatggtcata tttttctatt tgtgattttt tatgataaat acaagatagt
+     1201 aaaatgtttt ctactgtagc tatcttgtct ttacatagtg gtcagtattt taatctttca
+     1261 tttttcatta tttttgcttt tttatacaaa caaaatattg ctccatcttg cattttagtt
+     1321 aattgaagaa attcattttt cttaatattg atggacttcc atgctttcac tgtagtagtt
+     1381 ttatctactc cttttgactc gaactatctt ctaaaatatc cacttatttg atcacacttc
+     1441 cattttttga tgtattgaaa aataatatct ttatttctat tactacttct ttttcttttt
+     1501 ttcttttcta taaattcatt tattatttct tctatttttg tttctgggat tttatcaatt
+     1561 attgtttttt aattctattc cacattccct taaaattcta ccatctatct aata
+//
+LOCUS       DS550575                1486 bp    DNA     linear   CON 08-DEC-2008
+DEFINITION  Entamoeba dispar SAW760 scf_1105229463251 genomic scaffold, whole
+            genome shotgun sequence.
+ACCESSION   DS550575 AANV02000000
+VERSION     DS550575.1  GI:165894803
+DBLINK      Project: 12914
+KEYWORDS    WGS.
+SOURCE      Entamoeba dispar SAW760
+  ORGANISM  Entamoeba dispar SAW760
+            Eukaryota; Amoebozoa; Archamoebae; Entamoebidae; Entamoeba.
+REFERENCE   1  (bases 1 to 1486)
+  AUTHORS   Lorenzi,H., Inman,J., Schobel,S., Amedeo,P. and Caler,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-DEC-2007) J. Craig Ventor Institute, 9704 Medical
+            Center Drive, Rockville, MD 20850, USA
+FEATURES             Location/Qualifiers
+     source          1..1486
+                     /organism="Entamoeba dispar SAW760"
+                     /mol_type="genomic DNA"
+                     /strain="SAW760"
+                     /db_xref="taxon:370354"
+     misc_feature    1..64
+                     /note="AT_rich"
+     gene            <384..>794
+                     /locus_tag="EDI_131790"
+                     /db_xref="Pathema:EDI_131790"
+     mRNA            <384..>794
+                     /locus_tag="EDI_131790"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_131790A"
+                     /db_xref="Pathema:EDI_131790"
+     CDS             384..794
+                     /locus_tag="EDI_131790"
+                     /note="encoded by transcript EDI_131790A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22662.1"
+                     /db_xref="GI:165894804"
+                     /db_xref="Pathema:EDI_131790"
+                     /translation="MKVISFNQPQYLHYTDEKDRAERIVNILSNKEVLTLYDSNNSLL
+                     TSKSIFNYIQRERDVYFVAEDDKDNCFGCYISKAPSYMGIGITDQHHYIFSCSLESDE
+                     INTFDYRILTTSVYIPLDSISFLIVILLFLLMTN"
+     misc_feature    1109..1222
+                     /note="AT_rich"
+     repeat_region   complement(1333..1448)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaaa"
+                     /satellite="microsatellite"
+     repeat_region   complement(1346..1484)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaa"
+                     /satellite="microsatellite"
+ORIGIN      
+        1 ataatttaaa tatcatctta ttcataatat tttattattt gtttattaga atttcattaa
+       61 atttcaatga atgtgatgta ataataaatt gataattgaa aatacataac tattgttatt
+      121 taacattaaa tactattaat cactaaatat tactttttat tatgttaatt gtatatcatt
+      181 attactttct aaaatgatgt taaaataaat tatatactca taatatcatc tgtcattaat
+      241 aattttcaac aatcactaaa ttcttattgt tcaatctttt attcttatat tttgattatt
+      301 ttatttcttg ttcattatta aacatcattt ttgaaagaaa tgaatattta aacatcagta
+      361 atttattaaa caatattaac tcaatgaaag ttatttcgtt taaccaacca caatatcttc
+      421 attatactga tgaaaaagat agagcagaga gaattgttaa tattctctct aacaaagaag
+      481 tattaacttt gtatgattca aataatagtt tattaacatc taaatcaata tttaattaca
+      541 tccaaagaga acgagatgtt tattttgttg cagaagatga taaggataat tgttttggtt
+      601 gttatatatc aaaagcacca tcatatatgg gaattggaat aacagatcaa caccattaca
+      661 tcttttcttg ttcattagaa agtgatgaaa taaatacatt tgattatcgg atactcacta
+      721 catctgttta catcccatta gattcaatat catttttaat tgtcattctg ctttttctgt
+      781 tgatgaccaa ttaaattgtt cattctctaa agatattaat gtcatttata tgaaggaatc
+      841 taattcgtat tgtgatgttt ctaagtattt tccatgtgta gaaaatcaaa attcaattac
+      901 attgaaaaga atacgtttct ttacatcaaa tactattatt agtgataatt tgtagaatat
+      961 aattgattat taataaccaa tgagttaaat ctagttttat tgttattaaa taaacatata
+     1021 attgagataa taagataatt ttagttgtta ataaggagat aaacaaataa gttttacata
+     1081 attatgaata ccttgttaat tattgatgat ttataataat aatcaatgaa attacaaaat
+     1141 taaattatct atgaatgtaa atatattatt gaatatacat tactagaata ttgtattatt
+     1201 gaaaaatata attaattata ttctaatcaa tgattgttaa tgaaataata tgatttcttc
+     1261 tcttaaaaaa tatgaaaaca atatcatttc tatttcttca aaactatttg tgttattata
+     1321 atataagtat ggtttattct cattgttatg ttatttattt tcattttatt tgatttatct
+     1381 tttatctttt agttgattta aaatcatatt tattcttttc tttgttattt tcttattctt
+     1441 cttattttca aaatactcat ttaatattct cttcgtttat ttatat
+//
+LOCUS       DS572234                1504 bp    DNA     linear   CON 12-MAR-2008
+DEFINITION  Entamoeba histolytica HM-1:IMSS scf_1104750519153 genomic scaffold,
+            whole genome shotgun sequence.
+ACCESSION   DS572234 AAFB02000000
+VERSION     DS572234.1  GI:169799386
+DBLINK      Project: 142
+KEYWORDS    WGS.
+SOURCE      Entamoeba histolytica HM-1:IMSS
+  ORGANISM  Entamoeba histolytica HM-1:IMSS
+            Eukaryota; Amoebozoa; Archamoebae; Entamoebidae; Entamoeba.
+REFERENCE   1  (bases 1 to 1504)
+  AUTHORS   Loftus,B., Anderson,I., Davies,R., Alsmark,U.C., Samuelson,J.,
+            Amedeo,P., Roncaglia,P., Berriman,M., Hirt,R.P., Mann,B.J.,
+            Nozaki,T., Suh,B., Pop,M., Duchene,M., Ackers,J., Tannich,E.,
+            Leippe,M., Hofer,M., Bruchhaus,I., Willhoeft,U., Bhattacharya,A.,
+            Chillingworth,T., Churcher,C., Hance,Z., Harris,B., Harris,D.,
+            Jagels,K., Moule,S., Mungall,K., Ormond,D., Squares,R.,
+            Whitehead,S., Quail,M.A., Rabbinowitsch,E., Norbertczak,H.,
+            Price,C., Wang,Z., Guillen,N., Gilchrist,C., Stroup,S.E.,
+            Bhattacharya,S., Lohia,A., Foster,P.G., Sicheritz-Ponten,T.,
+            Weber,C., Singh,U., Mukherjee,C., El-Sayed,N.M., Petri,W.A. Jr.,
+            Clark,C.G., Embley,T.M., Barrell,B., Fraser,C.M. and Hall,N.
+  TITLE     The genome of the protist parasite Entamoeba histolytica
+  JOURNAL   Nature 433 (7028), 865-868 (2005)
+   PUBMED   15729342
+REFERENCE   2  (bases 1 to 1504)
+  AUTHORS   Lorenzi,H., Amedeo,P., Inman,J., Schobel,S. and Caler,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAR-2007) The Institute for Genomic Research, 9712
+            Medical Center Drive, Rockville, MD 20850, USA
+COMMENT     This version of the project, JCVI-ESG2-1.0, represents 8x coverage
+            of the genome.
+FEATURES             Location/Qualifiers
+     source          1..1504
+                     /organism="Entamoeba histolytica HM-1:IMSS"
+                     /mol_type="genomic DNA"
+                     /strain="HM-1:IMSS"
+                     /db_xref="taxon:294381"
+     repeat_region   1..105
+                     /rpt_family="LINE1"
+     repeat_region   76..990
+                     /rpt_family="LINE1"
+     repeat_region   complement(980..1464)
+                     /rpt_family="LINE1"
+ORIGIN      
+        1 tcatcgaaga gaaattccca aaatcaaatc atacattata tatggatgat ttgagaataa
+       61 tgacacaaag tagtgaagaa atgggaataa tccaaaatga aattattgac cgaccaatac
+      121 atcaaaaaat ggaaatgtca tcaaacaaat gaaattttag aagatggttc gattcaaaat
+      181 gagtagataa aactactaca atgaaaacat ggaagtcaat caatattaaa aagaatgcat
+      241 ttctccaatt aactaaaatg caagatggaa caatattttg tttgtataga aaatcaaaaa
+      301 taatgaaaaa tgaaagattg aaatactgca cactttgtaa agacaagata gctacagtag
+      361 aacacattct actatattgt atttatcata aaaaatcaca aatagaaaaa catgatcata
+      421 ttggcataat aatattgatt aataagaaaa tatacatgaa ataatcaata taaaaccccc
+      481 atatgaaaca atgttcaaat ataaagacat cactatgata tgaacaaaca aataatactt
+      541 aaaagtgaat gacaatacca caaaatatca gatatatgta atagataaaa agaataaaac
+      601 tggtctaata tttgatatga ctattgtggc tgatcacaat attaattgtt gtcatttgaa
+      661 gaaaagaaat aagtataaag aattaaagaa tattctaatg aaaatagaaa aattaaaaga
+      721 tgtcagaata aatcgagtag taatctcaat aaatggatta ataaataaag aaagtaataa
+      781 attaattaaa taattaaaaa ttgaaattga catcgagaaa gaagtaaaaa actttgtaat
+      841 taaaaacatg atggatgtca tggaatattg cttcaatcat aaccaaacat actccataga
+      901 gatgctagaa gaagactcat tgtgattagt ctcccctgag ccaggaataa tagaatctat
+      961 ttctattaat acttaattaa ttgcttatta ttttcttcat tgtcttttgt ttttctttaa
+     1021 actcttcttc aattctttca tttatctttt tctttttgat tgaatatatt tcttgaagat
+     1081 tattatacat tctttttctt ttattttctt actttttgag tatttcttca tactctcatt
+     1141 tattctattc acttcttatt ctttttattc tttcttgtat atcatttatt gttatttata
+     1201 tttgttattt gaataatctt tattattatt ctttatcttg ttttttattt gtttttcttt
+     1261 gtgtctttca tcttctaatc catttttcct ttgtatttca tttaccataa atgttattgt
+     1321 tattccattt attgatattg acattcattc ttttattgta tgacattgga ttttcatgtt
+     1381 ttgtttattt ttctttacaa aacacaatga ctgttatata ataaccatgg aatgaaaaat
+     1441 tgttatattt ccttcatttg aaaaatgaat ttttttttat ttaagaatta aataaataca
+     1501 aaaa
+//
+LOCUS       DS572569                1057 bp    DNA     linear   CON 12-MAR-2008
+DEFINITION  Entamoeba histolytica HM-1:IMSS scf_1104750517947 genomic scaffold,
+            whole genome shotgun sequence.
+ACCESSION   DS572569 AAFB02000000
+VERSION     DS572569.1  GI:169798985
+DBLINK      Project: 142
+KEYWORDS    WGS.
+SOURCE      Entamoeba histolytica HM-1:IMSS
+  ORGANISM  Entamoeba histolytica HM-1:IMSS
+            Eukaryota; Amoebozoa; Archamoebae; Entamoebidae; Entamoeba.
+REFERENCE   1  (bases 1 to 1057)
+  AUTHORS   Loftus,B., Anderson,I., Davies,R., Alsmark,U.C., Samuelson,J.,
+            Amedeo,P., Roncaglia,P., Berriman,M., Hirt,R.P., Mann,B.J.,
+            Nozaki,T., Suh,B., Pop,M., Duchene,M., Ackers,J., Tannich,E.,
+            Leippe,M., Hofer,M., Bruchhaus,I., Willhoeft,U., Bhattacharya,A.,
+            Chillingworth,T., Churcher,C., Hance,Z., Harris,B., Harris,D.,
+            Jagels,K., Moule,S., Mungall,K., Ormond,D., Squares,R.,
+            Whitehead,S., Quail,M.A., Rabbinowitsch,E., Norbertczak,H.,
+            Price,C., Wang,Z., Guillen,N., Gilchrist,C., Stroup,S.E.,
+            Bhattacharya,S., Lohia,A., Foster,P.G., Sicheritz-Ponten,T.,
+            Weber,C., Singh,U., Mukherjee,C., El-Sayed,N.M., Petri,W.A. Jr.,
+            Clark,C.G., Embley,T.M., Barrell,B., Fraser,C.M. and Hall,N.
+  TITLE     The genome of the protist parasite Entamoeba histolytica
+  JOURNAL   Nature 433 (7028), 865-868 (2005)
+   PUBMED   15729342
+REFERENCE   2  (bases 1 to 1057)
+  AUTHORS   Lorenzi,H., Amedeo,P., Inman,J., Schobel,S. and Caler,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAR-2007) The Institute for Genomic Research, 9712
+            Medical Center Drive, Rockville, MD 20850, USA
+COMMENT     This version of the project, JCVI-ESG2-1.0, represents 8x coverage
+            of the genome.
+FEATURES             Location/Qualifiers
+     source          1..1057
+                     /organism="Entamoeba histolytica HM-1:IMSS"
+                     /mol_type="genomic DNA"
+                     /strain="HM-1:IMSS"
+                     /db_xref="taxon:294381"
+     repeat_region   complement(397..562)
+                     /rpt_family="SINE1"
+     gene            616..698
+                     /locus_tag="EHI_109370"
+     tRNA            616..698
+                     /locus_tag="EHI_109370"
+                     /product="tRNA-Ile"
+                     /note="anticodon TAT"
+     repeat_region   complement(756..1057)
+                     /rpt_family="LINE1"
+ORIGIN      
+        1 aaaaatagat aataagtgtt aatagaattg tcaattattc attactaata gatattaatc
+       61 acataaaaca tcattaaaag agtaatttct tttttactta ttatttagac tttctttttg
+      121 acttgtgaat atagtgtttt cttttgtttt aattatttat attattgtat gttcatcctt
+      181 ctttcttcat aactcttctt tttaaatcta tgtttgattt tttactttaa tttaaaaaaa
+      241 aattatattt tttattttct ttattttata atgaatgaac atttcgttac actatattat
+      301 tatgtctaat ttcatttagt tttagctaca tcaagtagta cttttctttt gctaatatat
+      361 tccatatata tttctaattt catttaataa atatcaattc ttatattaca acaataatat
+      421 ccaatcataa tacaccatta cattcattga aacattgatt aatccaaatc catattcaaa
+      481 tggatcagca aatctagata ataaataggg aaaccaaagc atgaacttat tttaaagttt
+      541 atgtgctatt tctgacttgc caattttgtt ttatattcaa aagcaaataa taaaatagaa
+      601 gaataaaaat aagaaggccc cgtagcacag tcggtagtgc atcgtactta taggaaagag
+      661 aaatgcgagg gtcgcgggtt cgatccccgc cgggaccatt ttctttttct tttttttatt
+      721 ttttttctta attaaaatta tcaaatttaa acatacaatt aattatgtat taatagattt
+      781 ggtttctgtt atttctgact cagggagatg aatttcatcg atttggcatt ttatagagca
+      841 tctatatagt atgtttgatt gtggtagagc cactatctaa taacatttag catggtttta
+      901 ataacatggt ttttaactta tttaaaaatg tcaatttcaa tttttatttt ttcatttatt
+      961 ctaatgtttt cagtatgtac taaactgttt attgaaatta ttatttcaat tatttgaaat
+     1021 ctcttaattt ctcaattttc atcagcttat tctttaa
+//
+LOCUS       DS571653                7067 bp    DNA     linear   CON 17-APR-2008
+DEFINITION  Entamoeba histolytica HM-1:IMSS scf_1104750518795 genomic scaffold,
+            whole genome shotgun sequence.
+ACCESSION   DS571653 AAFB02000000
+VERSION     DS571653.1  GI:169800220
+DBLINK      Project: 142
+KEYWORDS    WGS.
+SOURCE      Entamoeba histolytica HM-1:IMSS
+  ORGANISM  Entamoeba histolytica HM-1:IMSS
+            Eukaryota; Amoebozoa; Archamoebae; Entamoebidae; Entamoeba.
+REFERENCE   1  (bases 1 to 7067)
+  AUTHORS   Loftus,B., Anderson,I., Davies,R., Alsmark,U.C., Samuelson,J.,
+            Amedeo,P., Roncaglia,P., Berriman,M., Hirt,R.P., Mann,B.J.,
+            Nozaki,T., Suh,B., Pop,M., Duchene,M., Ackers,J., Tannich,E.,
+            Leippe,M., Hofer,M., Bruchhaus,I., Willhoeft,U., Bhattacharya,A.,
+            Chillingworth,T., Churcher,C., Hance,Z., Harris,B., Harris,D.,
+            Jagels,K., Moule,S., Mungall,K., Ormond,D., Squares,R.,
+            Whitehead,S., Quail,M.A., Rabbinowitsch,E., Norbertczak,H.,
+            Price,C., Wang,Z., Guillen,N., Gilchrist,C., Stroup,S.E.,
+            Bhattacharya,S., Lohia,A., Foster,P.G., Sicheritz-Ponten,T.,
+            Weber,C., Singh,U., Mukherjee,C., El-Sayed,N.M., Petri,W.A. Jr.,
+            Clark,C.G., Embley,T.M., Barrell,B., Fraser,C.M. and Hall,N.
+  TITLE     The genome of the protist parasite Entamoeba histolytica
+  JOURNAL   Nature 433 (7028), 865-868 (2005)
+   PUBMED   15729342
+REFERENCE   2  (bases 1 to 7067)
+  AUTHORS   Lorenzi,H., Amedeo,P., Inman,J., Schobel,S. and Caler,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAR-2007) The Institute for Genomic Research, 9712
+            Medical Center Drive, Rockville, MD 20850, USA
+COMMENT     This version of the project, JCVI-ESG2-1.0, represents 8x coverage
+            of the genome.
+FEATURES             Location/Qualifiers
+     source          1..7067
+                     /organism="Entamoeba histolytica HM-1:IMSS"
+                     /mol_type="genomic DNA"
+                     /strain="HM-1:IMSS"
+                     /db_xref="taxon:294381"
+     gene            <901..1653
+                     /locus_tag="EHI_165770"
+                     /old_locus_tag="57.t00014"
+                     /db_xref="Pathema:EHI_165770"
+     mRNA            join(<901..978,1033..1128,1180..1653)
+                     /locus_tag="EHI_165770"
+                     /old_locus_tag="57.t00014"
+                     /product="hypothetical protein"
+                     /note="transcript EHI_165770A"
+                     /db_xref="Pathema:EHI_165770"
+     CDS             join(901..978,1033..1128,1180..1632)
+                     /locus_tag="EHI_165770"
+                     /old_locus_tag="57.t00014"
+                     /note="encoded by transcript EHI_165770A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EAL48913.2"
+                     /db_xref="GI:169800221"
+                     /db_xref="Pathema:EHI_165770"
+                     /translation="MENRSVGIVMIGLPKVGKTTLVNQFCGLPVSEEYQQTEQEHTVN
+                     TVLTINKVGYRFTFNDCNGDSFLNARTTNNSMLSKGKIHILVASRSESDSGEFLQGQF
+                     RDINDRDGDNSPCYRLVYVTHSDENDDDNVVEKIKSFLPDGIKLFQFNALTQKEDIQS
+                     SLTDFLKRAVVEHQELFDGCVVSNTTSNSKSCNESSKKEKKGKKCVML"
+     gene            <3228..>4082
+                     /locus_tag="EHI_165780"
+                     /old_locus_tag="57.t00015"
+                     /db_xref="Pathema:EHI_165780"
+     mRNA            <3228..>4082
+                     /locus_tag="EHI_165780"
+                     /old_locus_tag="57.t00015"
+                     /product="RNA recognition motif domain containing protein"
+                     /note="transcript EHI_165780A"
+                     /db_xref="Pathema:EHI_165780"
+     CDS             3228..4082
+                     /locus_tag="EHI_165780"
+                     /old_locus_tag="57.t00015"
+                     /note="encoded by transcript EHI_165780A;
+                     GO_function: GO:0003676 - nucleic acid binding"
+                     /codon_start=1
+                     /product="RNA recognition motif domain containing protein"
+                     /protein_id="EAL48914.1"
+                     /db_xref="GI:56471336"
+                     /db_xref="Pathema:EHI_165780"
+                     /translation="MNTDEQHKTEGVDSEEVSVDHSEKTQKKEDQTNEKAPKISTYQS
+                     KYVPSKEQQDRDRRSLCITHLDVRTTKEDLIKLFSTVGKVISITIPVNHSGISKKYAY
+                     LEMDSIENKNKAIMSFNGTRIGKNEVMVVTKRMNVAGFNKRVPKNAQNQKQSCITEDP
+                     TEDRGIKELQKLIESESIKELEKSKETEDPTEDKGIKELQKLIESEEIKKPKESEGIK
+                     ELKKSKESKGIKKATNKTKKEKKRTTKINIVNNHNDTSEESSESMDNLVQNIVLGLRR
+                     NKSTEKDN"
+     gene            complement(<4204..>4668)
+                     /locus_tag="EHI_165790"
+                     /old_locus_tag="57.t00016"
+                     /db_xref="Pathema:EHI_165790"
+     mRNA            complement(<4204..>4668)
+                     /locus_tag="EHI_165790"
+                     /old_locus_tag="57.t00016"
+                     /product="hypothetical protein"
+                     /note="transcript EHI_165790A"
+                     /db_xref="Pathema:EHI_165790"
+     CDS             complement(4204..4668)
+                     /locus_tag="EHI_165790"
+                     /old_locus_tag="57.t00016"
+                     /note="encoded by transcript EHI_165790A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EAL48915.1"
+                     /db_xref="GI:56471337"
+                     /db_xref="Pathema:EHI_165790"
+                     /translation="MSVPPRSWQKPSQTHPHQQPASPQMNTPQYLSPYVPPIYPPIFT
+                     SPFTQFGGIENEMAQILMTIGMGKPLIVKTGQIIYQFIHELKIDNLVISLWKKIEEIP
+                     ITIPIKKMFWKIYIMLVGEEKNDRSGYLFLIGIFLMIPYLHRKFHNPTISFQ"
+     gene            <4818..>5861
+                     /locus_tag="EHI_165800"
+                     /old_locus_tag="57.t00017"
+                     /db_xref="Pathema:EHI_165800"
+     mRNA            <4818..>5861
+                     /locus_tag="EHI_165800"
+                     /old_locus_tag="57.t00017"
+                     /product="phosphoglycerate mutase family protein"
+                     /note="transcript EHI_165800A"
+                     /db_xref="Pathema:EHI_165800"
+     CDS             4818..5861
+                     /locus_tag="EHI_165800"
+                     /old_locus_tag="57.t00017"
+                     /note="encoded by transcript EHI_165800A;
+                     This functional annotation is a direct result of community
+                     participation in an Entamoeba Annotation Jamboree."
+                     /codon_start=1
+                     /product="phosphoglycerate mutase family protein"
+                     /protein_id="EAL48916.2"
+                     /db_xref="GI:169800222"
+                     /db_xref="Pathema:EHI_165800"
+                     /translation="MNERDDIKEEIKCINSKEYDKVIKGFKEIIKDKEIEHYEIIGEY
+                     IDLMNEQKEKIKGKKGVMMLFTFDCNDTHDQLPKISIIKEEKEGNEEINEEYDKLINN
+                     LQELHNEYTNQPKLFIVRHAVRHDYIDLKWVPTAQYPHDPPLHIDGIKQAEEVGRRMR
+                     HEKIDVIVSSPYLRATGTAREIAKYNNMKYGIEPGASEFLSKVNRKKVPEFDPIKYKD
+                     PYYDDQYQPIIKEVVLETWEEIQQRAFKTILELTKKYKRVCFVTHRSTQQAFMSKIIG
+                     KTIKDNYAFTSVCTFKPIETFPFFIPQRMNSYYHLRTFIETPIHNPNYYIEGNYKDMV
+                     RGDDGKILPSGYV"
+     gene            complement(5867..6244)
+                     /locus_tag="EHI_165810"
+                     /note="hypothetical protein, pseudogene"
+                     /pseudo
+     gene            complement(<6435..>7037)
+                     /locus_tag="EHI_165820"
+                     /db_xref="Pathema:EHI_165820"
+     mRNA            complement(<6435..>7037)
+                     /locus_tag="EHI_165820"
+                     /product="hypothetical protein"
+                     /note="transcript EHI_165820A"
+                     /db_xref="Pathema:EHI_165820"
+     CDS             complement(6435..7037)
+                     /locus_tag="EHI_165820"
+                     /note="encoded by transcript EHI_165820A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDS88874.1"
+                     /db_xref="GI:169800223"
+                     /db_xref="Pathema:EHI_165820"
+                     /translation="MVGSSIGVLSTATTAQAELIQQLQNSETASGVHRDKEYAEELIK
+                     AVEDVKSTAIELQQKIKEDNVNSDELVKVADKVGKKVEKVVVSCRAGTRTKGRSHKYK
+                     DLLDASKKLADATKNLLECAKKVDEFDDTPVVVQMNLPPPPPPVTEVEEEEDIETFGI
+                     DQYTLKEIEQQKKIFELEKKLEAAKKKKADLEELAKSFQN"
+ORIGIN      
+        1 tatggagctt ttatttaaat gagaattatt gataaacttt tatgctagat tttttttgaa
+       61 aaaagatttt aaacataatt taaacttcct ctttttttgt aaatttaaaa tgattaataa
+      121 ctcagaaaaa acttactaac tatattattt tatttttcaa aaactttata tctcatctaa
+      181 aatgttttaa cgtttactca tataccttgc aagcaaagaa tatataataa ataaactaat
+      241 aatttattgt ttattttatt tatttcatat gttgaagttt ctttggttag aatttataaa
+      301 aaaaacaaaa aaagtaatta aaataactgt tgttaaataa taagaagtac ttttttaaaa
+      361 agaatgaata atagaaagta cttcataact agactgacta aattgataat aatttctctt
+      421 ttcatttatt aaaaaattat ttctggagaa gattggctgt tatatttata taaatttatt
+      481 tttgtttatt ttacctcttt ttcaaagata ttttttttca tgtttttaag acatatattt
+      541 ttatcaaaat gatagtacct ccttatatca ttgtatgttc gactatcaaa cattgttttt
+      601 taaaaattct aacaacatgg tttttaacaa aaaattttaa acaataaaat tgttttagta
+      661 tttttttatt gcagcatcta actaaaataa attttgaaat aaagatatga aatttataaa
+      721 tactttttat taacaaaatt cattttcttt tgaataaaga aaagtgaaag atgaaaaatt
+      781 cttcttttac aacgaaaaaa aaatagaaaa aaattaagaa cttaaaaaaa aaacataaaa
+      841 aagaaacatg acagaaaagt ttgataattt taagtttaaa aatgagacta acaatattaa
+      901 atggaaaata gaagtgttgg gatagttatg attggattac caaaagttgg taaaacaacc
+      961 cttgtgaacc aattttgtgt ttgttatctt ttcattttaa gatttttatt aaatcacata
+     1021 atcactattt agggacttcc agtgagtgaa gaatatcaac aaactgaaca agaacataca
+     1081 gtgaatacag tactcacaat taacaaagta ggatatagat ttacatttgt tcgtttatta
+     1141 ttaatttatt ctaaatcaaa aaaaataact aataaataga atgactgtaa tggtgattct
+     1201 tttttaaatg ccagaactac taataactct atgctttcta aaggtaaaat tcatattctt
+     1261 gttgcttctc gatctgaatc agattctgga gaatttctac aaggtcaatt tagagatatc
+     1321 aatgatagag atggtgacaa tagtccatgt tataggttag tgtatgtaac acatagtgat
+     1381 gaaaatgatg atgacaatgt tgtagaaaaa attaagtctt ttcttccaga cggtataaaa
+     1441 ttgtttcaat ttaatgcttt aactcaaaaa gaagatattc aatcttctct aactgatttt
+     1501 ttgaaaagag cagttgtaga acatcaagaa ttgtttgatg gatgtgtcgt ttctaatact
+     1561 acttctaatt caaaatcatg caatgaatct tcaaaaaagg aaaagaaagg aaagaagtgt
+     1621 gttatgcttt aattactcaa ttgtttttca tttatttttt attgttctta aagcagtttt
+     1681 aacataaact taatttattt ttaaattact acaacaaatt ttatagaata attctttttt
+     1741 tagttcaagt ttatttctca caacttctgt tcttaatttt tatcttaatt cctttcaaaa
+     1801 aaaaaccaaa aaactattga aaaataaaat attctttcaa atgtttgtta taaaaatata
+     1861 tctttttgac aaataataaa tacaataaaa attattattt atatcatcat tcaataataa
+     1921 tttattgttt tcaatttaaa tgaataaaat aaaactataa taacatctaa taagaatatg
+     1981 tttataaatg aattattatt ttattaaata cttataataa atataattaa tttaatgaat
+     2041 ttactccata aaatgggtta agatctatat catattgttt tttttataat tgtatgtgac
+     2101 tattacatta atattttatc tcttcaaaat aaaaaataca tttaaattga ataaaaatat
+     2161 taattttaat atttctttca tgaagttata actcacaaat taaagtaaaa tgaaatatac
+     2221 cttatttgtt ttttttaaat ataactttta cttactaaca aatattatca aataaattta
+     2281 aattattttg ttgaatcaaa atcaaaaaaa aagattttaa ttggttttta attatacttc
+     2341 atatccaatt atttctgttg atatttgata cttttttttg ttcaaagaag gtaagattca
+     2401 aaaatttatg atatgtttgt tattcaaaat taacatttct tttaaaggaa taaacaaata
+     2461 aactttattt taaatagaaa gactcatagg actaacaacg gttatttgag aaaatactac
+     2521 tttagtatag tttaaaatgg ttttataata atgaaccaaa aactatcagt ataataagaa
+     2581 taaaaaaaag aattaaaaaa tacttcaaat gagtcaaacc tcatactgtt aaaaacttat
+     2641 acaattaaac tcgaataaac cacttcataa atctttctct tatttgtatt tgtaaaaaaa
+     2701 aaagagaata acaagagtac tattcattaa ttcgttattc tctttttaca tatttaatag
+     2761 atacttctct tttcttcaat tcattagttg ataatgttta ttaaattaat taattatttc
+     2821 acactcatta taacaaaact ttgttgatga agcattgaat caattagtta atcaaattca
+     2881 aattacacta ataagtacca acaccaacaa taacaaatgg ttagaaacaa aaattatttg
+     2941 aaaataaaat tataaaaatt aaatataaat attctccttt ttagagtgac tgttgttaac
+     3001 aattaacaat tcattaatat aatgaattat taaagaaaaa tgaagattta acatattatg
+     3061 tgaacaatcc aagaatagaa cattaatcaa aaaaaaataa aataaaataa aaacaaattt
+     3121 aagaaataca aaatagtaaa aataaataat aaataataga ataacttgtt tggtattaaa
+     3181 attaaaaaaa accctgaaaa acacaaaaga aaatttaaac aaataaaatg aacactgatg
+     3241 aacaacataa aactgaagga gtggatagtg aagaagtaag tgttgatcac agtgaaaaaa
+     3301 ctcaaaaaaa ggaagaccaa accaatgaaa aagctccaaa aatttctact tatcaatcaa
+     3361 aatatgtacc aagtaaagaa caacaagatc gagatcgtag atcactttgt attactcatc
+     3421 ttgatgttag aacaacaaaa gaggatttaa taaaactttt ttcaactgtt ggtaaggtta
+     3481 tatcaattac tattccagtt aatcactctg gtatctcaaa gaagtatgcc tacctcgaaa
+     3541 tggattctat tgaaaataaa aataaagcta taatgagttt taatggaaca agaattggaa
+     3601 aaaatgaagt tatggttgtt actaaacgta tgaatgtagc aggatttaat aaacgcgttc
+     3661 caaagaatgc tcaaaatcaa aaacaatctt gtattactga agatccaaca gaagatagag
+     3721 gtattaaaga attacaaaaa ttaatagaga gtgaaagtat taaggagtta gaaaaatcaa
+     3781 aagaaactga agatccaaca gaagataaag gtattaaaga attacaaaaa ttaatagaga
+     3841 gtgaagagat taaaaaacca aaagaaagtg aaggtattaa agagttaaaa aagtcaaaag
+     3901 aaagtaaagg tattaaaaaa gcaacgaata aaacaaaaaa agaaaagaaa agaactacta
+     3961 aaatcaatat tgtaaacaac cataatgaca cttcagaaga aagtagtgaa tctatggaca
+     4021 atttagttca aaacatcgtt ttaggacttc gtagaaataa aagtactgaa aaggataatt
+     4081 aaataaagaa aagttaataa taattgagtg ttaaaagacc aaaaagaatt actttttctg
+     4141 ttgtgtgttt ataaattcaa caaaggaaga tggaacaaat tttaatgaag aaaaaagaat
+     4201 aaattattga aaagagattg ttggattatg aaatttacgg tggagataag gaatcattaa
+     4261 aaatattcca atcaaaaaca aatatccact tctgtcgttc ttttcttctc ctaccaacat
+     4321 tatgtatatt ttccaaaaca tcttcttaat tggaatagtt ataggaatct cctctatctt
+     4381 tttccataaa ctaattacca agttatcaat ttttaattca tgaatgaatt gatatattat
+     4441 ttgtcctgtt tttacaataa gtggtttacc cattcctatt gtcattaaaa tttgagccat
+     4501 ttcattttct atccctccaa attgtgtaaa tggagaagta aaaattggtg ggtaaattgg
+     4561 aggaacatat ggtgataagt attgtggtgt attcatttgc ggtgaggctg gttgttggtg
+     4621 gggatgagtt tgagagggtt tttgccatga acgtggtgga actgacatgt tagttaaaga
+     4681 tgacaaataa gttttattta aaaagaactt aaaataaaat attccaaaat agcgttggtt
+     4741 agctaagcga aatggaagaa tatcataaca ctacaaaaga ctatgaaaat ccacggggga
+     4801 taattattta tatcaacatg aatgaaagag atgacataaa agaagaaatc aaatgtatta
+     4861 attcaaagga atatgataaa gttattaaag gatttaagga aattataaaa gataaagaaa
+     4921 ttgaacatta tgaaattatt ggagaatata ttgatttaat gaatgagcaa aaagaaaaaa
+     4981 taaaaggaaa aaaaggagta atgatgttat ttacctttga ttgtaatgac acacatgacc
+     5041 aattaccaaa aattagtatt ataaaagaag agaaagaagg aaatgaagag attaatgaag
+     5101 agtatgataa attaattaat aatcttcaag aattacataa tgaatacaca aaccaaccaa
+     5161 agttattcat tgtccgtcat gcagttaggc atgactacat cgatttaaaa tgggttccaa
+     5221 cagcacaata tccacatgac ccaccattac acatagatgg aattaaacaa gctgaagaag
+     5281 taggaagaag aatgagacat gaaaagattg atgttattgt tagttcacca tatttaagag
+     5341 caacaggaac agcaagagaa atagcaaaat ataataatat gaagtatgga atagagccag
+     5401 gtgcaagtga atttctgtct aaagtaaata gaaaaaaagt accagaattt gatccaatta
+     5461 aatataaaga tccatattat gatgaccaat atcaaccaat aattaaggaa gtcgtattag
+     5521 aaacatggga agaaattcag caacgagcat ttaaaacaat acttgaacta actaaaaaat
+     5581 ataaaagagt atgttttgta acacatagat ctacccaaca agcgtttatg tcaaaaataa
+     5641 taggaaaaac tatcaaagac aattatgcgt ttacatcagt atgcacgttt aaaccaattg
+     5701 aaacattccc attcttcatt ccacaaagaa tgaattctta ttatcatcta agaacattta
+     5761 tcgaaacacc aattcataat cctaattatt atattgaagg gaattataaa gatatggttc
+     5821 gaggagatga tggtaaaatt ttaccatcag gatatgtcta attgatttat tctttaacca
+     5881 aatcattaca atatgataaa tagcaaccag aaatcatgat ataaatagtg atatggtcta
+     5941 gtctttgaaa gaaatatcta agacaaatac tgttaggaag aagaatattt aataagtgat
+     6001 aagttgtaga attgaaatat aaagtaaatg aagcaagaca gaaacacaat attgctaagt
+     6061 tgttcatttt atttaaattg tgttttttgg catatcttct aaacatctta aatataaaaa
+     6121 tagcataaaa aatcccaaac aaatgagtta gtacattgac tccttcctca agaaggcatt
+     6181 ggggtcgttc atcatgggga gttaattggt ttctagcggt ttggatgtca cacaagaagc
+     6241 acataaagtc tatgagttta gtgatctgga gggtttggga ttgtcatttt ttcatcaatc
+     6301 agaattaatc attcaaacat cgatactttt cacttgtcac tttcctcttc taatcaagct
+     6361 tttaaaaaag atattttaat gaattaaaaa aaaaaataaa ataactttta ttttttgaac
+     6421 gtaaaaaaag tgatttaatt ttggaaagat ttagcaagtt cttctaaatc tgctttcttc
+     6481 tttttggcag cttctaattt cttttctaat tcaaagattt tcttttgttg ttcaatttct
+     6541 ttgagagtat attggtcaat accaaatgtt tcgatatctt cttcttcctc aacttcagtg
+     6601 acaggaggag gtggtggtgg taaattcatt tgaacaacaa caggtgtatc atcaaattca
+     6661 tctacctttt tagcacattc taagagattc tttgtggcat cagcaagttt ctttgaagca
+     6721 tccaaaagat ctttgtattt atgacttctt cctttagttc ttgttccagc tctacaagac
+     6781 acaacaactt tttccacttt cttaccaact ttatcagcta ctttaactaa ttcatcagaa
+     6841 ttaacattat cttctttaat tttttgttgt aattcaattg cagtactttt aacatcttct
+     6901 actgctttaa ttaattcctc tgcatattct ttatctctat gaacaccact cgcagtttca
+     6961 gagttttgga gttgttgaat taattctgct tgtgctgtag tagcagtaga taaaacacca
+     7021 atagatgaac caaccataac aagaactgct tcttgtaaag tagcttc
+//
+LOCUS       DS550576                2139 bp    DNA     linear   CON 08-DEC-2008
+DEFINITION  Entamoeba dispar SAW760 scf_1105229463253 genomic scaffold, whole
+            genome shotgun sequence.
+ACCESSION   DS550576 AANV02000000
+VERSION     DS550576.1  GI:165894801
+DBLINK      Project: 12914
+KEYWORDS    WGS.
+SOURCE      Entamoeba dispar SAW760
+  ORGANISM  Entamoeba dispar SAW760
+            Eukaryota; Amoebozoa; Archamoebae; Entamoebidae; Entamoeba.
+REFERENCE   1  (bases 1 to 2139)
+  AUTHORS   Lorenzi,H., Inman,J., Schobel,S., Amedeo,P. and Caler,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-DEC-2007) J. Craig Ventor Institute, 9704 Medical
+            Center Drive, Rockville, MD 20850, USA
+FEATURES             Location/Qualifiers
+     source          1..2139
+                     /organism="Entamoeba dispar SAW760"
+                     /mol_type="genomic DNA"
+                     /strain="SAW760"
+                     /db_xref="taxon:370354"
+     gene            complement(<61..>465)
+                     /locus_tag="EDI_089660"
+                     /db_xref="Pathema:EDI_089660"
+     mRNA            complement(join(<61..393,418..>465))
+                     /locus_tag="EDI_089660"
+                     /product="hypothetical protein"
+                     /note="transcript EDI_089660A"
+                     /db_xref="Pathema:EDI_089660"
+     CDS             complement(join(61..393,418..465))
+                     /locus_tag="EDI_089660"
+                     /note="encoded by transcript EDI_089660A"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="EDR22661.1"
+                     /db_xref="GI:165894802"
+                     /db_xref="Pathema:EDI_089660"
+                     /translation="MFPLLLYLFLFLFYVILVERKSHNLKVVSSILTVPTFLYIYMTS
+                     ITIFLHLLNLYIPFIILLVYTLFFYIIYTILYYFILSYTTYTTYSVLYYVTTTSFPYI
+                     LTIPINFITFITFTTFTTFYYLYF"
+     repeat_region   complement(192..237)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="ctata"
+                     /satellite="microsatellite"
+     repeat_region   464..598
+                     /rpt_type=tandem
+                     /rpt_unit_seq="tataa"
+                     /satellite="microsatellite"
+     repeat_region   complement(581..763)
+                     /rpt_type=tandem
+                     /rpt_unit_seq="ctata"
+                     /satellite="microsatellite"
+     repeat_region   919..1051
+                     /rpt_type=tandem
+                     /rpt_unit_seq="ta"
+                     /satellite="microsatellite"
+     repeat_region   967..1146
+                     /rpt_type=tandem
+                     /rpt_unit_seq="tataa"
+                     /satellite="microsatellite"
+     repeat_region   1324..1484
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaa"
+                     /satellite="microsatellite"
+     repeat_region   1658..1790
+                     /rpt_type=tandem
+                     /rpt_unit_seq="ta"
+                     /satellite="microsatellite"
+     repeat_region   1706..1885
+                     /rpt_type=tandem
+                     /rpt_unit_seq="tataa"
+                     /satellite="microsatellite"
+     repeat_region   2063..2136
+                     /rpt_type=tandem
+                     /rpt_unit_seq="taaa"
+                     /satellite="microsatellite"
+ORIGIN      
+        1 tatgcccatt atcagataag tacataagta cagaggtgga tgatatctag aacacatata
+       61 tcaaaagtaa agataataaa aggtagtaaa ggtagtaaag gtaataaagg taataaagtt
+      121 aatagggata gtaagaatat aaggaaagga agtagtagtt acatagtata aaacactata
+      181 agtagtataa gtagtataag atagtataaa atagtataaa atagtataga taatataaaa
+      241 gaatagagtg tacactaaaa gtataataaa aggaatatat aagtttaata gatgtaaaaa
+      301 tatagtaata gatgtcatat agatgtacaa aaaggtggga acggtgagta tcgaactcac
+      361 gaccttaaga ttatgagact tacgctctac caactgagct acgttcccta ttcaaacaat
+      421 aacatagaat aaaaacaaaa atagatataa taatagtgga aacatataat aatagtgtat
+      481 atctatatta ataggttata gtgtataaag tatagatata ataatagtct ataaagtata
+      541 aagtataaaa tataaaatat aaagtataaa atataaaata taaagtataa atataataat
+      601 agtctatagt ctatagtcta taaagtataa agtataaagt atagataata gaatagtgta
+      661 tagtctataa ataataaaaa taataatagt atataaagta tagtgtataa atagaatagt
+      721 gtatagtata tataatataa ataggataag tataatagta tagataaagg tgtatatata
+      781 atataaggat aagttataga taaaaagacg agcatagcag ggatcgaacc tgcaatcctc
+      841 agatccgaag tctgatgcgt ttccattgcg ccatatgccc tataacattc ataaaatact
+      901 gggaagataa aaaaagggat atataagtta tataaatgtt ataagttata taaatgttat
+      961 aagttatata aatgatataa gttatataaa tgatataagt tatataaatg atatagatat
+     1021 gatatagata tagatataga tatgatatat aaaagacata agaaagataa gatataaaat
+     1081 aaacagacta ggaataataa taaaagtaca tagtcatata ataatataat aatataagaa
+     1141 aatatatgat agtcatagtc ataagtaagt aggataacgg taggttcata tcaagtagga
+     1201 tacacccgtt cccatccgaa cacggaagta aagatgctta gagcctgatc agtaccatta
+     1261 tgttcacaca gatgggaacg tcaggtaatc tacctttttg tttttatata gagagttttt
+     1321 ttttaaataa aggaataaag gaataaagga atatagaaat atagaaatat agaaataaag
+     1381 gaatatagaa ataaatacat acatagatat ataaataaag atatatataa ataaataaat
+     1441 aaagaaatat atatatatat ataaataaag aaatatatat ataatagaat ataaaggtta
+     1501 tagaagttga aagggattaa agtaaagtaa tctagtcaat aaaaagacga gcttggcagg
+     1561 gatcgaacct gcaatcccca gattcgtagt ctgatgcgtt tccattgcgc cacaagccct
+     1621 ataacattca taaaatactg ggaagataaa aaaagggata tataagttat ataaatgtta
+     1681 taagttatat aaatgttata agttatataa atgatataag ttatataaat gatataagtt
+     1741 atataaatga tatagatatg atatagatat agatatagat atgatatata aaagacataa
+     1801 gaaagataag atataaaata aacagactag gaataataat aaaagtacat agtcatataa
+     1861 taatataata atataagaaa atatatgata gtcatagtca taagtaagta ggataacggt
+     1921 aggttcatat caagtaggat acacccgttc ccatccgaac acggaagtaa agatgcttag
+     1981 agcctgatca gtaccattat gttcacacag atgggaacgt caggtaatct acctttttgt
+     2041 ttttatatag agagtttttt tttaaataaa ggaataaagg aataaaggaa tatagaaata
+     2101 tagaaatata gaaataaagg aatatagaaa taaatacat
+//

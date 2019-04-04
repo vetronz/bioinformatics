@@ -59,3 +59,7 @@ def combination(n, k):
     num = math.factorial(n)
     den = math.factorial(n-k)*math.factorial(k)
     return num/den
+
+
+s = 'GATATATGCATATACTT'
+t = 'ATAT'
