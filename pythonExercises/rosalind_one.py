@@ -1,3 +1,5 @@
+# https://www.dreamincode.net/forums/topic/349405-regex-finditer-with-overlaps/
+
 s = ''
 
 a = 0
